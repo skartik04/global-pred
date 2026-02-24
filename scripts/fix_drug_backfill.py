@@ -5,9 +5,9 @@ import pandas as pd
 
 # Paths are relative to script location (only_open folder)
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-OLD_JSON_PATH = os.path.join(SCRIPT_DIR, "csv_feats_gpt_oss.json")
+OLD_JSON_PATH = os.path.join(SCRIPT_DIR, "csv_feats_gpt_oss_trial.json")
 CSV_PATH = os.path.join(os.path.dirname(os.path.dirname(SCRIPT_DIR)), 'global', 'data', 'combined_dataset.csv')
-NEW_JSON_PATH = os.path.join(SCRIPT_DIR, "csv_backfilled_gpt_oss.json")
+NEW_JSON_PATH = os.path.join(SCRIPT_DIR, "csv_backfilled_gpt_oss_trial.json")
 
 MED_STATUS_COL = "Medication status"
 
@@ -27,11 +27,11 @@ DRUG_KEYS = [
     "drug_carbamazepine",
 ]
 
-# Visit_2 triggers that imply the drug existed before Visit_2
-COPY_BACK_TEMP = {"ongoing", "dose_change", "stop", "previous"}
+# Visit_2 Exposure_before values that imply the drug existed before Visit_2
+COPY_BACK_EXPOSURES = {"on_arrival", "past_tried"}
 
-USE_RE = re.compile(r"Use_status:\s*([a-z_]+)", re.I)
-TEMP_RE = re.compile(r"Temporal_language:\s*([a-z_]+)", re.I)
+EXPOSURE_RE = re.compile(r"Exposure_before:\s*([a-z_]+)", re.I)
+ACTION_RE = re.compile(r"Action_taken:\s*([a-z_]+)", re.I)
 
 def norm(s) -> str:
     if s is None:
@@ -47,14 +47,14 @@ def is_not_mentioned(ans: str) -> bool:
     v = norm_lower(ans)
     return v == "" or v.startswith("not mentioned")
 
-def extract_use_temp(answer: str):
+def extract_exposure_action(answer: str):
     if not answer or is_not_mentioned(answer):
         return None, None
-    u = USE_RE.search(answer)
-    t = TEMP_RE.search(answer)
-    use = u.group(1).lower() if u else None
-    temp = t.group(1).lower() if t else None
-    return use, temp
+    e = EXPOSURE_RE.search(answer)
+    a = ACTION_RE.search(answer)
+    exposure = e.group(1).lower() if e else None
+    action = a.group(1).lower() if a else None
+    return exposure, action
 
 def is_not_on_medication(med_status_val: str) -> bool:
     v = norm_lower(med_status_val)
@@ -87,15 +87,15 @@ def safe_feat_answer(visit_feats: dict, key: str) -> str:
 def set_backfill(visit_feats: dict, drug: str, as_previous: bool):
     if as_previous:
         visit_feats[drug] = {
-            "Answer": "Use_status: previous; Temporal_language: backfilled",
-            "Reasoning": "Visit 1 medication status indicates baseline meds were left blank; Visit 2 implies prior use for this drug.",
+            "Answer": "Exposure_before: past_tried; Action_taken: no_action",
+            "Reasoning": "Backfilled: Visit 1 baseline meds were not documented; Visit 2 indicates this drug was used before Visit 2 but already stopped.",
             "Supporting_Text": "",
             "Confidence": "med",
         }
     else:
         visit_feats[drug] = {
-            "Answer": "Use_status: current; Temporal_language: backfilled",
-            "Reasoning": "Visit 1 medication status indicates baseline meds were left blank; Visit 2 implies this drug was already in use.",
+            "Answer": "Exposure_before: on_arrival; Action_taken: continue",
+            "Reasoning": "Backfilled: Visit 1 baseline meds were not documented; Visit 2 indicates this drug was already active going into Visit 2, so it was being continued at Visit 1.",
             "Supporting_Text": "",
             "Confidence": "med",
         }
@@ -202,15 +202,15 @@ def main():
                 continue  # "if not mentioned then copy otherwise stfu"
 
             v2_ans = safe_feat_answer(v2, drug)
-            _, temp2 = extract_use_temp(v2_ans)
+            exposure2, _ = extract_exposure_action(v2_ans)
 
-            if temp2 not in COPY_BACK_TEMP:
+            if exposure2 not in COPY_BACK_EXPOSURES:
                 continue
 
-            # Fill only this drug
-            if temp2 in {"previous", "stop"}:
+            # Exposure_before from Visit_2 directly encodes what was true at Visit_1
+            if exposure2 == "past_tried":
                 set_backfill(v1, drug, as_previous=True)
-            else:  # ongoing, dose_change
+            else:  # on_arrival
                 set_backfill(v1, drug, as_previous=False)
 
             changed_this_patient += 1

@@ -34,8 +34,9 @@ INPUT ASSUMPTIONS
   - "Reasoning"
   - "Supporting_Text"
   - "Confidence"
-- Drug answers may follow a structured template like:
-  "Use_status: <current|previous|unclear>; Temporal_language: <ongoing|initiation|dose_change|stop|unclear|backfilled>"
+- Drug answers follow a structured template like:
+  "Exposure_before: <on_arrival|past_tried|no_prior_exposure>; Action_taken: <continue|start|stop|no_action>"
+  Where Exposure_before is the drug's status BEFORE this visit's plan, and Action_taken is what the clinician did at this visit.
 
 OUTPUT REQUIREMENTS
 - Output ONLY a single JSON object representing the cumulative merged state of all provided visits.
@@ -163,17 +164,24 @@ Cumulative drug Answer format
   Use only the visits that were provided.
 
 Drug state wording
-- Use the structured signals if present (Use_status, Temporal_language), but convert into a clear timeline.
+- Use the structured signals (Exposure_before, Action_taken) to build a clear visit-anchored timeline.
 - Normalize time language. Do not carry "today" or "yesterday" into the final summary without anchoring.
 
-Latest_state interpretation (if you need a compact summary at the end of the timeline)
-- ongoing means continued use at that visit
-- dose_change means dose was adjusted at that visit
-- initiation means started/added at that visit
-- stop means stopped/discontinued at that visit
-- previous means historical use only at that visit
-- unclear means mentioned but not clear whether current
-- backfilled means treated as present historically unless contradicted by stop
+Field definitions for reading per-visit drug answers:
+- Exposure_before: on_arrival = drug was active/ongoing going into this visit
+- Exposure_before: past_tried = drug was tried before this visit but already stopped
+- Exposure_before: no_prior_exposure = no prior use; drug is being mentioned for the first time
+- Action_taken: continue = clinician kept the drug going at this visit (possibly with dose change)
+- Action_taken: start = drug newly initiated at this visit
+- Action_taken: stop = drug discontinued at this visit
+- Action_taken: no_action = no plan change; drug mentioned historically only
+- Backfilled entries (noted in Reasoning) = inferred retroactively from a later visit; treat as med with confidence: med
+
+Carrying drug history forward across visits:
+- If Action_taken at Visit N is "continue" or "start", the drug is active going into Visit N+1 (Exposure_before: on_arrival).
+- If Action_taken at Visit N is "stop", the drug is stopped going into Visit N+1 (Exposure_before: past_tried).
+- If Action_taken at Visit N is "no_action" with Exposure_before: past_tried, it remains past_tried at Visit N+1.
+- Always preserve the full trial history: if a drug was ever tried and stopped, that must remain visible in the cumulative Answer even if later visits do not mention it.
 
 Drug Supporting_Text
 - Concatenate only key snippets that justify major medication events across visits.

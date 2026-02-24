@@ -287,8 +287,8 @@ async def main_async():
     key_path = os.path.join(script_dir, ".env")
 
     # Input/Output Files (in only_open folder)
-    input_filename = "csv_backfilled_gpt_oss.json"    # Input: backfilled extraction results
-    output_filename = "csv_reconciled_gpt_oss.json"   # Output: reconciled cumulative results
+    input_filename = "csv_backfilled_gpt_oss_trial.json"    # Input: backfilled extraction results
+    output_filename = "csv_reconciled_gpt_oss_trial.json"   # Output: reconciled cumulative results
     prompt_filename = "reconc_prompt.txt"             # Reconciliation prompt
     
     # Processing Settings

@@ -200,7 +200,7 @@ Medical History / History of Presenting Illness: {safe_get('History of Presentin
 Detailed Description of Seizure History: {safe_get('Detailed description of seizure history')}
 Age of Onset of Seizure: {safe_get('Age of onset of seizure')}
 Duration of Seizure: {safe_get('Duration of Seizure')}
-Current Medications / Drug Regimen: {safe_get('Current drug regimen')}
+Prior Medications / Drug Regimen (prior drug list; may also include a new prescription plan, sometimes marked with a date): {safe_get('Current drug regimen')}
 Current Dose: {safe_get('Current dose')}
 """
 
@@ -275,7 +275,7 @@ async def main_async():
         return
 
     csv_path = os.path.join(os.path.dirname(os.path.dirname(script_dir)), 'global', 'data', 'combined_dataset.csv')
-    num_entries_to_process = 400  # FULL RUN
+    num_entries_to_process = 6  # FULL RUN
     max_concurrency = 8  # parallel API calls
     prompt_path = os.path.join(script_dir, "extract_prompt.txt")
     try:
@@ -292,7 +292,7 @@ async def main_async():
     )
 
     if patient_responses:
-        save_results(patient_responses, "csv_feats_gpt_oss")
+        save_results(patient_responses, "csv_feats_gpt_oss_trial")
 
 
 if __name__ == "__main__":

@@ -1,0 +1,1554 @@
+{
+  "1_Nanyonga Aisha": {
+    "Visit_1": {
+      "Age_Years": {
+        "Answer": "5",
+        "Reasoning": "The note explicitly states the patient is 5 years old.",
+        "Supporting_Text": "Patient Age: 5",
+        "Confidence": "high"
+      },
+      "Sex_Female": {
+        "Answer": "Yes",
+        "Reasoning": "Gender is explicitly given as female.",
+        "Supporting_Text": "Patient Gender: F",
+        "Confidence": "high"
+      },
+      "OnsetTimingYears": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The note lists \"Age of Onset of Seizure: Unknown\", providing no usable duration.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "SeizureFreq": {
+        "Answer": "Generalised convulsions 2 days ago",
+        "Reasoning": "The only seizure information describes a recent generalized convulsion occurring two days prior.",
+        "Supporting_Text": "Generalised convulsions 2 days ago",
+        "Confidence": "high"
+      },
+      "StatusOrProlonged": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "No mention of status epilepticus or prolonged seizures is present.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "CognitivePriority": {
+        "Answer": "Cerebral palsy with perinatal asphyxia noted.",
+        "Reasoning": "Cerebral palsy and perinatal asphyxia are neurodevelopmental conditions indicating developmental impairment.",
+        "Supporting_Text": "Cerebral Palsy following perinatal asphyxia",
+        "Confidence": "high"
+      },
+      "Risk_Factors": {
+        "Answer": "Possible risk factors are: perinatal_complication.",
+        "Reasoning": "Perinatal asphyxia is explicitly mentioned, matching the perinatal_complication risk factor.",
+        "Supporting_Text": "perinatal asphyxia",
+        "Confidence": "high"
+      },
+      "SeizureType": {
+        "Answer": "Generalized convulsive seizures.",
+        "Reasoning": "The seizure description indicates a generalized convulsive event.",
+        "Supporting_Text": "Generalised convulsions 2 days ago",
+        "Confidence": "high"
+      },
+      "drug_clobazam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The drug clobazam does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_clonazepam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The drug clonazepam does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_valproate": {
+        "Answer": "Exposure_before: on_arrival; Action_taken: continue",
+        "Reasoning": "The note states the patient was already taking sodium valproate and the plan is to continue it.",
+        "Supporting_Text": "currently child is on sodium valproate (dose unknown) | Continue Na Valproate 100 mg morning × 1/52",
+        "Confidence": "high"
+      },
+      "drug_ethosuximide": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The drug ethosuximide does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_levetiracetam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The drug levetiracetam does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_lamotrigine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The drug lamotrigine does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenobarbital": {
+        "Answer": "Exposure_before: past_tried; Action_taken: no_action",
+        "Reasoning": "The note indicates prior use of phenobarbital but no current plan to continue or start it.",
+        "Supporting_Text": "has previously been on phenobarbital",
+        "Confidence": "high"
+      },
+      "drug_phenytoin": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The drug phenytoin does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_topiramate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The drug topiramate does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_carbamazepine": {
+        "Answer": "Exposure_before: past_tried; Action_taken: no_action",
+        "Reasoning": "Tegretol (carbamazepine) is mentioned as a prior medication with no current plan to continue or start.",
+        "Supporting_Text": "also Tegretol",
+        "Confidence": "high"
+      }
+    },
+    "Visit_2": {
+      "Age_Years": {
+        "Answer": "Visit 1: 5. Visit 2: 6.0.",
+        "Reasoning": "Both visits provided explicit ages; Visit 1 recorded 5 years, Visit 2 recorded 6.0 years, reflecting the patient’s aging.",
+        "Supporting_Text": "Patient Age: 5 | 6 year old female",
+        "Confidence": "high"
+      },
+      "Sex_Female": {
+        "Answer": "Yes",
+        "Reasoning": "Both visits consistently indicated the patient is female.",
+        "Supporting_Text": "Patient Gender: F | Patient Gender: F",
+        "Confidence": "high"
+      },
+      "OnsetTimingYears": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Neither visit mentioned seizure onset timing, so the information remains unavailable.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "SeizureFreq": {
+        "Answer": "Visit 1: Generalised convulsions occurred 2 days before Visit 1. Visit 2: One seizure episode reported.",
+        "Reasoning": "Visit 1 described a generalized convulsion occurring 2 days before that visit; this relative timing was anchored to Visit 1. Visit 2 reported a single seizure episode without relative timing.",
+        "Supporting_Text": "Generalised convulsions 2 days ago | Daddy reports that she has one episode of seizure attack.",
+        "Confidence": "high"
+      },
+      "StatusOrProlonged": {
+        "Answer": "Visit 1: Not mentioned. Visit 2: No prolonged seizures described; episode lasted few seconds.",
+        "Reasoning": "Visit 1 did not mention status epilepticus; Visit 2 explicitly noted no prolonged seizures, with the episode lasting only a few seconds.",
+        "Supporting_Text": "Duration: few seconds.",
+        "Confidence": "high"
+      },
+      "CognitivePriority": {
+        "Answer": "Visit 1: Cerebral palsy with perinatal asphyxia noted. Visit 2: Cerebral palsy noted.",
+        "Reasoning": "Both visits noted cerebral palsy; Visit 1 added perinatal asphyxia, while Visit 2 reiterated CP.",
+        "Supporting_Text": "Cerebral Palsy following perinatal asphyxia | managed for CP",
+        "Confidence": "high"
+      },
+      "Risk_Factors": {
+        "Answer": "Possible risk factors are: perinatal_complication.",
+        "Reasoning": "Visit 1 identified perinatal complication as a possible risk factor; Visit 2 mentioned no additional risk factors. The union retains perinatal_complication.",
+        "Supporting_Text": "perinatal asphyxia",
+        "Confidence": "high"
+      },
+      "SeizureType": {
+        "Answer": "Visit 1: Generalized convulsive seizures. Visit 2: Seizure type not clearly described.",
+        "Reasoning": "Visit 1 classified the seizure as generalized convulsive. Visit 2 did not provide a clear classification, so the earlier description is retained and the later uncertainty noted.",
+        "Supporting_Text": "Generalised convulsions 2 days ago | one episode of seizure attack",
+        "Confidence": "high"
+      },
+      "drug_clobazam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication was not mentioned in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_clonazepam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication was not mentioned in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_valproate": {
+        "Answer": "Visit 1: Exposure_before: on_arrival; Action_taken: continue. Visit 2: Exposure_before: on_arrival; Action_taken: continue.",
+        "Reasoning": "Both visits indicated the patient was already on sodium valproate upon arrival and the plan was to continue it.",
+        "Supporting_Text": "currently child is on sodium valproate (dose unknown) | Continue Na Valproate 100 mg morning × 1/52 | on Sodium Valproate | Sodium Valproate 150 mg BD × 3/12",
+        "Confidence": "high"
+      },
+      "drug_ethosuximide": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication was not mentioned in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_levetiracetam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication was not mentioned in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_lamotrigine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication was not mentioned in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenobarbital": {
+        "Answer": "Visit 1: Exposure_before: past_tried; Action_taken: no_action.",
+        "Reasoning": "Visit 1 recorded prior use of phenobarbital with no current action; Visit 2 did not mention the drug, so the earlier history is retained.",
+        "Supporting_Text": "has previously been on phenobarbital",
+        "Confidence": "high"
+      },
+      "drug_phenytoin": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication was not mentioned in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_topiramate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication was not mentioned in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_carbamazepine": {
+        "Answer": "Visit 1: Exposure_before: past_tried; Action_taken: no_action.",
+        "Reasoning": "Visit 1 recorded prior use of carbamazepine (Tegretol) with no current action; Visit 2 omitted the drug, so the earlier history is retained.",
+        "Supporting_Text": "also Tegretol",
+        "Confidence": "high"
+      }
+    },
+    "Visit_3": {
+      "Age_Years": {
+        "Answer": "Visit 1: 5. Visit 2: 6.0. Visit 3: 6.5.",
+        "Reasoning": "Ages reported at each visit were 5 (Visit 1), 6.0 (Visit 2), and 6.5 years (Visit 3); merged chronologically.",
+        "Supporting_Text": "Patient Age: 5 | 6 year old female | 6 6/12 old patient",
+        "Confidence": "high"
+      },
+      "Sex_Female": {
+        "Answer": "Yes",
+        "Reasoning": "All visits consistently recorded female gender; earliest value retained.",
+        "Supporting_Text": "Patient Gender: F | Patient Gender: F | Patient Gender: F",
+        "Confidence": "high"
+      },
+      "OnsetTimingYears": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "No visit provided onset timing; remains not mentioned.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "SeizureFreq": {
+        "Answer": "Visit 1: Generalised convulsions 2 days before Visit 1. Visit 2: One seizure episode reported.",
+        "Reasoning": "Visit 1 described a generalized convulsion occurring 2 days before Visit 1; Visit 2 reported one seizure episode without relative timing. Visit 3 did not mention frequency, so the most recent non‑missing information (Visit 2) is retained.",
+        "Supporting_Text": "Generalised convulsions 2 days ago | Daddy reports that she has one episode of seizure attack",
+        "Confidence": "high"
+      },
+      "StatusOrProlonged": {
+        "Answer": "Visit 2: No prolonged seizures described; episode lasted few seconds.",
+        "Reasoning": "Only Visit 2 mentioned that seizures were brief and no prolonged episodes; later visits did not mention, so retained.",
+        "Supporting_Text": "Duration: few seconds.",
+        "Confidence": "high"
+      },
+      "CognitivePriority": {
+        "Answer": "Visit 1: Cerebral palsy with perinatal asphyxia noted. Visit 2: Cerebral palsy noted, indicating developmental impairment. Visit 3: Cerebral palsy noted, indicating developmental impairment.",
+        "Reasoning": "Cerebral palsy noted at all visits, with Visit 1 additionally specifying perinatal asphyxia; all statements preserved chronologically.",
+        "Supporting_Text": "Cerebral Palsy following perinatal asphyxia | managed for CP | 6 6/12 old patient with cerebral palsy and epilepsy",
+        "Confidence": "high"
+      },
+      "Risk_Factors": {
+        "Answer": "Possible risk factors are: perinatal_complication.",
+        "Reasoning": "Perinatal complication identified in Visit 1; later visits reported none, so union yields perinatal_complication.",
+        "Supporting_Text": "perinatal asphyxia",
+        "Confidence": "high"
+      },
+      "SeizureType": {
+        "Answer": "Visit 1: Generalized convulsive seizures. Visit 2: Seizure type not clearly described. Visit 3: Focal seizures involving the lips.",
+        "Reasoning": "Visit 1 classified seizures as generalized convulsive; Visit 2 lacked clear classification; Visit 3 identified focal seizures involving the lips. All retained with visit anchors.",
+        "Supporting_Text": "Generalised convulsions 2 days ago | one episode of seizure attack | seizures involving the lips",
+        "Confidence": "high"
+      },
+      "drug_clobazam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Clobazam was never referenced in any of the three visits.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_clonazepam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Clonazepam was never referenced in any of the three visits.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_valproate": {
+        "Answer": "Visit 1: Exposure_before: on_arrival; Action_taken: continue. Visit 2: Exposure_before: on_arrival; Action_taken: continue. Visit 3: Exposure_before: on_arrival; Action_taken: continue.",
+        "Reasoning": "Each visit indicated the patient was already on sodium valproate and the plan was to continue; timeline recorded for each visit.",
+        "Supporting_Text": "currently child is on sodium valproate (dose unknown) | Continue Na Valproate 100 mg morning × 1/52 | on Sodium Valproate | Sodium Valproate 150 mg BD × 3/12 | currently on sodium valproate at 20mg/ kg/day | Tabs Sodium Valproate 150 mg bd × 3/12",
+        "Confidence": "high"
+      },
+      "drug_ethosuximide": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Ethosuximide was never referenced in any of the three visits.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_levetiracetam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Levetiracetam was never referenced in any of the three visits.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_lamotrigine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Lamotrigine was never referenced in any of the three visits.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenobarbital": {
+        "Answer": "Visit 1: Exposure_before: past_tried; Action_taken: no_action.",
+        "Reasoning": "Visit 1 indicated prior use of phenobarbital with no current action; later visits did not mention the drug, so the earlier history is retained.",
+        "Supporting_Text": "has previously been on phenobarbital",
+        "Confidence": "high"
+      },
+      "drug_phenytoin": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Phenytoin was never referenced in any of the three visits.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_topiramate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Topiramate was never referenced in any of the three visits.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_carbamazepine": {
+        "Answer": "Visit 1: Exposure_before: past_tried; Action_taken: no_action.",
+        "Reasoning": "Visit 1 indicated prior use of carbamazepine (Tegretol) with no current action; later visits did not mention the drug, so the earlier history is retained.",
+        "Supporting_Text": "also Tegretol",
+        "Confidence": "high"
+      }
+    }
+  },
+  "2_Mwania Sheldon": {
+    "Visit_1": {
+      "Age_Years": {
+        "Answer": "1.8",
+        "Reasoning": "Age is explicitly given as 1 year and 5/6 months, which is approximately 1.8 years.",
+        "Supporting_Text": "Patient Age: 1  5/6",
+        "Confidence": "high"
+      },
+      "Sex_Female": {
+        "Answer": "No",
+        "Reasoning": "Gender is listed as male (M).",
+        "Supporting_Text": "Patient Gender: M",
+        "Confidence": "high"
+      },
+      "OnsetTimingYears": {
+        "Answer": "0.3",
+        "Reasoning": "Seizure onset age is 1.5 years; current age is ~1.8 years, giving a duration of about 0.3 years.",
+        "Supporting_Text": "Age of Onset of Seizure: 1 year 6/12 months | Patient Age: 1  5/6",
+        "Confidence": "high"
+      },
+      "SeizureFreq": {
+        "Answer": "4 seizures since August 2022, most recent yesterday",
+        "Reasoning": "The note specifies the number of seizures (4) and the time frame (since August 2022, with the last one yesterday).",
+        "Supporting_Text": "The child has had convulsions 4 times since August 2022 (last one was yesterday)",
+        "Confidence": "high"
+      },
+      "StatusOrProlonged": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The note does not contain any information about status epilepticus or prolonged seizures.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "CognitivePriority": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "No developmental, behavioral, or psychiatric problems are described in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "Risk_Factors": {
+        "Answer": "Possible risk factors are: family_history_epilepsy.",
+        "Reasoning": "Family history of seizure disorder is explicitly mentioned, which is a recognized epilepsy risk factor.",
+        "Supporting_Text": "There is history of seizure disorder in the family (maternal grandfather)",
+        "Confidence": "high"
+      },
+      "SeizureType": {
+        "Answer": "Focal onset seizures progressing to generalized convulsions.",
+        "Reasoning": "Seizure description indicates a focal onset (right limbs) that evolved to involve the whole body, consistent with focal onset evolving to generalized convulsive seizures.",
+        "Supporting_Text": "convulsions that started with the right upper and lower limbs that later progressed to involve the whole body",
+        "Confidence": "high"
+      },
+      "drug_clobazam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Drug name does not appear in this note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_clonazepam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Drug name does not appear in this note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_valproate": {
+        "Answer": "Exposure_before: on_arrival; Action_taken: continue",
+        "Reasoning": "Backfilled: Visit 1 baseline meds were not documented; Visit 2 indicates this drug was already active going into Visit 2, so it was being continued at Visit 1.",
+        "Supporting_Text": "",
+        "Confidence": "med"
+      },
+      "drug_ethosuximide": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Drug name does not appear in this note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_levetiracetam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Drug name does not appear in this note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_lamotrigine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Drug name does not appear in this note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenobarbital": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Drug name does not appear in this note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenytoin": {
+        "Answer": "Exposure_before: no_prior_exposure; Action_taken: start",
+        "Reasoning": "The note states the patient had not been on any anticonvulsant before and was started on phenytoin today, indicating no prior exposure and a start action.",
+        "Supporting_Text": "was not on anticonvulsant medication till yesterday when he was started on phenytoin syrup 5 mls bd",
+        "Confidence": "high"
+      },
+      "drug_topiramate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Drug name does not appear in this note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_carbamazepine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Drug name does not appear in this note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      }
+    },
+    "Visit_2": {
+      "Age_Years": {
+        "Answer": "Visit 1: 1.8 years. Visit 2: 2.5 years.",
+        "Reasoning": "Both visits provide an explicit age. The child was 1.8 years old at Visit 1 and 2.5 years old at Visit 2, showing the expected increase with time.",
+        "Supporting_Text": "Patient Age: 1  5/6 | 2 1/2 year old male",
+        "Confidence": "high"
+      },
+      "Sex_Female": {
+        "Answer": "Visit 1: No. Visit 2: No.",
+        "Reasoning": "Sex was documented as male (No) in both visits; the information is consistent across time.",
+        "Supporting_Text": "Patient Gender: M | Patient Gender: M",
+        "Confidence": "high"
+      },
+      "OnsetTimingYears": {
+        "Answer": "Visit 1: 0.3 years. Visit 2: 0.8 years.",
+        "Reasoning": "Visit 1 calculated duration from onset (1.5 y) to current age (≈1.8 y) as 0.3 y. Visit 2 recalculated based on onset in August 2022 and the visit date (June 2023) as ≈0.8 y. Both values are retained with visit anchors.",
+        "Supporting_Text": "Age of Onset of Seizure: 1 year 6/12 months | Patient Age: 1  5/6 | seizure onset August 2022",
+        "Confidence": "med"
+      },
+      "SeizureFreq": {
+        "Answer": "Visit 1: 4 seizures since August 2022, most recent 1 day before Visit 1. Visit 2: One seizure since medication started.",
+        "Reasoning": "Visit 1 reported four seizures since August 2022 with the last occurring \"yesterday\"; this was normalized to 1 day before Visit 1. Visit 2 noted a single seizure after medication initiation. Both statements are kept with clear timing.",
+        "Supporting_Text": "The child has had convulsions 4 times since August 2022 (last one was yesterday) | since medication began he had one episode of seizure attack",
+        "Confidence": "high"
+      },
+      "StatusOrProlonged": {
+        "Answer": "Visit 1: Not mentioned. Visit 2: Prolonged seizure lasting 20 minutes described.",
+        "Reasoning": "No status epilepticus or prolonged seizure was documented at Visit 1. Visit 2 explicitly described a 20‑minute prolonged seizure, which is added to the cumulative record.",
+        "Supporting_Text": "duration: 20 min",
+        "Confidence": "high"
+      },
+      "CognitivePriority": {
+        "Answer": "Visit 1: Not mentioned. Visit 2: Not mentioned.",
+        "Reasoning": "Neither visit mentioned developmental, behavioral, or psychiatric concerns; the absence is retained for both time points.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "Risk_Factors": {
+        "Answer": "Possible risk factors are: family_history_epilepsy.",
+        "Reasoning": "Visit 1 identified a family history of epilepsy as a risk factor. Visit 2 reported no additional risk factors, so the union remains the single factor identified earlier.",
+        "Supporting_Text": "There is history of seizure disorder in the family (maternal grandfather)",
+        "Confidence": "high"
+      },
+      "SeizureType": {
+        "Answer": "Visit 1: Focal onset seizures progressing to generalized convulsions. Visit 2: Not mentioned.",
+        "Reasoning": "The detailed semiology was provided only at Visit 1 and is preserved. Visit 2 did not add new information, so the earlier classification remains part of the cumulative summary.",
+        "Supporting_Text": "convulsions that started with the right upper and lower limbs that later progressed to involve the whole body",
+        "Confidence": "high"
+      },
+      "drug_clobazam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Clobazam was not referenced in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_clonazepam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Clonazepam was not referenced in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_valproate": {
+        "Answer": "Visit 1: Exposure_before: on_arrival; Action_taken: no_action. Visit 2: Exposure_before: on_arrival; Action_taken: continue.",
+        "Reasoning": "Visit 1 backfilled that valproate was already active on arrival with no change. Visit 2 confirmed the drug was still on arrival and was continued. The timeline shows continuous exposure across visits.",
+        "Supporting_Text": "on sodium valproate | Sodium Valproate 150 mg bd × 3/12",
+        "Confidence": "med"
+      },
+      "drug_ethosuximide": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Ethosuximide was not referenced in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_levetiracetam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Levetiracetam was not referenced in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_lamotrigine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Lamotrigine was not referenced in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenobarbital": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Phenobarbital was not referenced in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenytoin": {
+        "Answer": "Visit 1: Exposure_before: no_prior_exposure; Action_taken: start. Visit 2: Not mentioned.",
+        "Reasoning": "Visit 1 documented initiation of phenytoin with no prior exposure. Visit 2 did not mention the drug, but the earlier start is retained in the cumulative medication history.",
+        "Supporting_Text": "was not on anticonvulsant medication till yesterday when he was started on phenytoin syrup 5 mls bd",
+        "Confidence": "high"
+      },
+      "drug_topiramate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Topiramate was not referenced in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_carbamazepine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Carbamazepine was not referenced in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      }
+    },
+    "Visit_3": {},
+    "Visit_3_RAW_MODEL_OUTPUT": "{\n  \"Age_Years\": {\n    \"Answer\": \"Visit 1: 1.8. Visit 2: 2.5. Visit 3: 3.0.\",\n    \"Reasoning\": \"Ages from each visit were combined to show progression: 1.8 years at Visit 1, 2.5 years at Visit 2, and 3.0 years at Visit 3.\",\n    \"Supporting_Text\": \"Patient Age: 1  5/6 | 2 1/2 year old male | 3-year-old male\",\n    \"Confidence\": \"high\"\n  },\n  \"Sex_Female\": {\n    \"Answer\": \"No\",\n    \"Reasoning\": \"All visits consistently recorded male gender, so the answer remains No.\",\n    \"Supporting_Text\": \"Patient Gender: M | Patient Gender: M | Patient Gender: M\",\n    \"Confidence\": \"high\"\n  },\n  \"OnsetTimingYears\": {\n    \"Answer\": \"Visit 1: 0.3. Visit 2: 0.8.\",\n    \"Reasoning\": \"Visit 1 estimated duration 0.3 years based on onset age 1.5 years and current age 1.8 years. Visit 2 provided a revised estimate of 0.8 years based on seizure onset August 2022 and the June 2023 visit date. No new information at Visit 3, so the latest retained estimate is from Visit 2.\",\n    \"Supporting_Text\": \"Age of Onset of Seizure: 1 year 6/12 months | Patient Age: 1  5/6 | seizure onset August 2022\",\n    \"Confidence\": \"med\"\n  },\n  \"SeizureFreq\": {\n    \"Answer\": \"Visit 1: 4 seizures since August 2022, most recent 1 day before Visit 1. Visit 2: One seizure since medication started. Visit 3: Frequent seizures, not well controlled.\",\n    \"Reasoning\": \"Visit 1 reported 4 seizures since August 2022 with the last occurring 1 day before the visit. Visit 2 noted a single seizure since the medication was initiated. Visit 3 described ongoing frequent seizures that are not well controlled.\",\n    \"Supporting_Text\": \"The child has had convulsions 4 times since August 2022 (last one was yesterday) | since medication began he had one episode of seizure attack | Mother reports seizures are frequent and not well controlled.\",\n    \"Confidence\": \"high\"\n  },\n  \"StatusOrProlonged\": {\n    \"Answer\": \"Visit 2: Prolonged seizure lasting 20 minutes described; not mentioned at Visits 1 or 3.\",\n    \"Reasoning\": \"A prolonged seizure lasting 20 minutes was documented at Visit 2. No mention of status epilepticus or prolonged seizures was made in Visits 1 or 3, but the earlier report is retained.\",\n    \"Supporting_Text\": \"duration: 20 min\",\n    \"Confidence\": \"high\"\n  },\n  \"CognitivePriority\": {\n    \"Answer\": \"Not mentioned.\",\n    \"Reasoning\": \"No cognitive, developmental, psychiatric, or behavioral issues were mentioned in any of the three visits.\",\n    \"Supporting_Text\": \"\",\n    \"Confidence\": \"high\"\n  },\n  \"Risk_Factors\": {\n    \"Answer\": \"Possible risk factors are: family_history_epilepsy.\",\n    \"Reasoning\": \"Family history of epilepsy was noted at Visit 1. Visits 2 and 3 did not add new risk factors, so the union remains family_history_epilepsy.\",\n    \"Supporting_Text\": \"There is history of seizure disorder in the family (maternal grandfather)\",\n    \"Confidence\": \"high\"\n  },\n  \"SeizureType\": {\n    \"Answer\": \"Focal onset seizures progressing to generalized convulsions.\",\n    \"Reasoning\": \"Only Visit 1 described seizure semiology as focal onset progressing to generalized convulsions. Later visits did not provide additional details, so this description is retained.\",\n    \"Supporting_Text\": \"convulsions that started with the right upper and lower limbs that later progressed to involve the whole body\",\n    \"Confidence\": \"high\"\n  },\n  \"drug_clobazam\": {\n    \"Answer\": \"Not mentioned.\",\n    \"Reasoning\": \"Clobazam was not referenced in any of the three visits.\",\n    \"Supporting_Text\": \"\",\n    \"Confidence\": \"high\"\n  },\n  \"drug_clonazepam\": {\n    \"Answer\": \"Not mentioned.\",\n    \"Reasoning\": \"Clonazepam was not referenced in any of the three visits.\",\n    \"Supporting_Text\": \"\",\n    \"Confidence\": \"high\"\n  },\n  \"drug_valproate\": {\n    \"Answer\": \"Visit 1: Exposure_before: on_arrival; Action_taken: no_action. Visit 2: Exposure_before: on_arrival; Action_taken: continue. Visit 3: Exposure_before: on_arrival; Action_taken: continue.\",\n    \"Reasoning\": \"Visit 1 backfilled indicates valproate was already being taken on arrival with no change. Visit 2 confirms continuation of the same medication. Visit 3 continues the medication with a dose increase, which is still a continuation action.\",\n    \"Supporting_Text\": \"on sodium valproate | Sodium Valproate 150 mg bd × 3/12 | on Sodium Valproate at 18 mg/ kg/ day | Increase Na Valproate to 25 mg/kg/day\",\n    \"Confidence\": \"med\"\n  },\n  \"drug_ethosuximide\": {\n    \"Answer\": \"Not mentioned.\",\n    \"Reasoning\": \"Ethosuximide was not referenced in any of the three visits.\",\n    \"Supporting_Text\": \"\",\n    \"Confidence\": \"high\"\n  },\n  \"drug_levetiracetam\": {\n    \"Answer\": \"Visit 3: Exposure_before: no_prior_exposure; Action_taken: start.\",\n    \"Reasoning\": \"Levetiracetam first appears in the Visit 3 prescription, indicating no prior exposure and a start action at that visit.\",\n    \"Supporting_Text\": \"Tabs Levetiracetam 250 mg B.D × 2/12\",\n    \"Confidence\": \"high\"\n  },\n  \"drug_lamotrigine\": {\n    \"Answer\": \"Not mentioned.\",\n    \"Reasoning\": \""
+  },
+  "3_Kazibwe Ryan": {
+    "Visit_1": {
+      "Age_Years": {
+        "Answer": "5",
+        "Reasoning": "The note explicitly states the patient is 5 years old at this visit.",
+        "Supporting_Text": "Patient Age: 5 years",
+        "Confidence": "high"
+      },
+      "Sex_Female": {
+        "Answer": "No",
+        "Reasoning": "The gender is explicitly given as male.",
+        "Supporting_Text": "Patient Gender: M",
+        "Confidence": "high"
+      },
+      "OnsetTimingYears": {
+        "Answer": "0.6",
+        "Reasoning": "Seizure onset is reported at approximately 4‑5 years; the patient is 5 years old, giving a duration of roughly 0‑1 year. The note also specifies seizures have been present for the past 7 months (~0.6 years).",
+        "Supporting_Text": "Age of Onset of Seizure: ~4-5 years | History of seizures on and off, periodically for the past 7 months.",
+        "Confidence": "high"
+      },
+      "SeizureFreq": {
+        "Answer": "Periodic seizures over the past 7 months.",
+        "Reasoning": "The note describes seizures occurring periodically during the last 7 months.",
+        "Supporting_Text": "History of seizures on and off, periodically for the past 7 months.",
+        "Confidence": "high"
+      },
+      "StatusOrProlonged": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The note does not contain any information about status epilepticus or prolonged seizures.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "CognitivePriority": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "No developmental, behavioral, or psychiatric issues are described in this note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "Risk_Factors": {
+        "Answer": "Possible risk factors are: none mentioned.",
+        "Reasoning": "The note does not list any of the specified epilepsy risk factors.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "SeizureType": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The note does not provide a specific description of seizure type.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_clobazam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The drug clobazam is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_clonazepam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The drug clonazepam is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_valproate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The drug valproate is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_ethosuximide": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The drug ethosuximide is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_levetiracetam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The drug levetiracetam is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_lamotrigine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The drug lamotrigine is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenobarbital": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The drug phenobarbital is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenytoin": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The drug phenytoin is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_topiramate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The drug topiramate is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_carbamazepine": {
+        "Answer": "Exposure_before: on_arrival; Action_taken: no_action",
+        "Reasoning": "Backfilled: Visit 1 baseline meds were not documented; Visit 2 indicates this drug was already active going into Visit 2.",
+        "Supporting_Text": "",
+        "Confidence": "med"
+      }
+    },
+    "Visit_2": {
+      "Age_Years": {
+        "Answer": "Visit 1: 5. Visit 2: 5.0.",
+        "Reasoning": "Visit 1 reported the patient as 5 years old; Visit 2 reported the age as 5.0 years. Both values are consistent, so the cumulative answer lists the age at each visit.",
+        "Supporting_Text": "Patient Age: 5 years | 5-year-old male",
+        "Confidence": "high"
+      },
+      "Sex_Female": {
+        "Answer": "Visit 1: No. Visit 2: No.",
+        "Reasoning": "Both visits explicitly state the patient is male, so the cumulative answer records the sex at each visit.",
+        "Supporting_Text": "Patient Gender: M | Patient Gender: M",
+        "Confidence": "high"
+      },
+      "OnsetTimingYears": {
+        "Answer": "Visit 1: 0.6. Visit 2: not mentioned.",
+        "Reasoning": "Visit 1 provided an onset timing of 0.6 years. Visit 2 did not mention onset timing, so the earlier value is retained and the lack of new information is noted.",
+        "Supporting_Text": "Age of Onset of Seizure: ~4-5 years | History of seizures on and off, periodically for the past 7 months.",
+        "Confidence": "high"
+      },
+      "SeizureFreq": {
+        "Answer": "Visit 1: Periodic seizures over the past 7 months. Visit 2: At least one seizure per month.",
+        "Reasoning": "Visit 1 described periodic seizures over the prior 7 months; Visit 2 updated the frequency to at least one seizure per month. Both statements are retained in chronological order.",
+        "Supporting_Text": "History of seizures on and off, periodically for the past 7 months. | child gets GTC seizures atleast every moth",
+        "Confidence": "high"
+      },
+      "StatusOrProlonged": {
+        "Answer": "Visit 1: Not mentioned. Visit 2: Seizures last about 5-10 minutes.",
+        "Reasoning": "Visit 1 had no information on status epilepticus or prolonged seizures. Visit 2 reported seizure duration of 5‑10 minutes, indicating prolonged seizures, which is added to the timeline.",
+        "Supporting_Text": "When an episode comes, it lasts about 5-10 minutes",
+        "Confidence": "high"
+      },
+      "CognitivePriority": {
+        "Answer": "Visit 1: Not mentioned. Visit 2: Not mentioned.",
+        "Reasoning": "Neither visit mentioned developmental, behavioral, or psychiatric concerns, so the cumulative answer reflects the lack of information at each visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "Risk_Factors": {
+        "Answer": "Possible risk factors are: none mentioned.",
+        "Reasoning": "Both visits explicitly stated that no epilepsy risk factors were mentioned; the union remains 'none mentioned'.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "SeizureType": {
+        "Answer": "Visit 1: Not mentioned. Visit 2: Generalized tonic-clonic seizures.",
+        "Reasoning": "Visit 1 did not specify seizure type. Visit 2 identified the seizures as generalized tonic‑clonic, which is added to the timeline.",
+        "Supporting_Text": "GTC seizures",
+        "Confidence": "high"
+      },
+      "drug_clobazam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Clobazam was not referenced in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_clonazepam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Clonazepam was not referenced in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_valproate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Valproate was not referenced in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_ethosuximide": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Ethosuximide was not referenced in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_levetiracetam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Levetiracetam was not referenced in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_lamotrigine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Lamotrigine was not referenced in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenobarbital": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Phenobarbital was not referenced in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenytoin": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Phenytoin was not referenced in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_topiramate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Topiramate was not referenced in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_carbamazepine": {
+        "Answer": "Visit 1: Exposure_before: on_arrival; Action_taken: no_action. Visit 2: Exposure_before: on_arrival; Action_taken: continue.",
+        "Reasoning": "Visit 1 was backfilled to indicate carbamazepine was already active on arrival with no change at that visit. Visit 2 confirms the drug was on arrival and the plan was to continue (dose increased). Thus the medication remained active across both visits.",
+        "Supporting_Text": "Patient was previous on Tabs Carbamazepine 100 mg bd ×1/12 increased to Tabs Carbamazepine 200 mg bd × 1/12 | Plan 1. ... Tabs Carbamazepine 200 mg bd × 1/12",
+        "Confidence": "med"
+      }
+    },
+    "Visit_3": {
+      "Age_Years": {
+        "Answer": "Visit 1: 5. Visit 2: 5.0. Visit 3: 5.",
+        "Reasoning": "Visit 1 reported age 5 years; Visit 2 reported a 5‑year‑old; Visit 3 reported 5/M. All ages are consistent, so the cumulative answer lists the age at each visit.",
+        "Supporting_Text": "Patient Age: 5 years | 5-year-old male | 5/M",
+        "Confidence": "high"
+      },
+      "Sex_Female": {
+        "Answer": "No",
+        "Reasoning": "All three visits explicitly identified the patient as male, so the baseline answer is \"No\" for female.",
+        "Supporting_Text": "Patient Gender: M | Patient Gender: M | Patient Gender: M",
+        "Confidence": "high"
+      },
+      "OnsetTimingYears": {
+        "Answer": "Visit 1: 0.6 years. Visit 2: 0.6 years (not mentioned). Visit 3: 0.6 years (not mentioned).",
+        "Reasoning": "Only Visit 1 provided an onset duration of approximately 0.6 years; Visits 2 and 3 did not mention onset timing, so the Visit 1 value is carried forward.",
+        "Supporting_Text": "Age of Onset of Seizure: ~4-5 years | History of seizures on and off, periodically for the past 7 months.",
+        "Confidence": "high"
+      },
+      "SeizureFreq": {
+        "Answer": "Visit 1: Periodic seizures over the past 7 months. Visit 2: At least one seizure per month. Visit 3: Last seizure in February 2023; no seizures reported since.",
+        "Reasoning": "Each visit contributed a distinct description of seizure frequency. All three statements are retained in chronological order.",
+        "Supporting_Text": "History of seizures on and off, periodically for the past 7 months. | child gets GTC seizures atleast every moth | last had a convulsion in February 2023",
+        "Confidence": "high"
+      },
+      "StatusOrProlonged": {
+        "Answer": "Visit 1: not mentioned. Visit 2: Seizures last about 5-10 minutes. Visit 3: Seizures last about 5-10 minutes (not mentioned later).",
+        "Reasoning": "Only Visit 2 reported seizure duration of 5‑10 minutes; earlier and later visits did not mention this, so the Visit 2 information is retained for the cumulative record.",
+        "Supporting_Text": "When an episode comes, it lasts about 5-10 minutes",
+        "Confidence": "high"
+      },
+      "CognitivePriority": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "No developmental, behavioral, or psychiatric issues were described in any of the three visits.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "Risk_Factors": {
+        "Answer": "Possible risk factors are: none mentioned.",
+        "Reasoning": "None of the visits listed any epilepsy risk factors, so the cumulative answer reflects the absence of reported risk factors.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "SeizureType": {
+        "Answer": "Visit 1: not mentioned. Visit 2: Generalized tonic-clonic seizures. Visit 3: Generalized convulsive seizure.",
+        "Reasoning": "Visit 2 described generalized tonic‑clonic seizures; Visit 3 described a generalized convulsive seizure. The earlier lack of description is retained, and both later characterizations are kept in the timeline.",
+        "Supporting_Text": "GTC seizures | Imp: Generalised Epilepsy | last had a convulsion",
+        "Confidence": "high"
+      },
+      "drug_clobazam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Clobazam was not referenced in any of the three visits.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_clonazepam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Clonazepam was not referenced in any of the three visits.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_valproate": {
+        "Answer": "Visit 1: not mentioned. Visit 2: not mentioned. Visit 3: Exposure_before: no_prior_exposure; Action_taken: start",
+        "Reasoning": "Valproate was first introduced at Visit 3 with a start action; earlier visits had no mention, so the cumulative timeline reflects the initiation at Visit 3.",
+        "Supporting_Text": "Plan: Switch to Sodium Valproate | Tabs Sodium Valproate 150 mg bd × 2/52 Then 200 mg bd ×2/12",
+        "Confidence": "high"
+      },
+      "drug_ethosuximide": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Ethosuximide was not referenced in any visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_levetiracetam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Levetiracetam was not referenced in any visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_lamotrigine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Lamotrigine was not referenced in any visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenobarbital": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Phenobarbital was not referenced in any visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenytoin": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Phenytoin was not referenced in any visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_topiramate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Topiramate was not referenced in any visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_carbamazepine": {
+        "Answer": "Visit 1: Exposure_before: on_arrival; Action_taken: no_action. Visit 2: Exposure_before: on_arrival; Action_taken: continue. Visit 3: not mentioned (carried forward from Visit 2).",
+        "Reasoning": "Visit 1 was backfilled to indicate carbamazepine was already active on arrival with no change. Visit 2 confirmed the drug was on arrival and the plan was to continue it at a higher dose. Visit 3 did not mention the drug, so the prior active status is carried forward.",
+        "Supporting_Text": "Patient was previous on Tabs Carbamazepine 100 mg bd ×1/12 increased to Tabs Carbamazepine 200 mg bd × 1/12 | Plan 1. ... Tabs Carbamazepine 200 mg bd × 1/12",
+        "Confidence": "med"
+      }
+    }
+  },
+  "4_Asio Esther Jane": {
+    "Visit_1": {
+      "Age_Years": {
+        "Answer": "4.0",
+        "Reasoning": "Age is explicitly stated as 4 years in the note.",
+        "Supporting_Text": "Patient Age: 4 years",
+        "Confidence": "high"
+      },
+      "Sex_Female": {
+        "Answer": "Yes",
+        "Reasoning": "Gender is explicitly given as female.",
+        "Supporting_Text": "Patient Gender: F",
+        "Confidence": "high"
+      },
+      "OnsetTimingYears": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Duration of seizures is listed as Unknown and no computed duration is provided.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "SeizureFreq": {
+        "Answer": "7 seizures in the past 12 months.",
+        "Reasoning": "The note quantifies seizure frequency as 7 events over 12 months.",
+        "Supporting_Text": "Seizures × 7/12",
+        "Confidence": "high"
+      },
+      "StatusOrProlonged": {
+        "Answer": "No prolonged or status seizures described; events are brief.",
+        "Reasoning": "Episodes are described as lasting about 2 minutes without loss of consciousness, indicating brief seizures and no status epilepticus.",
+        "Supporting_Text": "about 2 minutes. No LOC",
+        "Confidence": "high"
+      },
+      "CognitivePriority": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The note does not mention developmental delay, psychiatric or behavioral problems.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "Risk_Factors": {
+        "Answer": "Possible risk factors are: none mentioned.",
+        "Reasoning": "The note does not list any of the specified epilepsy risk factors.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "SeizureType": {
+        "Answer": "Generalized myoclonic-atonic seizures.",
+        "Reasoning": "Diagnosis indicates a generalized epilepsy with myoclonic‑atonic seizures.",
+        "Supporting_Text": "Myoclonic Atonic Epilepsy (Doose Syndrome)",
+        "Confidence": "high"
+      },
+      "drug_clobazam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Clobazam is not referenced anywhere in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_clonazepam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Clonazepam is not referenced anywhere in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_valproate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Valproate is not referenced anywhere in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_ethosuximide": {
+        "Answer": "Exposure_before: no_prior_exposure; Action_taken: start",
+        "Reasoning": "Ethosuximide is not listed as a current medication, indicating no prior exposure, and the plan includes starting it.",
+        "Supporting_Text": "Stop the carbamazepine | Tabs Ethosuximide 250 mg o.d × 2/52",
+        "Confidence": "high"
+      },
+      "drug_levetiracetam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Levetiracetam is not referenced anywhere in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_lamotrigine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Lamotrigine is not referenced anywhere in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenobarbital": {
+        "Answer": "Exposure_before: on_arrival; Action_taken: continue",
+        "Reasoning": "Phenobarbital is listed as a current medication and no plan to change it is mentioned, so exposure is on arrival and action is continue.",
+        "Supporting_Text": "Currently on ... Phenobarbitone",
+        "Confidence": "high"
+      },
+      "drug_phenytoin": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Phenytoin is not referenced anywhere in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_topiramate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Topiramate is not referenced anywhere in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_carbamazepine": {
+        "Answer": "Exposure_before: on_arrival; Action_taken: stop",
+        "Reasoning": "Carbamazepine is listed as a current medication, indicating exposure on arrival, and the plan explicitly says to stop it.",
+        "Supporting_Text": "Currently on Carbamazepine | Stop the carbamazepine",
+        "Confidence": "high"
+      }
+    },
+    "Visit_2": {
+      "Age_Years": {
+        "Answer": "Visit 1: 4.0.",
+        "Reasoning": "Visit 1 provided the patient's age as 4 years; Visit 2 did not mention age.",
+        "Supporting_Text": "Patient Age: 4 years",
+        "Confidence": "high"
+      },
+      "Sex_Female": {
+        "Answer": "Visit 1: Yes. Visit 2: Yes.",
+        "Reasoning": "Both visits explicitly recorded female gender.",
+        "Supporting_Text": "Patient Gender: F | Patient Gender: F",
+        "Confidence": "high"
+      },
+      "OnsetTimingYears": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Neither visit supplied information about seizure onset timing.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "SeizureFreq": {
+        "Answer": "Visit 1: 7 seizures in the past 12 months. Visit 2: No seizures in the last week.",
+        "Reasoning": "Visit 1 quantified seizures over the prior year; Visit 2 reported a seizure‑free week.",
+        "Supporting_Text": "Seizures × 7/12 | currently has had no seizure in the last week",
+        "Confidence": "high"
+      },
+      "StatusOrProlonged": {
+        "Answer": "Visit 1: No prolonged or status seizures described; events are brief.",
+        "Reasoning": "Visit 1 described brief seizures without status epilepticus; Visit 2 gave no further comment.",
+        "Supporting_Text": "about 2 minutes. No LOC",
+        "Confidence": "high"
+      },
+      "CognitivePriority": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Neither visit mentioned developmental, psychiatric, or behavioral concerns.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "Risk_Factors": {
+        "Answer": "Possible risk factors are: none mentioned.",
+        "Reasoning": "Both visits reported no identifiable epilepsy risk factors.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "SeizureType": {
+        "Answer": "Visit 1: Generalized myoclonic-atonic seizures. Visit 2: Drop attacks (myoclonic-astatic seizures).",
+        "Reasoning": "Visit 1 classified the epilepsy as generalized myoclonic‑atonic; Visit 2 emphasized drop attacks characteristic of myoclonic‑astatic seizures, preserving both descriptions.",
+        "Supporting_Text": "Myoclonic Atonic Epilepsy (Doose Syndrome) | seizures (drop attacks) have gradually reduced",
+        "Confidence": "high"
+      },
+      "drug_clobazam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Clobazam was not referenced in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_clonazepam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Clonazepam was not referenced in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_valproate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Valproate was not referenced in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_ethosuximide": {
+        "Answer": "Visit 1: Exposure_before: no_prior_exposure; Action_taken: start. Visit 2: Exposure_before: on_arrival; Action_taken: continue.",
+        "Reasoning": "Visit 1 indicated the drug had not been used before and was started. No later comment was made, so we infer continuation into Visit 2.",
+        "Supporting_Text": "Stop the carbamazepine | Tabs Ethosuximide 250 mg o.d × 2/52",
+        "Confidence": "high"
+      },
+      "drug_levetiracetam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Levetiracetam was not referenced in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_lamotrigine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Lamotrigine was not referenced in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenobarbital": {
+        "Answer": "Visit 1: Exposure_before: on_arrival; Action_taken: continue. Visit 2: Exposure_before: on_arrival; Action_taken: continue.",
+        "Reasoning": "Visit 1 recorded phenobarbital as ongoing and continued; Visit 2 gave no new information, so the medication is presumed to remain active.",
+        "Supporting_Text": "Currently on ... Phenobarbitone",
+        "Confidence": "high"
+      },
+      "drug_phenytoin": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Phenytoin was not referenced in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_topiramate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Topiramate was not referenced in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_carbamazepine": {
+        "Answer": "Visit 1: Exposure_before: on_arrival; Action_taken: stop. Visit 2: Exposure_before: past_tried; Action_taken: no_action.",
+        "Reasoning": "Visit 1 documented stopping carbamazepine; with no further mention, the drug remains stopped (past_tried) at Visit 2.",
+        "Supporting_Text": "Currently on Carbamazepine | Stop the carbamazepine",
+        "Confidence": "high"
+      }
+    },
+    "Visit_3": {
+      "Age_Years": {
+        "Answer": "Visit 1: 4.0. Visit 3: 4.0.",
+        "Reasoning": "Visit 1 provided age 4.0 years; Visit 2 had no age; Visit 3 repeated age 4.0 years. The timeline preserves both recorded ages.",
+        "Supporting_Text": "Patient Age: 4 years | 4/F",
+        "Confidence": "high"
+      },
+      "Sex_Female": {
+        "Answer": "Yes",
+        "Reasoning": "All three visits explicitly recorded female gender; no conflict, so the baseline answer is retained.",
+        "Supporting_Text": "Patient Gender: F | Patient Gender: F | Patient Gender: F",
+        "Confidence": "high"
+      },
+      "OnsetTimingYears": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "None of the visits provided information on seizure onset timing.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "SeizureFreq": {
+        "Answer": "Visit 1: 7 seizures in the past 12 months. Visit 2: No seizures in the last week. Visit 3: Seizure free.",
+        "Reasoning": "Each visit reported a different seizure frequency; the cumulative answer lists the trajectory anchored to each visit.",
+        "Supporting_Text": "Seizures × 7/12 | currently has had no seizure in the last week | has been seizure free since the last visit",
+        "Confidence": "high"
+      },
+      "StatusOrProlonged": {
+        "Answer": "Visit 1: No prolonged or status seizures described; events are brief. Not mentioned at Visits 2 and 3.",
+        "Reasoning": "Only Visit 1 described seizure duration and absence of status; later visits did not mention this, so the earlier information is retained.",
+        "Supporting_Text": "about 2 minutes. No LOC",
+        "Confidence": "high"
+      },
+      "CognitivePriority": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "No visit referenced developmental, psychiatric, or behavioral issues.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "Risk_Factors": {
+        "Answer": "Possible risk factors are: none mentioned.",
+        "Reasoning": "All visits reported no identifiable epilepsy risk factors.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "SeizureType": {
+        "Answer": "Visit 1: Generalized myoclonic-atonic seizures. Visit 2: Drop attacks (myoclonic-astatic seizures). Not mentioned at Visit 3.",
+        "Reasoning": "Seizure semiology was described at Visits 1 and 2; both descriptions are retained in chronological order.",
+        "Supporting_Text": "Myoclonic Atonic Epilepsy (Doose Syndrome) | seizures (drop attacks) have gradually reduced",
+        "Confidence": "high"
+      },
+      "drug_clobazam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Clobazam was absent from all three visit notes.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_clonazepam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Clonazepam was absent from all three visit notes.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_valproate": {
+        "Answer": "Visit 3: Exposure_before: on_arrival; Action_taken: continue",
+        "Reasoning": "Valproate first appears at Visit 3 with on‑arrival exposure and a decision to continue; earlier visits had no mention.",
+        "Supporting_Text": "Sodium Valproate ...; Continue ... Sodium Valproate 200 mg bd",
+        "Confidence": "high"
+      },
+      "drug_ethosuximide": {
+        "Answer": "Visit 1: Exposure_before: no_prior_exposure; Action_taken: start. Visit 3: Exposure_before: on_arrival; Action_taken: continue",
+        "Reasoning": "Visit 1 initiated ethosuximide (no prior exposure). By Visit 3 the drug was ongoing (on arrival) and continued.",
+        "Supporting_Text": "Stop the carbamazepine | Tabs Ethosuximide 250 mg o.d × 2/52 | on Ethoxusimide ...; Continue Ethoxusimide 250 mg o.d",
+        "Confidence": "high"
+      },
+      "drug_levetiracetam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Levetiracetam was not referenced in any visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_lamotrigine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Lamotrigine was not referenced in any visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenobarbital": {
+        "Answer": "Visit 1: Exposure_before: on_arrival; Action_taken: continue. Not mentioned at Visits 2 and 3.",
+        "Reasoning": "Phenobarbital was documented as ongoing at Visit 1 and continued; later visits omitted it, so the earlier record is retained.",
+        "Supporting_Text": "Currently on ... Phenobarbitone",
+        "Confidence": "high"
+      },
+      "drug_phenytoin": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Phenytoin was not referenced in any visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_topiramate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Topiramate was not referenced in any visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_carbamazepine": {
+        "Answer": "Visit 1: Exposure_before: on_arrival; Action_taken: stop. Not mentioned at Visits 2 and 3.",
+        "Reasoning": "Carbamazepine was active on arrival at Visit 1 and was stopped per the plan; later visits did not mention it, so the stop event is preserved.",
+        "Supporting_Text": "Currently on Carbamazepine | Stop the carbamazepine",
+        "Confidence": "high"
+      }
+    }
+  },
+  "5_Nalumu Martha": {
+    "Visit_1": {
+      "Age_Years": {
+        "Answer": "2.2",
+        "Reasoning": "Age is explicitly stated as 2 years 2 months, which equals 2.2 years.",
+        "Supporting_Text": "Patient Age: 2 years 2 months",
+        "Confidence": "high"
+      },
+      "Sex_Female": {
+        "Answer": "Yes",
+        "Reasoning": "Gender is explicitly indicated as female (F).",
+        "Supporting_Text": "Patient Gender: F",
+        "Confidence": "high"
+      },
+      "OnsetTimingYears": {
+        "Answer": "2.2",
+        "Reasoning": "Seizures began at birth and the patient is 2.2 years old, giving a duration of ~2.2 years.",
+        "Supporting_Text": "Seizure since birth | Patient Age: 2 years 2 months",
+        "Confidence": "high"
+      },
+      "SeizureFreq": {
+        "Answer": "About 3 episodes per day.",
+        "Reasoning": "The note states the child has roughly three seizure episodes each day.",
+        "Supporting_Text": "Mother reports about 3 episodes in a day",
+        "Confidence": "high"
+      },
+      "StatusOrProlonged": {
+        "Answer": "Seizures last about 1 minute; no status epilepticus described.",
+        "Reasoning": "Seizure duration is given as about one minute with no mention of prolonged or status seizures.",
+        "Supporting_Text": "they last about 1 minute",
+        "Confidence": "high"
+      },
+      "CognitivePriority": {
+        "Answer": "Cerebral palsy with motor impairment; developmental delay noted.",
+        "Reasoning": "The note describes cerebral palsy and inability to sit unaided, indicating motor and developmental impairment.",
+        "Supporting_Text": "Known CP patient | Cannot sit without help",
+        "Confidence": "high"
+      },
+      "Risk_Factors": {
+        "Answer": "Possible risk factors are: perinatal_complication.",
+        "Reasoning": "The perinatal complications (prolonged labor, emergency C‑section, NICU admission) are explicitly mentioned as a risk factor.",
+        "Supporting_Text": "Perinatal History. The pregnancy was uneventful, she had prolonged and obstructed then had an emergency c/s. The baby didn't cry immediately and was admitted in NICU × 14/7",
+        "Confidence": "high"
+      },
+      "SeizureType": {
+        "Answer": "Tonic seizures.",
+        "Reasoning": "The diagnosis specifies tonic seizures as the seizure type.",
+        "Supporting_Text": "Seizure Diagnosis: Tonic Seizure",
+        "Confidence": "high"
+      },
+      "drug_clobazam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The drug clobazam does not appear anywhere in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_clonazepam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The drug clonazepam is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_valproate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Valproate is not mentioned in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_ethosuximide": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Ethosuximide is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_levetiracetam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Levetiracetam is not mentioned in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_lamotrigine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Lamotrigine is not mentioned in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenobarbital": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Phenobarbital is not mentioned in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenytoin": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Phenytoin is not mentioned in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_topiramate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Topiramate is not mentioned in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_carbamazepine": {
+        "Answer": "Exposure_before: on_arrival; Action_taken: continue",
+        "Reasoning": "Carbamazepine is listed in the prior medication list, indicating the patient was already taking it (on_arrival), and the plan repeats the same dose, indicating continuation.",
+        "Supporting_Text": "Tabs Carbamazepine 75 mg bd × 2/12 | Tabs Carbamazepine 75 mg bd × 2/12",
+        "Confidence": "high"
+      }
+    },
+    "Visit_2": {
+      "Age_Years": {
+        "Answer": "Visit 1: 2.2. Visit 2: 2.8.",
+        "Reasoning": "Visit 1 recorded the patient age as 2.2 years (2 years 2 months). Visit 2 recorded the age as 2.8 years (2 years 9/12 months). Both values are retained with visit anchors to show the age progression.",
+        "Supporting_Text": "Patient Age: 2 years 2 months | 2 years 9/12 months Female",
+        "Confidence": "high"
+      },
+      "Sex_Female": {
+        "Answer": "Visit 1: Yes. Visit 2: Yes.",
+        "Reasoning": "Both visits explicitly state the patient is female; the information is repeated with visit anchors.",
+        "Supporting_Text": "Patient Gender: F | Patient Gender: F",
+        "Confidence": "high"
+      },
+      "OnsetTimingYears": {
+        "Answer": "Visit 1: 2.2. Visit 2: Not mentioned.",
+        "Reasoning": "Visit 1 provided an onset timing of 2.2 years (seizures since birth). Visit 2 did not mention onset timing, so the earlier value is retained and the later visit is noted as not mentioned.",
+        "Supporting_Text": "Seizure since birth | Patient Age: 2 years 2 months",
+        "Confidence": "high"
+      },
+      "SeizureFreq": {
+        "Answer": "Visit 1: About 3 episodes per day. Visit 2: 5-8 seizures per day.",
+        "Reasoning": "The seizure frequency increased from roughly three episodes per day at Visit 1 to five‑to‑eight episodes per day at Visit 2, indicating a worsening pattern.",
+        "Supporting_Text": "Mother reports about 3 episodes in a day | frequent seizure attacks ~ 5-8 times a day",
+        "Confidence": "high"
+      },
+      "StatusOrProlonged": {
+        "Answer": "Visit 1: Seizures last about 1 minute; no status epilepticus described. Visit 2: No prolonged seizures described; events last less than 1 minute.",
+        "Reasoning": "Both visits report brief seizures (<1 minute) without status epilepticus; the wording differs slightly, so each visit is recorded separately.",
+        "Supporting_Text": "they last about 1 minute | Duration< 1 min",
+        "Confidence": "high"
+      },
+      "CognitivePriority": {
+        "Answer": "Visit 1: Cerebral palsy with motor impairment; developmental delay noted. Visit 2: Spastic cerebral palsy noted, indicating developmental impairment.",
+        "Reasoning": "Both visits describe cerebral palsy and associated developmental impairment; the descriptions are kept as separate visit‑anchored statements.",
+        "Supporting_Text": "Known CP patient | Cannot sit without help | Spastic CP",
+        "Confidence": "high"
+      },
+      "Risk_Factors": {
+        "Answer": "Possible risk factors are: perinatal_complication.",
+        "Reasoning": "Visit 1 identified perinatal complications as a risk factor. Visit 2 mentioned no additional risk factors, so the union remains the perinatal complication.",
+        "Supporting_Text": "Perinatal History. The pregnancy was uneventful, she had prolonged and obstructed then had an emergency c/s. The baby didn't cry immediately and was admitted in NICU × 14/7 | ",
+        "Confidence": "high"
+      },
+      "SeizureType": {
+        "Answer": "Visit 1: Tonic seizures. Visit 2: Multifocal seizures.",
+        "Reasoning": "The seizure classification changed from tonic seizures at Visit 1 to multifocal seizures at Visit 2; both classifications are retained with visit anchors.",
+        "Supporting_Text": "Seizure Diagnosis: Tonic Seizure | Multifocal Epilepsy",
+        "Confidence": "high"
+      },
+      "drug_clobazam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Clobazam is not referenced in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_clonazepam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Clonazepam is not referenced in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_valproate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Valproate is not referenced in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_ethosuximide": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Ethosuximide is not referenced in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_levetiracetam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Levetiracetam is not referenced in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_lamotrigine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Lamotrigine is not referenced in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenobarbital": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Phenobarbital is not referenced in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenytoin": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Phenytoin is not referenced in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_topiramate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Topiramate is not referenced in either visit.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_carbamazepine": {
+        "Answer": "Visit 1: Exposure_before: on_arrival; Action_taken: continue. Visit 2: Exposure_before: on_arrival; Action_taken: continue.",
+        "Reasoning": "Both visits indicate the patient was already on carbamazepine at arrival and the plan was to continue the medication, so the timeline shows continuation across visits.",
+        "Supporting_Text": "Tabs Carbamazepine 75 mg bd × 2/12 | Tabs Carbamazepine 75 mg bd × 2/12 | on Carbamazepine | Carbamazepine 100 mg bd ×  2/12",
+        "Confidence": "high"
+      }
+    },
+    "Visit_3": {
+      "Age_Years": {
+        "Answer": "Visit 1: 2.2. Visit 2: 2.8. Visit 3: 2.0.",
+        "Reasoning": "Merged ages from all visits, preserving each visit's reported age.",
+        "Supporting_Text": "Patient Age: 2 years 2 months | 2 years 9/12 months Female | 2 year old",
+        "Confidence": "high"
+      },
+      "Sex_Female": {
+        "Answer": "Yes",
+        "Reasoning": "All visits consistently reported female gender.",
+        "Supporting_Text": "Patient Gender: F",
+        "Confidence": "high"
+      },
+      "OnsetTimingYears": {
+        "Answer": "Visit 1: 2.2. Visit 2: 2.2. Visit 3: 2.2.",
+        "Reasoning": "Visit 1 provided onset timing of 2.2 years; later visits did not mention, so the earlier value is retained for all visits.",
+        "Supporting_Text": "Seizure since birth | Patient Age: 2 years 2 months",
+        "Confidence": "high"
+      },
+      "SeizureFreq": {
+        "Answer": "Visit 1: About 3 episodes per day. Visit 2: 5-8 seizures per day. Visit 3: Seizure free for about a month.",
+        "Reasoning": "Seizure frequency increased from ~3 per day at Visit 1 to 5-8 per day at Visit 2, then became seizure‑free at Visit 3.",
+        "Supporting_Text": "Mother reports about 3 episodes in a day | frequent seizure attacks ~ 5-8 times a day | has been seizure free for about a month",
+        "Confidence": "high"
+      },
+      "StatusOrProlonged": {
+        "Answer": "Visit 1: Seizures last about 1 minute; no status epilepticus described. Visit 2: No prolonged seizures described; events last less than 1 minute. Visit 3: No new information (not mentioned).",
+        "Reasoning": "Both Visit 1 and Visit 2 described seizures lasting ≤1 minute with no status epilepticus; Visit 3 did not mention this feature, so earlier information is retained.",
+        "Supporting_Text": "they last about 1 minute | Duration< 1 min",
+        "Confidence": "high"
+      },
+      "CognitivePriority": {
+        "Answer": "Visit 1: Cerebral palsy with motor impairment; developmental delay noted. Visit 2: Spastic cerebral palsy indicating developmental impairment. Visit 3: Cerebral palsy indicating developmental impairment.",
+        "Reasoning": "All visits noted cerebral palsy with developmental impairment; descriptions were combined while preserving each visit's wording.",
+        "Supporting_Text": "Known CP patient | Cannot sit without help | Spastic CP | CP",
+        "Confidence": "high"
+      },
+      "Risk_Factors": {
+        "Answer": "Possible risk factors are: perinatal_complication.",
+        "Reasoning": "Only Visit 1 mentioned perinatal complications; later visits reported none, so the union retains the perinatal_complication risk factor.",
+        "Supporting_Text": "Perinatal History. The pregnancy was uneventful, she had prolonged and obstructed then had an emergency c/s. The baby didn't cry immediately and was admitted in NICU × 14/7",
+        "Confidence": "high"
+      },
+      "SeizureType": {
+        "Answer": "Visit 1: Tonic seizures. Visit 2: Multifocal seizures. Visit 3: Multifocal epilepsy (focal seizures).",
+        "Reasoning": "Visit 1 identified tonic seizures; Visits 2 and 3 described multifocal epilepsy, indicating an evolution of seizure type over time.",
+        "Supporting_Text": "Seizure Diagnosis: Tonic Seizure | Multifocal Epilepsy | multifocal epilepsy",
+        "Confidence": "high"
+      },
+      "drug_clobazam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Clobazam was never mentioned in any of the three visits.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_clonazepam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Clonazepam was never mentioned in any of the three visits.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_valproate": {
+        "Answer": "Visit 1: Not mentioned. Visit 2: Not mentioned. Visit 3: Exposure_before: no_prior_exposure; Action_taken: start",
+        "Reasoning": "Valproate was first introduced at Visit 3 with no prior exposure; earlier visits had no mention of this medication.",
+        "Supporting_Text": "Syrup Epilirum syrup 1.5 mls bd × 2/12",
+        "Confidence": "high"
+      },
+      "drug_ethosuximide": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Ethosuximide was never mentioned in any of the three visits.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_levetiracetam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Levetiracetam was never mentioned in any of the three visits.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_lamotrigine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Lamotrigine was never mentioned in any of the three visits.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenobarbital": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Phenobarbital was never mentioned in any of the three visits.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenytoin": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Phenytoin was never mentioned in any of the three visits.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_topiramate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Topiramate was never mentioned in any of the three visits.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_carbamazepine": {
+        "Answer": "Visit 1: Exposure_before: on_arrival; Action_taken: continue. Visit 2: Exposure_before: on_arrival; Action_taken: continue. Visit 3: Exposure_before: no_prior_exposure; Action_taken: start",
+        "Reasoning": "Visits 1 and 2 indicated ongoing carbamazepine (on_arrival; continue). Visit 3 indicated the drug was newly started with no prior exposure, representing a change; both histories are preserved with visit anchors.",
+        "Supporting_Text": "Tabs Carbamazepine 75 mg bd × 2/12 | Tabs Carbamazepine 75 mg bd × 2/12 | on Carbamazepine | Carbamazepine 100 mg bd ×  2/12 | Carbamazepine 100 mg bd × 2/12",
+        "Confidence": "high"
+      }
+    }
+  }
+}

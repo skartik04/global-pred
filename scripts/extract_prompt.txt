@@ -216,41 +216,67 @@ If seizures are not described at all, set "value" to "Not mentioned.".
 
 For each drug feature below, your job is to extract what this note says about that specific drug and encode it in a standardized, easy-to-merge format.
 
+# --- Drug features extraction block (9–18. drug_* fields) ---
+
+For each drug feature below, extract what THIS note says about that specific drug and encode it in a standardized, easy-to-merge format.
+
 IMPORTANT DRUG RULES:
 - Use ONLY information from THIS note.
 - Do NOT infer continuation from other visits.
 - Do NOT backfill.
 - Do NOT decide when the drug started historically relative to other visits.
 - For drug classification, do not rely only on exact keywords: interpret the meaning of phrases such as "previously on", "was on", "has been on", "stopped", "switched", and medication lists in context.
+- If multiple snippets justify the classification, include them in Supporting_Text separated by " | ".
+- PRECEDENCE RULE: Narrative text (e.g., History of Presenting Illness) takes priority over the structured medication list when they conflict — but only when the narrative directly and explicitly identifies that specific drug with clear past-tense language (e.g., "previously on X", "was on X", "has been on X"). If the drug's temporal status in the narrative is ambiguous or not clearly stated, fall back to the structured medication list.
 
+OUTPUT FORMAT (for each drug feature):
 For each drug feature, "value" must be either:
 - "Not mentioned."
 OR, if the drug is mentioned anywhere in this note, it must follow this exact template:
 
-"Use_status: <current|previous|unclear>; Temporal_language: <ongoing|initiation|dose_change|stop|unclear>"
+"Exposure_before: <on_arrival|past_tried|no_prior_exposure>; Action_taken: <no_action|continue|start|stop>"
 
-Definitions:
-- Use_status:
-  - current: prescribed now, taking now, plan includes continuing it, or clearly described as current therapy.
-  - previous: explicitly described as past use or no longer being used (for example "previously on", "was on", "has been on", "used before", "stopped", "discontinued").
-  - unclear: drug is mentioned but current vs previous is not clear.
+DEFINITIONS (read carefully and follow exactly):
 
-- Temporal_language (based ONLY on wording in this note):
-  - ongoing: language indicates continuation or stable current use ("on", "controlled on", "continue", "maintain", plain current regimen without change wording).
-  - initiation: language indicates starting/adding/switching to a drug in this visit ("start", "added", "commence", "initiate", "now on", "switch to").
-  - dose_change: explicit language indicating a dosage increase or decrease OR a clear change in numeric dosing compared to what is stated elsewhere in the SAME note (for example "increase dose", "reduce", "now 100 mg AM, 150 mg PM after prior dose", or similar wording).
-  - stop: the note clearly indicates that the drug is NOT currently being used at this visit, including phrasing such as "previously on", "was on", "has been on", "used before", "stopped", "discontinued", or when a drug appears only in a historical context and not in the current plan.
-  - unclear: mentioned without clear temporal cue.
+Exposure_before (status BEFORE today’s plan/decision in THIS note)
+- on_arrival:
+  The note indicates the patient was already taking the drug at presentation / before today’s plan.
+  Cues: "currently on", "on <drug>", "taking <drug>", an active med list implying current use.
+- past_tried:
+  The note indicates the patient used the drug previously (trialed/failed/used before) and is NOT on it at presentation. The drug has been stopped now.
+  Cues: "previously on", "has been on", "was on", "used before", "trialed", "failed", historical-only mention.
+- no_prior_exposure:
+  The note provides no evidence the patient had taken the drug before today’s decision.
+  This includes cases where the drug is mentioned only as a new plan (e.g., "start <drug>") without any statement of prior or current use.
+
+Action_taken (what the clinician does TODAY in THIS note)
+- no_action:
+  The drug is either not mentioned at all, or if there is a historical mention too, there is no medical plan provided.
+- continue:
+  The plan indicates continuing/maintaining the drug today OR provides a current regimen without a "start/stop" directive.
+  IMPORTANT: Treat within-note dose adjustments as STILL "continue" (do NOT use a separate dose_change class).
+  If a dose is changed, you MUST explicitly mention the changed dose in your Reasoning and include the dose phrase(s) in Supporting_Text.
+  Dose change detection rule: only compare doses stated within the SAME note.
+- start:
+  The plan indicates initiating/adding/switching to the drug today.
+  Cues: "start", "added", "commence", "initiate", "switch to", "now on".
+- stop:
+  The plan explicitly indicates discontinuing the drug today, OR the note contains a prior/current medication list that includes the drug followed by a new complete prescription plan that omits it entirely (with no "continue" instruction for it).
+  Cues: "stop", "discontinue", "wean off", "cease", or drug present in prior medication list but absent from the new prescription plan within the same note.
 
 supporting_text for drugs:
-- Quote the exact medication phrase(s) from the note that justify Use_status and Temporal_language.
+- Quote the exact medication phrase(s) from the note that justify Exposure_before and Action_taken.
+- If both a presentation cue and a plan cue exist, include both snippets separated by " | ".
 
 reasoning for drugs:
-- One short sentence explaining how the wording supports Use_status and Temporal_language, based only on this note.
+- One short sentence that:
+  (i) states why Exposure_before was chosen, and
+  (ii) states why Action_taken was chosen.
+- If the action is "continue" and the note implies a dose adjustment within the same note, explicitly mention the dose change (old vs new if both are stated) in this one sentence.
 
 confidence for drugs:
-- "high" if clearly mentioned or clearly absent.
-- "med" or "low" only if the drug wording is ambiguous.
+- "high" if the classification is clearly supported by explicit wording.
+- "med" or "low" only if the wording is genuinely ambiguous.
 
 Drug name matching (synonyms and hints):
 
