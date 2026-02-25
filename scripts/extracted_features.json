@@ -1,0 +1,1662 @@
+{
+  "1_Nanyonga Aisha": {
+    "Visit_1": {
+      "Age_Years": {
+        "Answer": "6.0",
+        "Reasoning": "Narrative text states the child is a 6‑year‑old female, which overrides the structured age of 5.",
+        "Supporting_Text": "6 year old female",
+        "Confidence": "high"
+      },
+      "Sex_Female": {
+        "Answer": "Yes",
+        "Reasoning": "Gender is explicitly recorded as female in the structured field and reinforced by the narrative.",
+        "Supporting_Text": "Patient Gender: F",
+        "Confidence": "high"
+      },
+      "OnsetTimingYears": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The note lists \"Age of Onset of Seizure: Unknown\" and provides no duration.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "SeizureFreq": {
+        "Answer": "Generalized convulsion 2 days ago",
+        "Reasoning": "The note reports a recent generalized convulsion that occurred two days prior, without a recurring rate.",
+        "Supporting_Text": "Generalised convulsions 2 days ago",
+        "Confidence": "high"
+      },
+      "StatusOrProlonged": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "No description of status epilepticus or prolonged seizures is present.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "CognitivePriority": {
+        "Answer": "Global developmental delay and cerebral palsy; psychiatric problems noted",
+        "Reasoning": "The note indicates global developmental delay, cerebral palsy, and psychiatric issues.",
+        "Supporting_Text": "Developmental Delay: Yes | If delayed, specify: Global | Psychiatric: Yes | 6 year old female with Cerebral Palsy",
+        "Confidence": "high"
+      },
+      "Risk_Factors": {
+        "Answer": "Possible risk factors are: perinatal_complication.",
+        "Reasoning": "Perinatal asphyxia is listed as a checked risk factor, matching the perinatal_complication category.",
+        "Supporting_Text": "Checked risk factors: Perinatal asphyxia",
+        "Confidence": "high"
+      },
+      "SeizureType": {
+        "Answer": "Generalized convulsive seizures.",
+        "Reasoning": "The seizure description specifies generalized convulsions, indicating a generalized convulsive type.",
+        "Supporting_Text": "Generalised convulsions 2 days ago",
+        "Confidence": "high"
+      },
+      "drug_clobazam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication name clobazam does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_clonazepam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication name clonazepam does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_valproate": {
+        "Answer": "Status: on_arrival",
+        "Reasoning": "The note explicitly states the child is currently on sodium valproate.",
+        "Supporting_Text": "currently child is on sodium valproate",
+        "Confidence": "high"
+      },
+      "drug_ethosuximide": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication name ethosuximide does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_levetiracetam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication name levetiracetam does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_lamotrigine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication name lamotrigine does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenobarbital": {
+        "Answer": "Status: on_arrival",
+        "Reasoning": "Although earlier text says \"previously been on phenobarbital\", the explicit \"Current drug regimen\" list includes phenobarbital, indicating current use.",
+        "Supporting_Text": "Current drug regimen: Phenobarbital",
+        "Confidence": "med"
+      },
+      "drug_phenytoin": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication name phenytoin does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_topiramate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication name topiramate does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_carbamazepine": {
+        "Answer": "Status: on_arrival",
+        "Reasoning": "The note lists Tegretol (Carbamazepine) in the current drug regimen, indicating the patient is presently taking carbamazepine.",
+        "Supporting_Text": "Current drug regimen: Tegretol (Carbamazepine)",
+        "Confidence": "med"
+      }
+    },
+    "Visit_2": {
+      "Age_Years": {
+        "Answer": "6.0",
+        "Reasoning": "Age is explicitly stated as 6 years in the clinical note.",
+        "Supporting_Text": "6 year old female",
+        "Confidence": "high"
+      },
+      "Sex_Female": {
+        "Answer": "Yes",
+        "Reasoning": "Sex is explicitly indicated as female.",
+        "Supporting_Text": "Patient Gender: F",
+        "Confidence": "high"
+      },
+      "OnsetTimingYears": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The note does not provide any information about when epilepsy started.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "SeizureFreq": {
+        "Answer": "One seizure episode reported; frequency reduced.",
+        "Reasoning": "The note states seizure frequency is reduced and reports a single recent seizure.",
+        "Supporting_Text": "Seizure Frequency: Reduced | Daddy reports that she has one episode of seizure attack.",
+        "Confidence": "high"
+      },
+      "StatusOrProlonged": {
+        "Answer": "No prolonged seizures; episode lasted few seconds.",
+        "Reasoning": "The described seizure lasted only a few seconds, indicating no status or prolonged seizure.",
+        "Supporting_Text": "Duration: few seconds.",
+        "Confidence": "high"
+      },
+      "CognitivePriority": {
+        "Answer": "Cerebral palsy noted, indicating developmental impairment.",
+        "Reasoning": "CP (cerebral palsy) is a neurodevelopmental condition that implies developmental impairment.",
+        "Supporting_Text": "being managed for CP",
+        "Confidence": "high"
+      },
+      "Risk_Factors": {
+        "Answer": "Possible risk factors are: none mentioned.",
+        "Reasoning": "None of the listed specific risk factors appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "SeizureType": {
+        "Answer": "Seizure type not clearly described in this note.",
+        "Reasoning": "The note mentions a seizure episode but provides no details about its semiology.",
+        "Supporting_Text": "one episode of seizure attack",
+        "Confidence": "high"
+      },
+      "drug_clobazam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Drug name does not appear in this note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_clonazepam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Drug name does not appear in this note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_valproate": {
+        "Answer": "Status: on_arrival",
+        "Reasoning": "The note states the patient is being managed on Sodium Valproate, indicating current use.",
+        "Supporting_Text": "on Sodium Valproate",
+        "Confidence": "high"
+      },
+      "drug_ethosuximide": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Drug name does not appear in this note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_levetiracetam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Drug name does not appear in this note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_lamotrigine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Drug name does not appear in this note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenobarbital": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Drug name does not appear in this note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenytoin": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Drug name does not appear in this note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_topiramate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Drug name does not appear in this note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_carbamazepine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Drug name does not appear in this note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      }
+    },
+    "Visit_3": {
+      "Age_Years": {
+        "Answer": "6.5",
+        "Reasoning": "Age is explicitly stated as 6 and 6/12 years, which equals 6.5 years.",
+        "Supporting_Text": "6 6/12 old patient",
+        "Confidence": "high"
+      },
+      "Sex_Female": {
+        "Answer": "Yes",
+        "Reasoning": "Gender is explicitly indicated as female.",
+        "Supporting_Text": "Patient Gender: F",
+        "Confidence": "high"
+      },
+      "OnsetTimingYears": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The note does not provide seizure onset age or duration.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "SeizureFreq": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "No information about seizure frequency is given.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "StatusOrProlonged": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "There is no mention of status epilepticus or prolonged seizures.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "CognitivePriority": {
+        "Answer": "Developmental impairment noted (cerebral palsy).",
+        "Reasoning": "Cerebral palsy is a neurodevelopmental disorder indicating developmental impairment.",
+        "Supporting_Text": "cerebral palsy",
+        "Confidence": "high"
+      },
+      "Risk_Factors": {
+        "Answer": "Possible risk factors are: none mentioned.",
+        "Reasoning": "The note does not list any of the specified epilepsy risk factors.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "SeizureType": {
+        "Answer": "Focal seizures with lip involvement.",
+        "Reasoning": "Seizure description mentions involvement of the lips, suggesting a focal motor seizure.",
+        "Supporting_Text": "seizures involving the lips",
+        "Confidence": "high"
+      },
+      "drug_clobazam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Clobazam is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_clonazepam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Clonazepam is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_valproate": {
+        "Answer": "Status: on_arrival",
+        "Reasoning": "The phrase indicates the patient is currently taking sodium valproate.",
+        "Supporting_Text": "currently on sodium valproate at 20mg/ kg/day",
+        "Confidence": "high"
+      },
+      "drug_ethosuximide": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Ethosuximide is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_levetiracetam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Levetiracetam is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_lamotrigine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Lamotrigine is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenobarbital": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Phenobarbital is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenytoin": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Phenytoin is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_topiramate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Topiramate is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_carbamazepine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Carbamazepine is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      }
+    }
+  },
+  "2_Mwania Sheldon": {
+    "Visit_1": {
+      "Age_Years": {
+        "Answer": "1.8",
+        "Reasoning": "Age is explicitly stated as 1 year and 10 months, which equals approximately 1.8 years.",
+        "Supporting_Text": "1-year 10/12 month old",
+        "Confidence": "high"
+      },
+      "Sex_Female": {
+        "Answer": "No",
+        "Reasoning": "The note lists gender as M, indicating the patient is male.",
+        "Supporting_Text": "Patient Gender: M",
+        "Confidence": "high"
+      },
+      "OnsetTimingYears": {
+        "Answer": "0.3",
+        "Reasoning": "Onset age is 1.5 years; visit age is ~1.8 years, giving a duration of about 0.3 years (≈4 months).",
+        "Supporting_Text": "Age of Onset of Seizure: 1 year 6/12 months",
+        "Confidence": "high"
+      },
+      "SeizureFreq": {
+        "Answer": "Four seizures since August 2022, most recent yesterday",
+        "Reasoning": "The note specifies the number of seizures (4) and the time frame (since August 2022) with the latest occurring yesterday.",
+        "Supporting_Text": "The child has had convulsions 4 times since August 2022 (last one was yesterday)",
+        "Confidence": "high"
+      },
+      "StatusOrProlonged": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The note does not describe status epilepticus or prolonged seizures, nor does it state that seizures are brief.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "CognitivePriority": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "No developmental delay, behavioral problems, or psychiatric issues are described in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "Risk_Factors": {
+        "Answer": "Possible risk factors are: family_history_epilepsy.",
+        "Reasoning": "Family history of epilepsy is explicitly mentioned; no other listed risk factors are noted.",
+        "Supporting_Text": "There is history of seizure disorder in the family (maternal grandfather)",
+        "Confidence": "high"
+      },
+      "SeizureType": {
+        "Answer": "Focal onset convulsive seizures progressing to generalized tonic-clonic.",
+        "Reasoning": "The description indicates a focal onset (right limbs) that evolves into a generalized convulsive seizure.",
+        "Supporting_Text": "convulsions that started with the right upper and lower limbs that later progressed to involve the whole body",
+        "Confidence": "high"
+      },
+      "drug_clobazam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication name clobazam does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_clonazepam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication name clonazepam does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_valproate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication name valproate (or its synonyms) does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_ethosuximide": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication name ethosuximide does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_levetiracetam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication name levetiracetam does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_lamotrigine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication name lamotrigine does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenobarbital": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication name phenobarbital does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenytoin": {
+        "Answer": "Status: on_arrival",
+        "Reasoning": "The note states the patient was started on phenytoin syrup, indicating current use at this visit.",
+        "Supporting_Text": "started on phenytoin syrup 5 mls bd",
+        "Confidence": "high"
+      },
+      "drug_topiramate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication name topiramate does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_carbamazepine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication name carbamazepine does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      }
+    },
+    "Visit_2": {
+      "Age_Years": {
+        "Answer": "2.5",
+        "Reasoning": "The clinical note explicitly states the patient is 2 ½ years old.",
+        "Supporting_Text": "2 1/2 year old male",
+        "Confidence": "high"
+      },
+      "Sex_Female": {
+        "Answer": "No",
+        "Reasoning": "Gender is explicitly recorded as male (M).",
+        "Supporting_Text": "Patient Gender: M",
+        "Confidence": "high"
+      },
+      "OnsetTimingYears": {
+        "Answer": "0.8",
+        "Reasoning": "Seizure onset is given as August 2022 and the visit date is 26/06/2023, yielding roughly 10 months (~0.8 years) of epilepsy duration.",
+        "Supporting_Text": "seizure onset August 2022",
+        "Confidence": "med"
+      },
+      "SeizureFreq": {
+        "Answer": "Reduced; one seizure episode since medication began",
+        "Reasoning": "The note lists seizure frequency as reduced and reports only a single seizure since the medication started.",
+        "Supporting_Text": "Seizure Frequency: Reduced | since medication began he had one episode of seizure attack",
+        "Confidence": "high"
+      },
+      "StatusOrProlonged": {
+        "Answer": "One seizure lasting 20 minutes reported",
+        "Reasoning": "The seizure attack is described with a duration of 20 minutes, indicating a prolonged seizure.",
+        "Supporting_Text": "duration: 20 min",
+        "Confidence": "high"
+      },
+      "CognitivePriority": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "No developmental, behavioral, or psychiatric issues are described in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "Risk_Factors": {
+        "Answer": "Possible risk factors are: none mentioned.",
+        "Reasoning": "The note does not reference any of the listed epilepsy risk factors.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "SeizureType": {
+        "Answer": "Seizure type not clearly described in this note.",
+        "Reasoning": "The note mentions a seizure attack but provides no details about its semiology or classification.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_clobazam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication clobazam does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_clonazepam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication clonazepam does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_valproate": {
+        "Answer": "Status: on_arrival",
+        "Reasoning": "The phrase indicates the patient is currently taking sodium valproate.",
+        "Supporting_Text": "on sodium valproate",
+        "Confidence": "high"
+      },
+      "drug_ethosuximide": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication ethosuximide does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_levetiracetam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication levetiracetam does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_lamotrigine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication lamotrigine does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenobarbital": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication phenobarbital does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenytoin": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication phenytoin does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_topiramate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication topiramate does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_carbamazepine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication carbamazepine does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      }
+    },
+    "Visit_3": {
+      "Age_Years": {
+        "Answer": "3.0",
+        "Reasoning": "The note explicitly states the patient is a 3-year-old.",
+        "Supporting_Text": "3-year-old male",
+        "Confidence": "high"
+      },
+      "Sex_Female": {
+        "Answer": "No",
+        "Reasoning": "Gender is given as male (M) in the note.",
+        "Supporting_Text": "Patient Gender: M",
+        "Confidence": "high"
+      },
+      "OnsetTimingYears": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The note does not provide any information about seizure onset age or duration.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "SeizureFreq": {
+        "Answer": "Frequent seizures, increased",
+        "Reasoning": "The note indicates the seizure frequency is increased and that seizures are frequent.",
+        "Supporting_Text": "Seizure Frequency: Increased | Mother reports seizures are frequent and not well controlled",
+        "Confidence": "high"
+      },
+      "StatusOrProlonged": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "There is no mention of status epilepticus or prolonged seizures.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "CognitivePriority": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The note does not discuss developmental, psychiatric, or behavioral issues.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "Risk_Factors": {
+        "Answer": "Possible risk factors are: none mentioned.",
+        "Reasoning": "No listed epilepsy risk factors appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "SeizureType": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The note does not describe the seizure semiology or type.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_clobazam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Clobazam is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_clonazepam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Clonazepam is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_valproate": {
+        "Answer": "Status: on_arrival",
+        "Reasoning": "The phrase indicates the patient is currently taking sodium valproate.",
+        "Supporting_Text": "on Sodium Valproate at 18 mg/ kg/ day",
+        "Confidence": "high"
+      },
+      "drug_ethosuximide": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Ethosuximide is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_levetiracetam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Levetiracetam is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_lamotrigine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Lamotrigine is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenobarbital": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Phenobarbital is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenytoin": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Phenytoin is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_topiramate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Topiramate is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_carbamazepine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Carbamazepine is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      }
+    }
+  },
+  "3_Kazibwe Ryan": {
+    "Visit_1": {
+      "Age_Years": {
+        "Answer": "5",
+        "Reasoning": "The note explicitly states the patient is 5 years old at this visit.",
+        "Supporting_Text": "Patient Age: 5 years",
+        "Confidence": "high"
+      },
+      "Sex_Female": {
+        "Answer": "No",
+        "Reasoning": "Gender is listed as M, indicating a male patient.",
+        "Supporting_Text": "Patient Gender: M",
+        "Confidence": "high"
+      },
+      "OnsetTimingYears": {
+        "Answer": "0.6",
+        "Reasoning": "Seizures have been present for 7 months, which is approximately 0.6 years.",
+        "Supporting_Text": "History of seizures on and off, periodically for the past 7 months.",
+        "Confidence": "high"
+      },
+      "SeizureFreq": {
+        "Answer": "Seizures occurring periodically over past 7 months.",
+        "Reasoning": "The note describes seizures as occurring periodically over the last 7 months.",
+        "Supporting_Text": "History of seizures on and off, periodically for the past 7 months.",
+        "Confidence": "high"
+      },
+      "StatusOrProlonged": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "There is no mention of status epilepticus or prolonged seizures.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "CognitivePriority": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The note does not include any information about developmental delay, behavioral problems, or psychiatric issues.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "Risk_Factors": {
+        "Answer": "Possible risk factors are: none mentioned.",
+        "Reasoning": "The risk factor section lists only 'Unknown, Other' and does not specify any of the defined risk factors.",
+        "Supporting_Text": "Checked risk factors: Unknown, Other",
+        "Confidence": "high"
+      },
+      "SeizureType": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "No specific seizure semiology or type is described in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_clobazam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication list does not mention clobazam or any of its synonyms.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_clonazepam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Clonazepam or its synonyms are not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_valproate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Valproate or its synonyms are not mentioned; medication status is 'Not on Medication'.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_ethosuximide": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Ethosuximide is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_levetiracetam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Levetiracetam is not mentioned in the text.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_lamotrigine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Lamotrigine is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenobarbital": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Phenobarbital is not mentioned; patient is noted as not on medication.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenytoin": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Phenytoin is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_topiramate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Topiramate is not mentioned in the text.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_carbamazepine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Carbamazepine is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      }
+    },
+    "Visit_2": {
+      "Age_Years": {
+        "Answer": "5.0",
+        "Reasoning": "Age is explicitly stated as 5 years old in the note.",
+        "Supporting_Text": "5-year-old male",
+        "Confidence": "high"
+      },
+      "Sex_Female": {
+        "Answer": "No",
+        "Reasoning": "Gender is indicated as male.",
+        "Supporting_Text": "Patient Gender: M",
+        "Confidence": "high"
+      },
+      "OnsetTimingYears": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The note does not provide seizure onset age or duration.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "SeizureFreq": {
+        "Answer": "Reduced, at least monthly seizures.",
+        "Reasoning": "Frequency is described as reduced and seizures occur at least once per month.",
+        "Supporting_Text": "Seizure Frequency: Reduced | gets GTC seizures atleast every moth",
+        "Confidence": "high"
+      },
+      "StatusOrProlonged": {
+        "Answer": "Prolonged seizures lasting about 5-10 minutes described.",
+        "Reasoning": "Episode duration of 5‑10 minutes indicates prolonged seizures.",
+        "Supporting_Text": "When an episode comes, it lasts about 5-10 minutes",
+        "Confidence": "high"
+      },
+      "CognitivePriority": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "No developmental, behavioral, or psychiatric issues are described.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "Risk_Factors": {
+        "Answer": "Possible risk factors are: none mentioned.",
+        "Reasoning": "The note does not mention any of the specified epilepsy risk factors.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "SeizureType": {
+        "Answer": "Generalized tonic-clonic seizures.",
+        "Reasoning": "GTC denotes generalized tonic‑clonic seizures.",
+        "Supporting_Text": "gets GTC seizures",
+        "Confidence": "high"
+      },
+      "drug_clobazam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Clobazam is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_clonazepam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Clonazepam is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_valproate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Valproate is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_ethosuximide": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Ethosuximide is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_levetiracetam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Levetiracetam is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_lamotrigine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Lamotrigine is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenobarbital": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Phenobarbital is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenytoin": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Phenytoin is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_topiramate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Topiramate is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_carbamazepine": {
+        "Answer": "Status: on_arrival",
+        "Reasoning": "The note indicates seizures are reduced with carbamazepine, implying current use.",
+        "Supporting_Text": "episodes are reduced with carbamazepine",
+        "Confidence": "high"
+      }
+    },
+    "Visit_3": {
+      "Age_Years": {
+        "Answer": "5.0",
+        "Reasoning": "The note explicitly states the patient is a 5‑year‑old male.",
+        "Supporting_Text": "5/M",
+        "Confidence": "high"
+      },
+      "Sex_Female": {
+        "Answer": "No",
+        "Reasoning": "Gender is explicitly recorded as male.",
+        "Supporting_Text": "Patient Gender: M",
+        "Confidence": "high"
+      },
+      "OnsetTimingYears": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The note does not provide seizure onset age or duration.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "SeizureFreq": {
+        "Answer": "Seizure-free.",
+        "Reasoning": "The seizure frequency field states the patient is seizure‑free.",
+        "Supporting_Text": "Seizure Frequency: Seizure-free",
+        "Confidence": "high"
+      },
+      "StatusOrProlonged": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "No description of status epilepticus or prolonged seizures is present.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "CognitivePriority": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The note contains no information about developmental, behavioral, or psychiatric issues.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "Risk_Factors": {
+        "Answer": "Possible risk factors are: none mentioned.",
+        "Reasoning": "The note does not mention any of the listed epilepsy risk factors.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "SeizureType": {
+        "Answer": "Generalized convulsive seizures.",
+        "Reasoning": "The impression notes generalized epilepsy, indicating generalized convulsive seizures.",
+        "Supporting_Text": "Imp: Generalised Epilepsy",
+        "Confidence": "high"
+      },
+      "drug_clobazam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Clobazam is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_clonazepam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Clonazepam is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_valproate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Valproate (or any of its synonyms) is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_ethosuximide": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Ethosuximide is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_levetiracetam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Levetiracetam is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_lamotrigine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Lamotrigine is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenobarbital": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Phenobarbital is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenytoin": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Phenytoin is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_topiramate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Topiramate is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_carbamazepine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Carbamazepine is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      }
+    }
+  },
+  "4_Asio Esther Jane": {
+    "Visit_1": {
+      "Age_Years": {
+        "Answer": "4",
+        "Reasoning": "Age is explicitly stated as 4 years in the note.",
+        "Supporting_Text": "Patient Age: 4 years",
+        "Confidence": "high"
+      },
+      "Sex_Female": {
+        "Answer": "Yes",
+        "Reasoning": "Gender is explicitly listed as female.",
+        "Supporting_Text": "Patient Gender: F",
+        "Confidence": "high"
+      },
+      "OnsetTimingYears": {
+        "Answer": "0.6",
+        "Reasoning": "Seizures started 7 months ago, which equals approximately 0.6 years.",
+        "Supporting_Text": "Seizures × 7/12",
+        "Confidence": "high"
+      },
+      "SeizureFreq": {
+        "Answer": "Seizures occurred over the past 7 months.",
+        "Reasoning": "The note indicates seizures have been present for the past 7 months, providing a time frame but not a specific rate.",
+        "Supporting_Text": "Seizures × 7/12",
+        "Confidence": "high"
+      },
+      "StatusOrProlonged": {
+        "Answer": "No prolonged seizures described; episodes lasted about 2 minutes.",
+        "Reasoning": "Episodes were described as lasting about 2 minutes without loss of consciousness, which is not considered prolonged.",
+        "Supporting_Text": "about 2 minutes. No LOC",
+        "Confidence": "high"
+      },
+      "CognitivePriority": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "No developmental, behavioral, or psychiatric issues are described in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "Risk_Factors": {
+        "Answer": "Possible risk factors are: none mentioned.",
+        "Reasoning": "The note does not explicitly mention any of the listed risk factors.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "SeizureType": {
+        "Answer": "Myoclonic atonic seizures (generalized).",
+        "Reasoning": "Diagnosis specifies Myoclonic Atonic Epilepsy, indicating generalized myoclonic‑atonic seizures.",
+        "Supporting_Text": "Myoclonic Atonic Epilepsy (Doose Syndrome)",
+        "Confidence": "high"
+      },
+      "drug_clobazam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Drug name does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_clonazepam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Drug name does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_valproate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Drug name does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_ethosuximide": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Drug name does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_levetiracetam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Drug name does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_lamotrigine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Drug name does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenobarbital": {
+        "Answer": "Status: on_arrival",
+        "Reasoning": "Phenobarbitone is listed as part of the current medication regimen.",
+        "Supporting_Text": "Phenobarbitone",
+        "Confidence": "high"
+      },
+      "drug_phenytoin": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Drug name does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_topiramate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Drug name does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_carbamazepine": {
+        "Answer": "Status: on_arrival",
+        "Reasoning": "Carbamazepine is explicitly stated as a current medication.",
+        "Supporting_Text": "Currently on Carbamazepine",
+        "Confidence": "high"
+      }
+    },
+    "Visit_2": {
+      "Age_Years": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The note does not provide the patient's age nor any data to compute it from baseline.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "Sex_Female": {
+        "Answer": "Yes",
+        "Reasoning": "Gender is explicitly indicated as female.",
+        "Supporting_Text": "Patient Gender: F",
+        "Confidence": "high"
+      },
+      "OnsetTimingYears": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "No information about seizure onset age or duration is provided in this visit note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "SeizureFreq": {
+        "Answer": "No seizures in the last week",
+        "Reasoning": "The mother reports that the patient has had no seizure in the past week, indicating reduced frequency.",
+        "Supporting_Text": "currently has had no seizure in the last week",
+        "Confidence": "high"
+      },
+      "StatusOrProlonged": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The note does not discuss status epilepticus or prolonged seizures.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "CognitivePriority": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "No developmental, behavioral, or psychiatric issues are described.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "Risk_Factors": {
+        "Answer": "Possible risk factors are: none mentioned.",
+        "Reasoning": "The note does not mention any of the listed epilepsy risk factors.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "SeizureType": {
+        "Answer": "Drop attacks (myoclonic-astatic seizures)",
+        "Reasoning": "The note specifically describes the seizures as \"drop attacks,\" characteristic of myoclonic-astatic (Doose) syndrome.",
+        "Supporting_Text": "seizures (drop attacks)",
+        "Confidence": "high"
+      },
+      "drug_clobazam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The drug clobazam does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_clonazepam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The drug clonazepam does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_valproate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The drug valproate does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_ethosuximide": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The drug ethosuximide does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_levetiracetam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The drug levetiracetam does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_lamotrigine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The drug lamotrigine does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenobarbital": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The drug phenobarbital does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenytoin": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The drug phenytoin does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_topiramate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The drug topiramate does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_carbamazepine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The drug carbamazepine does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      }
+    },
+    "Visit_3": {
+      "Age_Years": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The note does not provide the patient's age or birthdate, and baseline age is not given, so age cannot be determined.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "Sex_Female": {
+        "Answer": "Yes",
+        "Reasoning": "Gender is explicitly listed as female.",
+        "Supporting_Text": "Patient Gender: F",
+        "Confidence": "high"
+      },
+      "OnsetTimingYears": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "No information about seizure onset age or duration is provided in this note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "SeizureFreq": {
+        "Answer": "Seizure-free",
+        "Reasoning": "The seizure frequency line states the patient is seizure‑free.",
+        "Supporting_Text": "Seizure Frequency: Seizure-free",
+        "Confidence": "high"
+      },
+      "StatusOrProlonged": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The note does not describe status epilepticus or prolonged seizures.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "CognitivePriority": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "No developmental, behavioral, or psychiatric issues are described.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "Risk_Factors": {
+        "Answer": "Possible risk factors are: none mentioned.",
+        "Reasoning": "The note contains no mention of febrile seizures, meningitis, head trauma, perinatal complications, family history, cerebral malaria, or cerebrovascular disease.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "SeizureType": {
+        "Answer": "Doose Syndrome (myoclonic-astatic seizures)",
+        "Reasoning": "The note states the patient has Doose Syndrome, which defines the seizure type as myoclonic‑astatic.",
+        "Supporting_Text": "managed for Doose Syndrome",
+        "Confidence": "high"
+      },
+      "drug_clobazam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication name clobazam does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_clonazepam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication name clonazepam does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_valproate": {
+        "Answer": "Status: on_arrival",
+        "Reasoning": "The phrase indicates the patient is currently being managed with Sodium Valproate.",
+        "Supporting_Text": "on Ethosuximide and Sodium Valproate",
+        "Confidence": "high"
+      },
+      "drug_ethosuximide": {
+        "Answer": "Status: on_arrival",
+        "Reasoning": "The phrase indicates the patient is currently being managed with Ethosuximide.",
+        "Supporting_Text": "on Ethosuximide and Sodium Valproate",
+        "Confidence": "high"
+      },
+      "drug_levetiracetam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Levetiracetam is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_lamotrigine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Lamotrigine is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenobarbital": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Phenobarbital is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenytoin": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Phenytoin is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_topiramate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Topiramate is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_carbamazepine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Carbamazepine is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      }
+    }
+  },
+  "5_Nalumu Martha": {
+    "Visit_1": {
+      "Age_Years": {
+        "Answer": "2.2",
+        "Reasoning": "Age is explicitly given as 2 years 2 months, which converts to approximately 2.2 years.",
+        "Supporting_Text": "Patient Age: 2 years 2 months",
+        "Confidence": "high"
+      },
+      "Sex_Female": {
+        "Answer": "Yes",
+        "Reasoning": "Gender is explicitly indicated as female.",
+        "Supporting_Text": "Patient Gender: F",
+        "Confidence": "high"
+      },
+      "OnsetTimingYears": {
+        "Answer": "2.2",
+        "Reasoning": "Seizure onset at birth and the patient is 2 years 2 months old, giving a duration of about 2.2 years.",
+        "Supporting_Text": "Age of Onset of Seizure: Birth",
+        "Confidence": "high"
+      },
+      "SeizureFreq": {
+        "Answer": "About 3 episodes per day",
+        "Reasoning": "The note states the current frequency as roughly three seizures each day.",
+        "Supporting_Text": "Mother reports about 3 episodes in a day",
+        "Confidence": "high"
+      },
+      "StatusOrProlonged": {
+        "Answer": "No prolonged seizures described; events last about 1 minute.",
+        "Reasoning": "Seizure duration is described as about one minute, indicating brief events with no status or prolonged seizures.",
+        "Supporting_Text": "they last about 1 minute",
+        "Confidence": "high"
+      },
+      "CognitivePriority": {
+        "Answer": "Developmental delay (global) and cerebral palsy noted.",
+        "Reasoning": "The note records global developmental delay and a diagnosis of cerebral palsy.",
+        "Supporting_Text": "Developmental Delay: Yes | Global | Known CP patient",
+        "Confidence": "high"
+      },
+      "Risk_Factors": {
+        "Answer": "Possible risk factors are: perinatal_complication.",
+        "Reasoning": "Perinatal asphyxia is explicitly listed as a risk factor.",
+        "Supporting_Text": "Checked risk factors: Perinatal asphyxia",
+        "Confidence": "high"
+      },
+      "SeizureType": {
+        "Answer": "Tonic seizures",
+        "Reasoning": "The seizure type is directly identified as tonic.",
+        "Supporting_Text": "Seizure Diagnosis: Tonic Seizure",
+        "Confidence": "high"
+      },
+      "drug_clobazam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication clobazam does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_clonazepam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication clonazepam does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_valproate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication valproate does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_ethosuximide": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication ethosuximide does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_levetiracetam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication levetiracetam does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_lamotrigine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication lamotrigine does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenobarbital": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication phenobarbital does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenytoin": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication phenytoin does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_topiramate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The medication topiramate does not appear in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_carbamazepine": {
+        "Answer": "Status: on_arrival",
+        "Reasoning": "Carbamazepine is listed in the current drug regimen, indicating the patient is presently taking it.",
+        "Supporting_Text": "Tabs Carbamazepine 75 mg bd × 2/12",
+        "Confidence": "high"
+      }
+    },
+    "Visit_2": {
+      "Age_Years": {
+        "Answer": "2.8",
+        "Reasoning": "Age is explicitly stated as 2 years 9/12 months, which equals approximately 2.8 years.",
+        "Supporting_Text": "2 years 9/12 months Female",
+        "Confidence": "high"
+      },
+      "Sex_Female": {
+        "Answer": "Yes",
+        "Reasoning": "Gender is indicated as female (F).",
+        "Supporting_Text": "Patient Gender: F",
+        "Confidence": "high"
+      },
+      "OnsetTimingYears": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The note does not provide any information about when seizures first began.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "SeizureFreq": {
+        "Answer": "5-8 seizures per day",
+        "Reasoning": "Frequency is described as approximately 5 to 8 seizure attacks each day.",
+        "Supporting_Text": "frequent seizure attacks ~ 5-8 times a day",
+        "Confidence": "high"
+      },
+      "StatusOrProlonged": {
+        "Answer": "No prolonged seizures described; events are brief (<1 min)",
+        "Reasoning": "Seizure duration is noted as less than one minute, indicating brief events with no status epilepticus.",
+        "Supporting_Text": "Duration< 1 min",
+        "Confidence": "high"
+      },
+      "CognitivePriority": {
+        "Answer": "Spastic cerebral palsy noted, indicating developmental impairment.",
+        "Reasoning": "Cerebral palsy is a neurodevelopmental disorder that implies developmental impairment.",
+        "Supporting_Text": "Spastic CP",
+        "Confidence": "high"
+      },
+      "Risk_Factors": {
+        "Answer": "Possible risk factors are: none mentioned.",
+        "Reasoning": "The note does not mention any of the specified epilepsy risk factors.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "SeizureType": {
+        "Answer": "Multifocal seizures.",
+        "Reasoning": "Seizure type is described as multifocal epilepsy.",
+        "Supporting_Text": "Multifocal Epilepsy",
+        "Confidence": "high"
+      },
+      "drug_clobazam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Clobazam is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_clonazepam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Clonazepam is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_valproate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Valproate (or its synonyms) is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_ethosuximide": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Ethosuximide is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_levetiracetam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Levetiracetam is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_lamotrigine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Lamotrigine is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenobarbital": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Phenobarbital is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenytoin": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Phenytoin is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_topiramate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Topiramate is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_carbamazepine": {
+        "Answer": "Status: on_arrival",
+        "Reasoning": "The note states the patient is on carbamazepine, indicating current use.",
+        "Supporting_Text": "on Carbamazepine",
+        "Confidence": "high"
+      }
+    },
+    "Visit_3": {
+      "Age_Years": {
+        "Answer": "2.0",
+        "Reasoning": "Age is explicitly stated as 2 years in the clinical notes.",
+        "Supporting_Text": "2 year old",
+        "Confidence": "high"
+      },
+      "Sex_Female": {
+        "Answer": "Yes",
+        "Reasoning": "Gender is indicated as female.",
+        "Supporting_Text": "Patient Gender: F",
+        "Confidence": "high"
+      },
+      "OnsetTimingYears": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "No information about seizure onset age or duration is provided in this note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "SeizureFreq": {
+        "Answer": "Seizure free for about a month.",
+        "Reasoning": "The note explicitly states the patient has been seizure free for about a month.",
+        "Supporting_Text": "has been seizure free for about a month",
+        "Confidence": "high"
+      },
+      "StatusOrProlonged": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "There is no mention of status epilepticus or prolonged seizures.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "CognitivePriority": {
+        "Answer": "Cerebral palsy indicating developmental impairment.",
+        "Reasoning": "CP is a neurodevelopmental disorder that implies developmental impairment.",
+        "Supporting_Text": "2 year old with CP",
+        "Confidence": "high"
+      },
+      "Risk_Factors": {
+        "Answer": "Possible risk factors are: none mentioned.",
+        "Reasoning": "The note does not mention any of the specified epilepsy risk factors.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "SeizureType": {
+        "Answer": "Multifocal epilepsy (multiple focal seizure origins).",
+        "Reasoning": "The note describes the epilepsy as multifocal, indicating focal seizures arising from multiple areas.",
+        "Supporting_Text": "multifocal epilepsy",
+        "Confidence": "high"
+      },
+      "drug_clobazam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Clobazam is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_clonazepam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Clonazepam is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_valproate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Valproate (or any of its synonyms) is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_ethosuximide": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Ethosuximide is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_levetiracetam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Levetiracetam is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_lamotrigine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Lamotrigine is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenobarbital": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Phenobarbital is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenytoin": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Phenytoin is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_topiramate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Topiramate is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_carbamazepine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Carbamazepine is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      }
+    }
+  }
+}
