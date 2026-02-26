@@ -1,0 +1,37 @@
+{
+  "1_Nanyonga Aisha": {
+    "model": "claude-sonnet-4-6",
+    "score": null,
+    "critical_errors": "",
+    "recommendation": "",
+    "full_review": ""
+  },
+  "2_Mwania Sheldon": {
+    "model": "claude-sonnet-4-6",
+    "score": null,
+    "critical_errors": "",
+    "recommendation": "",
+    "full_review": ""
+  },
+  "3_Kazibwe Ryan": {
+    "model": "claude-sonnet-4-6",
+    "score": null,
+    "critical_errors": "",
+    "recommendation": "",
+    "full_review": ""
+  },
+  "4_Asio Esther Jane": {
+    "model": "claude-sonnet-4-6",
+    "score": null,
+    "critical_errors": "",
+    "recommendation": "",
+    "full_review": ""
+  },
+  "5_Nalumu Martha": {
+    "model": "claude-sonnet-4-6",
+    "score": null,
+    "critical_errors": "",
+    "recommendation": "",
+    "full_review": ""
+  }
+}

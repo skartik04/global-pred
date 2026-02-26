@@ -1,0 +1,333 @@
+pid,v1,v2,v3
+1_Nanyonga Aisha,valproate | clobazam; valproate | levetiracetam,valproate | clobazam; valproate | levetiracetam,valproate | lamotrigine | levetiracetam; valproate
+2_Mwania Sheldon,carbamazepine | phenytoin | valproate,carbamazepine | phenytoin | levetiracetam,carbamazepine | levetiracetam | valproate
+3_Kazibwe Ryan,valproate | phenobarbital | carbamazepine,valproate | carbamazepine | clobazam; valproate,valproate | levetiracetam | phenobarbital
+4_Asio Esther Jane,valproate | levetiracetam | topiramate,levetiracetam | valproate | clobazam; phenobarbital,valproate | levetiracetam | ethosuximide
+5_Nalumu Martha,valproate | phenytoin | phenobarbital,carbamazepine | valproate | carbamazepine; levetiracetam,carbamazepine | valproate | levetiracetam
+6_Samiya Mohammed,carbamazepine | levetiracetam | carbamazepine; clobazam,carbamazepine | lamotrigine | carbamazepine; valproate,valproate | clobazam; valproate | levetiracetam; valproate
+7_Akello Angel,carbamazepine | phenobarbital | levetiracetam,valproate | levetiracetam | clobazam; valproate,valproate | lamotrigine | clobazam; valproate
+8_Tisma Natabi,valproate | levetiracetam | carbamazepine; clobazam,carbamazepine | phenobarbital | valproate,levetiracetam | carbamazepine | valproate
+9_Nalukwaago Patience,levetiracetam | valproate | phenobarbital,levetiracetam | lamotrigine | carbamazepine,levetiracetam | phenobarbital | carbamazepine; clobazam
+10_Muduku Matthew,phenobarbital | carbamazepine | levetiracetam,levetiracetam; valproate | levetiracetam | carbamazepine,phenobarbital | levetiracetam | levetiracetam; valproate
+11_Lupuia Michael,valproate | phenobarbital | levetiracetam,valproate | phenobarbital | clobazam; valproate,valproate | clobazam; valproate | levetiracetam
+12_Sewakiryanga Erik,valproate | clobazam; valproate | phenobarbital,valproate | clobazam; valproate | levetiracetam,valproate | clobazam; valproate | levetiracetam
+13_Hikima Rautha,carbamazepine | levetiracetam | carbamazepine; clobazam,carbamazepine | levetiracetam | carbamazepine; clobazam,valproate | levetiracetam | carbamazepine
+14_Mulungi Jemimah,valproate | ethosuximide | clobazam; valproate,ethosuximide | valproate | ethosuximide; valproate,valproate | ethosuximide | lamotrigine
+15_Moses Zinabala,valproate | levetiracetam | clobazam; valproate,levetiracetam | lamotrigine | valproate,valproate | levetiracetam | phenobarbital
+16_Katoosi Timothy,valproate | levetiracetam | carbamazepine; clobazam,valproate | levetiracetam | clobazam; valproate,valproate | lamotrigine | levetiracetam; valproate
+17_Kabito Alpha,valproate | ethosuximide | clobazam; valproate,valproate | clobazam; ethosuximide; valproate | ethosuximide,ethosuximide | clobazam; ethosuximide | valproate
+18_Senyendo Ridhwan,carbamazepine | phenobarbital | levetiracetam,carbamazepine | levetiracetam | phenobarbital,valproate | carbamazepine | lamotrigine
+19_Kimuli Aksam,valproate | clobazam; valproate | levetiracetam,valproate | clobazam; valproate | levetiracetam; valproate,levetiracetam; valproate | clobazam; valproate | carbamazepine; levetiracetam; valproate
+20_Ainebyona David,valproate | phenobarbital | levetiracetam,carbamazepine | levetiracetam | carbamazepine; clobazam,carbamazepine | phenobarbital | levetiracetam
+21_Valencia Wasswa,valproate | phenobarbital | levetiracetam,valproate | levetiracetam; valproate | clobazam; valproate,valproate | levetiracetam; valproate | clobazam; valproate
+22_Awor Veronica,carbamazepine | lamotrigine | carbamazepine; clobazam,carbamazepine | carbamazepine; levetiracetam | levetiracetam,carbamazepine | carbamazepine; levetiracetam | lamotrigine
+23_Namayanja Shuhaira,valproate | levetiracetam | carbamazepine,carbamazepine | levetiracetam | valproate,carbamazepine | valproate | levetiracetam
+24_Nangobi Jazmine,phenobarbital | levetiracetam | valproate,valproate | carbamazepine | clobazam; valproate,valproate | carbamazepine | lamotrigine
+25_Sentongo Edrien,carbamazepine | levetiracetam | valproate,carbamazepine | lamotrigine | levetiracetam,carbamazepine | lamotrigine | levetiracetam
+26_Nalweyiso Zahara,carbamazepine | lamotrigine | levetiracetam,carbamazepine | lamotrigine | levetiracetam,carbamazepine | lamotrigine | carbamazepine; clobazam
+27_kiwujjo Micheal,carbamazepine | levetiracetam | carbamazepine; clobazam,carbamazepine | valproate | carbamazepine; levetiracetam,carbamazepine | valproate | levetiracetam
+28_Berma Bukasa,levetiracetam | phenobarbital | carbamazepine,levetiracetam | phenobarbital | levetiracetam; phenobarbital,levetiracetam | phenobarbital | carbamazepine
+29_Malik Wongho,valproate | clobazam; valproate | phenobarbital,valproate | clobazam; valproate | levetiracetam,clobazam; valproate | lamotrigine; valproate | levetiracetam; valproate
+30_Magezi Walter,valproate | carbamazepine | phenobarbital,valproate | levetiracetam; valproate | phenobarbital,valproate | clobazam; valproate | levetiracetam
+31_Baita Christian,carbamazepine | phenobarbital | carbamazepine; levetiracetam,carbamazepine | phenobarbital | levetiracetam,carbamazepine | levetiracetam | phenobarbital
+32_Kayemba Deo,carbamazepine | valproate | carbamazepine; clobazam,carbamazepine | levetiracetam | carbamazepine; clobazam,carbamazepine | valproate | carbamazepine; clobazam
+33_Nakalyango Nicole,carbamazepine | levetiracetam | phenobarbital,valproate | carbamazepine | clobazam; valproate,valproate | carbamazepine | lamotrigine
+34_Semakula Miracle,valproate | levetiracetam | phenobarbital,valproate | levetiracetam | phenobarbital,valproate | levetiracetam | clobazam; valproate
+35_Nanyanzi Victoria,carbamazepine | lamotrigine | levetiracetam,valproate | levetiracetam | clobazam; valproate,valproate | clobazam; valproate | levetiracetam; valproate
+36_Namugerwa Hawa,valproate | phenobarbital | clobazam; valproate,valproate | levetiracetam; valproate | phenobarbital; valproate,valproate | phenobarbital | phenobarbital; valproate
+37_Tamale Jonathan,valproate | phenobarbital | levetiracetam,valproate | phenobarbital | clobazam; valproate,valproate | phenobarbital | levetiracetam
+38_Nansera George,valproate | phenobarbital | levetiracetam,carbamazepine | levetiracetam; valproate | clobazam; valproate,carbamazepine | levetiracetam; valproate | lamotrigine
+39_Najjemba Christine,carbamazepine | levetiracetam | phenobarbital,valproate | lamotrigine | clobazam; valproate,valproate | levetiracetam | (empty)
+40_Nankya Favour,levetiracetam | valproate | clobazam; levetiracetam,levetiracetam | valproate | carbamazepine,levetiracetam | carbamazepine | phenobarbital
+41_Muvunyi Dvir,carbamazepine | levetiracetam | valproate,carbamazepine | valproate | levetiracetam,carbamazepine | lamotrigine | carbamazepine; phenobarbital
+42_Nabagala Hellen,valproate | levetiracetam | phenobarbital,valproate | levetiracetam | clobazam; valproate,valproate | clobazam; valproate | levetiracetam
+43_Babirye Joan,phenobarbital | levetiracetam | valproate,valproate | lamotrigine | clobazam; valproate,valproate | clobazam; valproate | levetiracetam
+44_Nakidde Zoe,valproate | levetiracetam | clobazam; valproate,valproate | clobazam; valproate | levetiracetam,valproate | clobazam; valproate | levetiracetam; valproate
+45_Nankya Munira,carbamazepine | levetiracetam | phenobarbital,carbamazepine | levetiracetam | carbamazepine; clobazam,carbamazepine | lamotrigine | carbamazepine; clobazam
+46_Kabonge Aaron,phenobarbital | levetiracetam | lamotrigine,valproate | lamotrigine | levetiracetam,valproate | levetiracetam | clobazam; valproate
+47_Mugisha Silver,carbamazepine | lamotrigine | carbamazepine; levetiracetam,carbamazepine | lamotrigine | levetiracetam,carbamazepine | lamotrigine | levetiracetam
+48_Mukisa Jeremiah,valproate | clobazam; valproate | phenobarbital,valproate | levetiracetam; valproate | phenobarbital,valproate | levetiracetam | clobazam; valproate
+49_Magezi Jeremiah,valproate | phenobarbital | levetiracetam,carbamazepine | valproate | levetiracetam,carbamazepine | valproate | carbamazepine; levetiracetam
+50_Talindeka Jeremiah,carbamazepine | valproate | levetiracetam,valproate | carbamazepine | clobazam; valproate,valproate | carbamazepine | clobazam; valproate
+51_Nakafeero Pauline,carbamazepine | lamotrigine | carbamazepine; clobazam,levetiracetam | valproate | carbamazepine; levetiracetam,carbamazepine | carbamazepine; levetiracetam | lamotrigine
+52_Ssemwogerere Farid,valproate | phenytoin | clobazam; valproate,valproate | phenobarbital | clobazam; valproate,valproate | levetiracetam | clobazam; valproate
+53_Bukenya Patrick,valproate | carbamazepine | levetiracetam,valproate | phenobarbital | levetiracetam,valproate | levetiracetam | carbamazepine
+54_Sekito Abdulhakim,carbamazepine | levetiracetam | phenobarbital,carbamazepine | lamotrigine | carbamazepine; clobazam,carbamazepine | lamotrigine | phenobarbital
+55_Semwanga Raphael,valproate | levetiracetam | clobazam; valproate,valproate | lamotrigine | phenobarbital,valproate | levetiracetam | clobazam; valproate
+56_Masanso Wallace,carbamazepine | lamotrigine | phenobarbital,carbamazepine | lamotrigine | levetiracetam,carbamazepine | lamotrigine | carbamazepine; levetiracetam
+57_Pirwot Travis,valproate | phenobarbital | levetiracetam,carbamazepine | carbamazepine; phenobarbital | phenobarbital,carbamazepine | valproate | carbamazepine; levetiracetam
+58_Sekyeru Jeremiah,valproate | levetiracetam | phenobarbital,valproate | levetiracetam; valproate | phenobarbital,valproate | levetiracetam; valproate | levetiracetam
+59_Adikin Kerin,valproate | levetiracetam | phenobarbital,carbamazepine | lamotrigine | carbamazepine; levetiracetam,carbamazepine | carbamazepine; valproate | carbamazepine; levetiracetam
+60_Kabenge Rayan,valproate | levetiracetam; valproate | levetiracetam,valproate | clobazam; valproate | levetiracetam,valproate | levetiracetam | phenobarbital
+61_Nakate Liza,valproate | phenobarbital | levetiracetam,valproate | clobazam; valproate | phenobarbital,clobazam; topiramate; valproate | clobazam; levetiracetam; valproate | phenobarbital; valproate
+62_Bros Collins,valproate | clobazam; valproate | levetiracetam,valproate | clobazam; valproate | phenobarbital,valproate | levetiracetam | clobazam; valproate
+63_Buyinza Alex,valproate | phenobarbital | carbamazepine,carbamazepine | valproate | carbamazepine; clobazam,carbamazepine | valproate | carbamazepine; clobazam
+64_Owinyi Golden,carbamazepine | phenobarbital | valproate,phenobarbital | levetiracetam; phenobarbital | lamotrigine; phenobarbital,valproate | phenobarbital; valproate | phenobarbital
+65_Kasana Aidah,valproate | phenobarbital | levetiracetam,carbamazepine | lamotrigine | levetiracetam,carbamazepine | valproate | carbamazepine; levetiracetam
+66_Semakula Nation,valproate | phenobarbital | levetiracetam,valproate | levetiracetam | phenobarbital,valproate | phenobarbital | levetiracetam; valproate
+67_Ssenyonjo Waswa,valproate | phenobarbital; valproate | phenobarbital,valproate | clobazam; valproate | phenobarbital,valproate | clobazam; valproate | levetiracetam; valproate
+68_Mpagi Mohammed,valproate | ethosuximide | lamotrigine,ethosuximide | valproate | levetiracetam,carbamazepine | phenobarbital | levetiracetam
+69_Ainembabazi Prosper,valproate | phenobarbital | levetiracetam,valproate | levetiracetam | phenobarbital,valproate | carbamazepine | (empty)
+70_Namukose Mary,carbamazepine | valproate | carbamazepine; phenobarbital,carbamazepine | levetiracetam | carbamazepine; clobazam,carbamazepine | levetiracetam | valproate
+71_Nabbossa Meghan,valproate | levetiracetam; valproate | clobazam; valproate,valproate | levetiracetam; valproate | phenobarbital,valproate | clobazam; valproate | phenobarbital
+72_Nalusiba Sandra,carbamazepine | valproate | levetiracetam,carbamazepine | levetiracetam | phenobarbital,levetiracetam | valproate | carbamazepine
+73_Maselino Gombe,valproate | phenobarbital | levetiracetam,valproate | phenobarbital | clobazam; valproate,valproate | levetiracetam; valproate | phenobarbital
+74_Mukisa Shalom,valproate | phenobarbital | phenobarbital; valproate,valproate | carbamazepine | phenobarbital; valproate,valproate | phenobarbital | levetiracetam
+75_Nakabuye Swahih,valproate | phenobarbital | levetiracetam,valproate | clobazam; valproate | levetiracetam,valproate | levetiracetam | clobazam; valproate
+76_Ainebyona Genesis,valproate | phenobarbital | levetiracetam,phenobarbital | levetiracetam | carbamazepine,levetiracetam | valproate | clobazam; valproate
+77_Promise Ambrose,valproate | levetiracetam; valproate | lamotrigine; valproate,valproate | levetiracetam; valproate | topiramate; valproate,lamotrigine | levetiracetam | clonazepam; lamotrigine; valproate
+78_Katamba Druscilla,levetiracetam | lamotrigine | clobazam; phenobarbital,valproate | lamotrigine | levetiracetam; valproate,valproate | clobazam; valproate | lamotrigine
+79_Dalton Nakimbugwe,lamotrigine | levetiracetam | valproate,valproate | levetiracetam | phenobarbital,valproate | levetiracetam | phenobarbital
+80_Ssubi Adrian Jolline,ethosuximide | valproate | lamotrigine,ethosuximide | valproate | ethosuximide; valproate,ethosuximide | valproate | ethosuximide; valproate
+81_Echanu Elvis,carbamazepine | phenobarbital | levetiracetam,valproate | carbamazepine | clobazam; valproate,valproate | phenobarbital | levetiracetam; valproate
+82_Shadin Rajat,valproate | clobazam; valproate | levetiracetam,valproate | levetiracetam | phenobarbital,valproate | lamotrigine | levetiracetam
+83_Ahmed Mohamed Abdulkadir,valproate | clobazam; phenobarbital | levetiracetam,valproate | levetiracetam; valproate | phenobarbital; valproate,carbamazepine | carbamazepine; levetiracetam | levetiracetam; valproate
+84_Andwaniira Emmanuel,valproate | phenobarbital | levetiracetam,carbamazepine | valproate | carbamazepine; levetiracetam,carbamazepine | carbamazepine; levetiracetam | phenobarbital
+85_Mirembe Mercy,phenobarbital | clobazam; phenobarbital | levetiracetam,valproate | clobazam; valproate | phenobarbital; valproate,levetiracetam | levetiracetam; phenobarbital | phenobarbital
+86_Namukose Gift,carbamazepine | lamotrigine | phenobarbital,valproate | levetiracetam; valproate | levetiracetam,clobazam; valproate | valproate | levetiracetam
+87_Isingoma Creven,valproate | levetiracetam | phenobarbital,valproate | phenobarbital | levetiracetam,valproate | levetiracetam | phenobarbital
+88_Kamoga Joseph,valproate | phenobarbital | clobazam; valproate,phenobarbital | valproate | levetiracetam,valproate | phenobarbital | levetiracetam
+89_Lukwago Benjamin,carbamazepine | levetiracetam | phenobarbital,carbamazepine | levetiracetam | carbamazepine; levetiracetam,carbamazepine | lamotrigine | carbamazepine; levetiracetam
+90_Odongo Moses,carbamazepine | carbamazepine; clobazam | phenobarbital,carbamazepine | levetiracetam | carbamazepine; clobazam; valproate,carbamazepine | levetiracetam | carbamazepine; levetiracetam
+91_Kirabo Emmanuel,phenobarbital | levetiracetam | valproate,valproate | clobazam; valproate | levetiracetam,valproate | clobazam; valproate | levetiracetam
+92_Rubangakene Bright,carbamazepine | valproate | phenobarbital,carbamazepine | lamotrigine | carbamazepine; levetiracetam,carbamazepine | lamotrigine | levetiracetam
+93_Ikiriza Jenayah,valproate | carbamazepine | levetiracetam; valproate,valproate | carbamazepine | clobazam; valproate,valproate | clobazam; valproate | phenobarbital
+94_Lomakol Ives Zane,carbamazepine | carbamazepine; clobazam; levetiracetam | clobazam; phenobarbital,carbamazepine; clobazam | clobazam; valproate | carbamazepine; clobazam; valproate,carbamazepine; clobazam; valproate | carbamazepine | valproate
+95_Lomakol Ives Zane,carbamazepine | valproate | carbamazepine; levetiracetam,carbamazepine | carbamazepine; levetiracetam | valproate,carbamazepine | carbamazepine; levetiracetam | carbamazepine; clobazam; valproate
+96_Ayan Nicholas,carbamazepine | phenobarbital | levetiracetam,carbamazepine | levetiracetam | phenobarbital,valproate | carbamazepine; clobazam | levetiracetam
+97_Ahimbisibwe Keron,carbamazepine | phenobarbital | levetiracetam,carbamazepine | lamotrigine | valproate,carbamazepine | valproate | carbamazepine; valproate
+98_Magalo Imran,valproate | levetiracetam | phenobarbital,valproate | levetiracetam | clobazam; valproate,valproate | levetiracetam | clobazam; valproate
+99_Akol Precious,carbamazepine | lamotrigine | levetiracetam,carbamazepine | lamotrigine | carbamazepine; clobazam,carbamazepine | lamotrigine | levetiracetam
+100_Otim Fortunate,valproate | clobazam; valproate | levetiracetam,valproate | levetiracetam; valproate | phenobarbital,valproate | levetiracetam; valproate | topiramate; valproate
+101_Osukira Josiah,carbamazepine | valproate | carbamazepine; levetiracetam,carbamazepine | levetiracetam | carbamazepine; clobazam,carbamazepine; clobazam | levetiracetam | valproate
+102_Mulungi Rodney,carbamazepine | levetiracetam | phenobarbital,carbamazepine | levetiracetam | carbamazepine; clobazam,carbamazepine | levetiracetam | carbamazepine; clobazam
+103_Ssempala Ian,valproate | phenobarbital | levetiracetam,valproate | carbamazepine | clobazam; valproate,valproate | carbamazepine | clobazam; valproate
+104_Ssenfuka Benjamin,valproate | clobazam; valproate | topiramate; valproate,valproate | clobazam; levetiracetam; valproate | lamotrigine,clobazam; valproate | clobazam; lamotrigine; valproate | clobazam; topiramate
+105_Babirye Zawujja,carbamazepine | lamotrigine | carbamazepine; clobazam,carbamazepine | lamotrigine | levetiracetam,carbamazepine | lamotrigine | carbamazepine; clobazam
+106_Senyondo Ian,carbamazepine | lamotrigine | levetiracetam,lamotrigine; levetiracetam | lamotrigine | carbamazepine,lamotrigine; levetiracetam | lamotrigine | carbamazepine
+107_Ismahan Mahad,carbamazepine | levetiracetam | phenobarbital,valproate | clobazam; valproate | levetiracetam; valproate,clobazam; lamotrigine; valproate | clobazam; levetiracetam; valproate | phenobarbital; valproate
+108_Arinaitwe Aryna,valproate | carbamazepine | levetiracetam,valproate | lamotrigine | clobazam; valproate,valproate | lamotrigine | clobazam; valproate
+109_Nakazi Hope,carbamazepine | levetiracetam | carbamazepine; clobazam,carbamazepine | carbamazepine; clobazam | levetiracetam,carbamazepine | phenobarbital | levetiracetam
+110_Manozi Angella,ethosuximide | valproate | lamotrigine,valproate | ethosuximide | lamotrigine,ethosuximide | lamotrigine | valproate
+111_Nalubega Darphine,levetiracetam | lamotrigine | phenobarbital,levetiracetam | lamotrigine | valproate,levetiracetam | lamotrigine | clobazam; valproate
+112_Kabenge Rayan,valproate | clobazam; valproate | levetiracetam,valproate | levetiracetam | phenobarbital,valproate | levetiracetam | clobazam; valproate
+113_Mbabazi Martha,valproate | ethosuximide | levetiracetam,valproate | ethosuximide | clobazam; valproate,valproate | ethosuximide | clobazam; valproate
+114_Iratukunda Danita,carbamazepine | lamotrigine | levetiracetam,carbamazepine | lamotrigine | levetiracetam,carbamazepine | lamotrigine | levetiracetam
+115_Mugwanya Loijo,phenobarbital | levetiracetam | valproate,carbamazepine | lamotrigine | carbamazepine; clobazam,carbamazepine | valproate | phenobarbital
+116_Nansubuga Angel,carbamazepine | lamotrigine | levetiracetam,carbamazepine | lamotrigine | carbamazepine; clobazam,carbamazepine | lamotrigine | phenobarbital
+117_Muyingo Shammah,valproate | phenobarbital | levetiracetam,valproate | levetiracetam | clobazam; levetiracetam,carbamazepine | levetiracetam | carbamazepine; clobazam; levetiracetam
+118_Ssebadduka Derrick,carbamazepine | lamotrigine | carbamazepine; clobazam,carbamazepine | lamotrigine | levetiracetam,carbamazepine | lamotrigine | levetiracetam
+119_Odur Hillary,valproate | clobazam; valproate | carbamazepine,valproate | levetiracetam | clobazam; valproate,valproate | carbamazepine | levetiracetam; valproate
+120_Tumaebaze Emmanuel,carbamazepine | valproate | phenobarbital,carbamazepine | lamotrigine | carbamazepine; clobazam,carbamazepine | lamotrigine | levetiracetam
+121_Kitaka Raymond,valproate | phenobarbital | levetiracetam,valproate | phenobarbital | clobazam; valproate,valproate | clobazam; valproate | carbamazepine
+122_Tabuzibwa Benjamin,carbamazepine | lamotrigine | carbamazepine; levetiracetam,carbamazepine | lamotrigine | carbamazepine; clobazam,carbamazepine | lamotrigine | carbamazepine; clobazam
+123_Awania Epiphany,valproate | clobazam; valproate | phenobarbital,valproate | carbamazepine | clobazam; valproate,carbamazepine | carbamazepine; levetiracetam | phenobarbital
+124_Afaayo Francis,valproate | levetiracetam; valproate | clobazam; valproate,valproate | levetiracetam; valproate | clobazam; levetiracetam; valproate,valproate | clobazam; levetiracetam; valproate | lamotrigine; valproate
+125_Arame Hirwe Ayan,valproate | levetiracetam | carbamazepine,valproate | lamotrigine | phenobarbital,valproate | carbamazepine | clobazam; valproate
+126_Ayebale Shilla,valproate | clobazam; valproate | levetiracetam,valproate | phenobarbital | levetiracetam; valproate,clobazam; lamotrigine; valproate | levetiracetam; topiramate; valproate | lamotrigine; levetiracetam; valproate
+127_Nakawesi Jamirah,valproate | phenobarbital | levetiracetam,valproate | levetiracetam | clobazam; valproate,valproate | levetiracetam | phenobarbital
+128_Malukwago Joan Angel,levetiracetam | valproate | phenobarbital,lamotrigine | levetiracetam | phenobarbital,levetiracetam | lamotrigine | clobazam; valproate
+129_Nakiranda Prisca,levetiracetam | carbamazepine | valproate,carbamazepine | carbamazepine; valproate | lamotrigine,carbamazepine | valproate | carbamazepine; valproate
+130_Mukasa Rajab,carbamazepine | lamotrigine | carbamazepine; levetiracetam,carbamazepine | lamotrigine | levetiracetam,carbamazepine | lamotrigine | carbamazepine; clobazam
+131_Muwanguzi Blessed Serugga,carbamazepine | levetiracetam | carbamazepine; levetiracetam,carbamazepine | lamotrigine | carbamazepine; levetiracetam,carbamazepine | carbamazepine; lamotrigine | carbamazepine; levetiracetam
+132_Naiga Joy,valproate | carbamazepine | carbamazepine; valproate,carbamazepine | valproate | levetiracetam; valproate,levetiracetam | lamotrigine | clobazam; levetiracetam
+133_Nsamba Ethan,valproate | phenobarbital | carbamazepine,(empty) | phenobarbital | levetiracetam,valproate | phenobarbital | levetiracetam
+134_Nomuhangi Daniel,valproate | carbamazepine | lamotrigine,valproate | carbamazepine | clobazam; valproate,valproate | carbamazepine | levetiracetam
+135_Best Betina,valproate | clobazam; valproate | levetiracetam,valproate | carbamazepine | lamotrigine,valproate | carbamazepine | lamotrigine
+136_Ssejjengo Hashim,carbamazepine; valproate | carbamazepine | valproate,carbamazepine | valproate | carbamazepine; valproate,carbamazepine | carbamazepine; valproate | valproate
+138_Aronda Alban,valproate | carbamazepine | carbamazepine; levetiracetam,carbamazepine | valproate | phenobarbital,carbamazepine | valproate | levetiracetam
+139_Kamulegeya Kudra,lamotrigine | carbamazepine | valproate,valproate | levetiracetam | clobazam; valproate,phenobarbital | levetiracetam; valproate | levetiracetam
+140_Bayiga Shama,valproate | phenobarbital | levetiracetam,valproate | clobazam; valproate | levetiracetam,valproate | phenobarbital | clobazam; valproate
+141_Kirikarama Joshua,valproate | levetiracetam | levetiracetam; valproate,clobazam; levetiracetam; valproate | valproate | topiramate; valproate,levetiracetam | levetiracetam; topiramate | levetiracetam; valproate
+142_Onyero Rogers,valproate | clobazam; valproate | levetiracetam,valproate | carbamazepine | clobazam; valproate,valproate | lamotrigine; valproate | clobazam; levetiracetam; valproate
+143_Mwanje Frankline,carbamazepine | lamotrigine | carbamazepine; levetiracetam,valproate | levetiracetam | lamotrigine,carbamazepine | levetiracetam | phenobarbital
+144_Isambira Prosper,valproate | phenobarbital; valproate | levetiracetam; valproate,valproate | clonazepam; valproate | levetiracetam,valproate | clonazepam; valproate | levetiracetam
+145_Muhimbise Blessing,valproate | phenobarbital | clobazam; valproate,carbamazepine | valproate | lamotrigine,carbamazepine | valproate | phenobarbital
+146_Kigenyi Fred,valproate | phenobarbital | levetiracetam,carbamazepine | valproate | levetiracetam,valproate | carbamazepine | clobazam; valproate
+147_Matovu Trinah,levetiracetam | lamotrigine | phenobarbital,carbamazepine | lamotrigine | carbamazepine; clobazam,carbamazepine | lamotrigine | levetiracetam
+148_Mayengo Bernard,carbamazepine | levetiracetam | carbamazepine; clobazam,valproate | levetiracetam; valproate | phenobarbital; valproate,valproate | levetiracetam; valproate | clobazam; valproate
+149_Kizito Enock,valproate | phenobarbital | levetiracetam; valproate,valproate | clobazam; valproate | phenobarbital,valproate | levetiracetam | levetiracetam; valproate
+150_Tumwebaze Emmanuel,carbamazepine | valproate | phenobarbital,carbamazepine | lamotrigine | valproate,carbamazepine | lamotrigine | carbamazepine; levetiracetam
+151_Nassali Ronita,carbamazepine | lamotrigine | phenobarbital,carbamazepine | lamotrigine | carbamazepine; clobazam,carbamazepine | lamotrigine | carbamazepine; levetiracetam
+152_Mubangizi Elizabeth,valproate | phenobarbital | levetiracetam,valproate | levetiracetam | lamotrigine,valproate | levetiracetam | clobazam; valproate
+153_Kakande Huzaifa,valproate | levetiracetam | phenobarbital,valproate | levetiracetam; valproate | clonazepam; valproate,valproate | levetiracetam; valproate | clobazam; valproate
+154_Rubangakene Joseph,valproate | carbamazepine | levetiracetam,valproate | lamotrigine | carbamazepine,clobazam; valproate | levetiracetam | valproate
+155_Numazi Shamirah,valproate | clobazam; valproate | levetiracetam,carbamazepine | levetiracetam | lamotrigine,carbamazepine | carbamazepine; levetiracetam | carbamazepine; valproate
+156_Irumba Peter,valproate | phenobarbital | levetiracetam,valproate | clobazam; valproate | phenobarbital,clobazam; valproate | valproate | levetiracetam; valproate
+157_Odong Raphael,carbamazepine | levetiracetam | phenobarbital,carbamazepine | levetiracetam | carbamazepine; levetiracetam,carbamazepine | carbamazepine; levetiracetam | phenobarbital
+158_Namugalu Shatra,levetiracetam | carbamazepine | valproate,valproate | clobazam; valproate | lamotrigine,valproate | carbamazepine; valproate | levetiracetam
+159_Nyanzi Rowan,carbamazepine | phenobarbital | levetiracetam,carbamazepine | levetiracetam | carbamazepine; phenobarbital,carbamazepine | phenobarbital | carbamazepine; levetiracetam
+160_Arinda Robinson,carbamazepine | levetiracetam | valproate,carbamazepine | lamotrigine | carbamazepine; levetiracetam,carbamazepine | lamotrigine | carbamazepine; levetiracetam
+161_Alonyo Ellijah,carbamazepine | phenobarbital | levetiracetam,valproate | carbamazepine | lamotrigine,valproate | clobazam; valproate | phenobarbital
+162_Atwiine Disani,phenobarbital | levetiracetam | valproate,valproate | clobazam; valproate | levetiracetam,valproate | phenobarbital | levetiracetam
+163_Nalubwama Jacinta,carbamazepine | levetiracetam | valproate,valproate | carbamazepine | lamotrigine,carbamazepine | valproate | levetiracetam
+164_Adadi Bwanika,valproate | clobazam; valproate | phenobarbital,valproate | levetiracetam | clobazam; valproate,valproate | clobazam; valproate | lamotrigine
+165_Nakalanzi Hafswa,valproate | levetiracetam | clobazam; valproate,valproate | levetiracetam | clobazam; valproate,valproate | levetiracetam | clobazam; valproate
+166_Mukisa Joshua,phenobarbital | levetiracetam | valproate,valproate | phenobarbital | levetiracetam; valproate,valproate | phenobarbital | clobazam; valproate
+167_Asiimwe Roland,valproate | clobazam; valproate | levetiracetam,valproate | carbamazepine | clobazam; valproate,clobazam; levetiracetam; valproate | clobazam; valproate | carbamazepine
+168_Kato Paul,valproate | phenobarbital | carbamazepine,valproate | levetiracetam | carbamazepine; clobazam,carbamazepine | valproate | levetiracetam
+169_Senyange Jethro,valproate | phenobarbital | levetiracetam,valproate | levetiracetam | phenobarbital,valproate | levetiracetam | phenobarbital
+170_Kobugabe Claire,phenytoin | lamotrigine | phenobarbital,valproate | levetiracetam | clobazam; valproate,valproate | clobazam; valproate | levetiracetam
+171_Afaayo Francis,valproate | levetiracetam | levetiracetam; valproate,valproate | clobazam; valproate | levetiracetam; valproate,valproate | clobazam; valproate | phenobarbital
+172_Kansiime Nihalo,valproate | phenobarbital | levetiracetam; valproate,valproate | phenobarbital | clobazam; valproate,valproate | phenobarbital | clobazam; valproate
+173_Kasirye Hatib,valproate | phenobarbital | levetiracetam,carbamazepine | phenobarbital | levetiracetam,valproate | clobazam; valproate | phenobarbital
+174_Oming Stephen,carbamazepine | lamotrigine | levetiracetam,carbamazepine | lamotrigine | carbamazepine; clobazam,carbamazepine | carbamazepine; levetiracetam | lamotrigine
+175_Nsimbi Ethan,carbamazepine | levetiracetam | phenobarbital,carbamazepine | clobazam; valproate | lamotrigine,valproate | levetiracetam; valproate | clobazam; valproate
+176_Kantiti Jormaine,clobazam; valproate | levetiracetam; valproate | valproate,carbamazepine | lamotrigine | clobazam; valproate,valproate | clobazam; valproate | levetiracetam
+177_Natukunda Promise,carbamazepine | levetiracetam | carbamazepine; clobazam,valproate | levetiracetam; valproate | clobazam; valproate,valproate | carbamazepine; valproate | levetiracetam; valproate
+178_Muganguzi Jonathan,valproate | clobazam; valproate | phenobarbital,valproate | phenobarbital | clobazam; valproate,valproate | levetiracetam | phenobarbital
+179_Nasirwa Halima,carbamazepine | levetiracetam | phenobarbital,carbamazepine | lamotrigine | valproate,valproate | carbamazepine | clobazam; valproate
+180_Agasha Raphaella,valproate | clobazam; valproate | levetiracetam; valproate,valproate | clobazam; valproate | phenobarbital,valproate | levetiracetam | clobazam; valproate
+181_Tumuramye Calvin,valproate | phenobarbital | levetiracetam,carbamazepine | valproate | carbamazepine; clobazam,carbamazepine | valproate | carbamazepine; clobazam
+182_Lubega Joel,valproate | phenobarbital | levetiracetam,lamotrigine | levetiracetam | carbamazepine; phenobarbital,carbamazepine | levetiracetam | carbamazepine; clobazam
+183_Zimula Hilamu,phenobarbital | levetiracetam | valproate,phenobarbital | levetiracetam | clobazam; phenobarbital,valproate | phenobarbital | levetiracetam; valproate
+184_Kasujja Imran,valproate | levetiracetam | phenobarbital,valproate | clobazam; valproate | phenobarbital,valproate | clobazam; valproate | levetiracetam
+185_Nakiwala Patricia,levetiracetam | carbamazepine; clobazam | phenobarbital,valproate | clobazam; valproate | lamotrigine,levetiracetam | valproate | clobazam; lamotrigine
+186_Ndawula Jarius,carbamazepine | valproate | phenobarbital,carbamazepine | lamotrigine | carbamazepine; levetiracetam,levetiracetam | valproate | carbamazepine; clobazam
+187_Opul Elijah,valproate | phenobarbital | levetiracetam,valproate | phenobarbital | levetiracetam,phenobarbital | levetiracetam | clobazam; phenobarbital
+188_Kakooza Destiny,valproate | phenobarbital | clobazam; valproate,valproate | carbamazepine | clobazam; valproate,valproate | levetiracetam; valproate | levetiracetam
+190_Ssentongo Joseph,carbamazepine | valproate | levetiracetam,carbamazepine | lamotrigine | carbamazepine; levetiracetam,carbamazepine; valproate | carbamazepine | levetiracetam
+191_Afoyoa Alvin,carbamazepine | lamotrigine | levetiracetam,carbamazepine | lamotrigine | carbamazepine; levetiracetam,carbamazepine | lamotrigine | phenobarbital
+192_Namubiru Alia,phenobarbital | levetiracetam | valproate,carbamazepine | valproate | phenobarbital,carbamazepine | carbamazepine; clobazam | levetiracetam
+193_Wasswa Isiah,valproate | levetiracetam | phenobarbital,valproate | phenobarbital; valproate | phenobarbital,valproate | valproate | levetiracetam
+194_Kamugisha Anthony,carbamazepine | valproate | phenobarbital,carbamazepine | carbamazepine; clobazam; valproate | lamotrigine,carbamazepine | valproate | carbamazepine; levetiracetam
+195_Tebandeka Abubaker,valproate | phenobarbital | levetiracetam,valproate | phenobarbital | carbamazepine,valproate | levetiracetam | clobazam
+196_Kigozi David,valproate | clobazam; valproate | levetiracetam; valproate,clobazam; valproate | levetiracetam; valproate | valproate,clobazam; topiramate; valproate | clobazam; lamotrigine; valproate | clobazam; levetiracetam; valproate
+197_Mukisa Fagil,carbamazepine | lamotrigine | valproate,carbamazepine | lamotrigine | levetiracetam,carbamazepine | lamotrigine | carbamazepine; levetiracetam
+198_Ahumuza Rodin,valproate | phenobarbital | clobazam; valproate,valproate | levetiracetam | clobazam; valproate,valproate | phenobarbital | lamotrigine
+199_Mayamba Jedidah,carbamazepine | lamotrigine | carbamazepine; clobazam,carbamazepine | levetiracetam | carbamazepine; clobazam,carbamazepine | phenobarbital | levetiracetam
+200_Wasswa Sembatya,valproate | levetiracetam | phenobarbital,valproate | phenobarbital | levetiracetam,valproate | levetiracetam | phenobarbital
+201_Namozi Chloe Miracle,valproate | phenobarbital | levetiracetam,phenobarbital | levetiracetam | levetiracetam; phenobarbital,carbamazepine | phenobarbital | clobazam; levetiracetam
+202_Kasule Amil,valproate | phenobarbital | levetiracetam,valproate | levetiracetam | clobazam,valproate | levetiracetam; valproate | phenobarbital
+203_Sadat Gitta,carbamazepine | levetiracetam | phenobarbital,carbamazepine | lamotrigine | carbamazepine; clobazam,carbamazepine | lamotrigine | phenobarbital
+204_Nalusiba Parvin,valproate | carbamazepine | phenobarbital,carbamazepine | levetiracetam | carbamazepine; clobazam,carbamazepine | carbamazepine; levetiracetam | lamotrigine
+205_Kirabo Hilda,valproate | levetiracetam | clobazam; valproate,valproate | levetiracetam | clobazam; valproate,valproate | lamotrigine | levetiracetam
+206_Nuwahereza Peterson,valproate | levetiracetam | clobazam; valproate,valproate | clobazam; valproate | levetiracetam; valproate,valproate | clobazam; valproate | levetiracetam
+207_Namiro Hadija,carbamazepine | lamotrigine | carbamazepine; clobazam,carbamazepine | phenobarbital | levetiracetam,levetiracetam | lamotrigine | carbamazepine; clobazam
+208_Luyomba Miracle,valproate | levetiracetam | phenobarbital,carbamazepine | valproate | carbamazepine; clobazam,carbamazepine | levetiracetam | phenobarbital
+209_Semwogerere Annul,valproate | levetiracetam | phenobarbital,carbamazepine | valproate | levetiracetam,valproate | carbamazepine | levetiracetam
+210_Kitabwa Jonathan,valproate | carbamazepine | levetiracetam,valproate | carbamazepine | phenobarbital,valproate | carbamazepine | clobazam; valproate
+211_Senyonjo Miracle,valproate | phenobarbital | levetiracetam,carbamazepine | phenobarbital | levetiracetam,carbamazepine | levetiracetam | carbamazepine; clobazam
+212_Akuzizibwe Jemuel,valproate | phenobarbital | levetiracetam,carbamazepine | valproate | levetiracetam,carbamazepine | valproate | phenobarbital
+213_Sinyoli Cyrus,valproate | levetiracetam | clobazam; valproate,valproate | levetiracetam | clobazam; valproate,valproate | phenobarbital | levetiracetam
+214_Ssekido Isaiah,carbamazepine | phenobarbital | carbamazepine; clobazam,carbamazepine | phenobarbital | levetiracetam,carbamazepine | phenobarbital | lamotrigine
+215_Nakyeyune Martha,carbamazepine | levetiracetam | carbamazepine; clobazam,valproate | carbamazepine; levetiracetam | carbamazepine; clobazam; valproate,carbamazepine | lamotrigine | levetiracetam
+216_Rukundo Jeremiah,carbamazepine | levetiracetam | carbamazepine; clobazam,carbamazepine | levetiracetam | carbamazepine; valproate,carbamazepine | carbamazepine; valproate | valproate
+217_Koloba Steven,valproate | phenobarbital | levetiracetam,valproate | levetiracetam | phenobarbital,valproate | clobazam; valproate | levetiracetam
+218_Katende Gideon,valproate | carbamazepine | lamotrigine,valproate | carbamazepine | lamotrigine,valproate | carbamazepine | clobazam; valproate
+219_Magala Jovan,carbamazepine | lamotrigine | levetiracetam,carbamazepine | lamotrigine | levetiracetam,carbamazepine | lamotrigine | levetiracetam
+220_Kigozi Goshen,carbamazepine | levetiracetam | phenobarbital,valproate | levetiracetam | phenobarbital,valproate | levetiracetam | carbamazepine
+221_Baalimira Jaunice,valproate | clobazam; valproate | phenobarbital,valproate | levetiracetam; valproate | phenobarbital,valproate | clobazam; valproate | phenobarbital
+222_Kisakye Samuel,phenobarbital | valproate | levetiracetam,valproate | levetiracetam | phenobarbital,valproate | phenobarbital | phenobarbital; valproate
+223_Kasozi Elijah,valproate | phenobarbital | levetiracetam,valproate | clobazam; valproate | phenobarbital,valproate | phenobarbital | levetiracetam
+224_Mukama Sadat,levetiracetam | phenobarbital | clobazam; valproate,valproate | levetiracetam; valproate | levetiracetam,carbamazepine | levetiracetam | phenobarbital
+225_Namatovu Matilda,levetiracetam | valproate | phenobarbital,phenobarbital | levetiracetam | carbamazepine,levetiracetam | clobazam; lamotrigine | valproate
+226_Muganga Dauda,phenobarbital | levetiracetam | valproate,valproate | phenobarbital | levetiracetam; valproate,valproate | phenobarbital | levetiracetam; valproate
+227_Muluwaya Arnold,valproate | levetiracetam | phenobarbital,valproate | lamotrigine | clobazam; valproate,valproate | levetiracetam | clobazam; valproate
+228_Namara Sarah,carbamazepine | levetiracetam | carbamazepine; levetiracetam,carbamazepine; clobazam; levetiracetam | carbamazepine | phenobarbital,carbamazepine | levetiracetam | carbamazepine; levetiracetam
+229_Katumba Patrick,valproate | phenobarbital | levetiracetam,carbamazepine | levetiracetam | carbamazepine; clobazam,carbamazepine | carbamazepine; clobazam; levetiracetam | valproate
+230_Okipi Elijah,valproate | levetiracetam | phenobarbital,carbamazepine | lamotrigine | carbamazepine; clobazam,carbamazepine | levetiracetam | carbamazepine; clobazam
+231_Kayondo Mesach,valproate | phenobarbital | levetiracetam,valproate | carbamazepine | levetiracetam; valproate,valproate | levetiracetam; valproate | clobazam; valproate
+232_Nanungi Teddy,carbamazepine | valproate | phenobarbital,carbamazepine | valproate | carbamazepine; valproate,carbamazepine | lamotrigine | carbamazepine; levetiracetam
+233_Nabunje Shivan,valproate | levetiracetam | phenobarbital,valproate | levetiracetam | phenobarbital,levetiracetam | lamotrigine | valproate
+234_Ssekalongo Malcom,carbamazepine | valproate | phenobarbital,carbamazepine | phenobarbital | carbamazepine; clobazam,carbamazepine | phenobarbital | lamotrigine
+235_Sseremba Ibra,valproate | phenobarbital | levetiracetam,valproate | clobazam; valproate | topiramate,valproate | clobazam; valproate | levetiracetam; valproate
+236_Wasswa Isiah,phenobarbital | valproate | levetiracetam,valproate | phenobarbital | levetiracetam,valproate | valproate | phenobarbital
+237_Ssemukasa Sadam,valproate | levetiracetam | phenobarbital,carbamazepine | valproate | levetiracetam,carbamazepine | levetiracetam | phenobarbital
+238_Kunguvu Moses,valproate | phenobarbital | levetiracetam,valproate | carbamazepine | clobazam; valproate,valproate | levetiracetam; valproate | clobazam; valproate
+239_Katende Ashim,valproate | valproate | phenobarbital,carbamazepine | levetiracetam | phenobarbital,carbamazepine | lamotrigine | carbamazepine; clobazam
+240_Babirye Atuhaire,carbamazepine | phenobarbital | levetiracetam,carbamazepine | lamotrigine | carbamazepine; clobazam,carbamazepine | lamotrigine | carbamazepine; clobazam
+241_Nakagera Rhama,valproate | phenobarbital | levetiracetam,valproate | clobazam; valproate | levetiracetam,carbamazepine | carbamazepine; levetiracetam | phenobarbital
+242_Nsaduli Sharef,valproate | carbamazepine | levetiracetam,carbamazepine | valproate | levetiracetam,carbamazepine | valproate | levetiracetam
+243_Nakyanzi Shalwa,valproate | levetiracetam | phenobarbital,valproate | levetiracetam | clobazam; valproate,valproate | levetiracetam | clobazam
+244_Mirembe Tabitha,valproate | levetiracetam | phenobarbital,valproate | phenobarbital | clobazam; valproate,valproate | clobazam; valproate | levetiracetam
+245_Naka Wunde Ruth,carbamazepine | lamotrigine | levetiracetam,carbamazepine | valproate | lamotrigine,carbamazepine | phenobarbital | levetiracetam
+246_Muwanguzi Marc Joseph,phenobarbital | carbamazepine | levetiracetam,phenobarbital | carbamazepine | clobazam; phenobarbital,clobazam; valproate | carbamazepine | levetiracetam
+247_Namutebi Shilat,phenobarbital | levetiracetam | clobazam; phenobarbital,valproate | carbamazepine | clobazam; valproate,valproate | carbamazepine | phenobarbital
+248_Nanozi Phiona,carbamazepine | levetiracetam | phenobarbital,carbamazepine | carbamazepine; levetiracetam | lamotrigine,carbamazepine | levetiracetam | carbamazepine; phenytoin
+249_Abubaker Amina,valproate | levetiracetam | phenobarbital,levetiracetam | phenobarbital | valproate,carbamazepine | valproate | levetiracetam
+250_Sseruma Moses,valproate | phenobarbital | carbamazepine,carbamazepine | valproate | phenobarbital,carbamazepine | levetiracetam | carbamazepine; clobazam
+251_Orwao Micheal,valproate | levetiracetam; phenobarbital | clobazam; valproate,valproate | phenobarbital; valproate | carbamazepine; phenobarbital; valproate,levetiracetam | phenobarbital | valproate
+252_Semata Vikram,valproate | carbamazepine | levetiracetam; valproate,carbamazepine | lamotrigine | levetiracetam; valproate,carbamazepine | lamotrigine | clobazam; valproate
+253_Kibirice Abbu,carbamazepine | phenobarbital | levetiracetam,carbamazepine | phenobarbital | levetiracetam,carbamazepine | phenobarbital | carbamazepine; levetiracetam
+254_Mawazo Hanifa,levetiracetam | phenobarbital | clobazam; levetiracetam,carbamazepine | lamotrigine | levetiracetam,valproate | carbamazepine; valproate | lamotrigine
+255_AAMULURA PETER,valproate | phenobarbital | levetiracetam,carbamazepine | lamotrigine | carbamazepine; clobazam,carbamazepine | lamotrigine | carbamazepine; clobazam; valproate
+256_Nkinzi Joyce,carbamazepine | lamotrigine | phenobarbital,carbamazepine | lamotrigine | levetiracetam,carbamazepine | lamotrigine | carbamazepine; levetiracetam
+257_Nalubega Nashim,carbamazepine | levetiracetam | phenobarbital,carbamazepine | levetiracetam | lamotrigine,carbamazepine | lamotrigine | levetiracetam
+258_Nyakato Mary,carbamazepine | levetiracetam | phenobarbital,valproate | lamotrigine | clobazam; valproate,carbamazepine | levetiracetam | carbamazepine; valproate
+259_Ayaan Abdrizak,carbamazepine | lamotrigine | phenobarbital,carbamazepine | lamotrigine | carbamazepine; clobazam,valproate | phenobarbital | carbamazepine; levetiracetam
+260_Mukisa Elizabeth,valproate | phenobarbital | levetiracetam,carbamazepine | levetiracetam | phenobarbital,carbamazepine | phenobarbital | levetiracetam
+261_Kahuma Joel,valproate | phenobarbital | levetiracetam,carbamazepine | valproate | carbamazepine; clobazam,carbamazepine | valproate | carbamazepine; levetiracetam
+262_Mutyaba Derrick,valproate | phenobarbital | levetiracetam,valproate | phenobarbital; valproate | levetiracetam; valproate,valproate | phenobarbital; valproate | levetiracetam; valproate
+263_Nabukenya Abigail,carbamazepine | phenobarbital | valproate,valproate | phenobarbital | phenobarbital; valproate,carbamazepine | phenobarbital | phenobarbital; valproate
+264_Bukenya Daniel,valproate | phenobarbital | levetiracetam,carbamazepine | valproate | phenobarbital,carbamazepine | valproate | carbamazepine; clobazam
+265_Kateregga David,phenobarbital | carbamazepine | carbamazepine; phenobarbital,phenobarbital | carbamazepine | carbamazepine; phenobarbital,phenobarbital | carbamazepine | carbamazepine; phenobarbital
+266_Ssebunya Hashim,carbamazepine | lamotrigine | levetiracetam,carbamazepine | levetiracetam | phenobarbital,carbamazepine | lamotrigine | carbamazepine; clobazam
+267_Ampiire Claire,valproate | clobazam; valproate | levetiracetam,valproate | levetiracetam | carbamazepine; valproate,valproate | levetiracetam | carbamazepine; valproate
+268_Serukera Bahati,carbamazepine | levetiracetam | phenobarbital,carbamazepine | lamotrigine | levetiracetam,carbamazepine | lamotrigine | carbamazepine; clobazam
+269_Byamukama Morris,valproate | phenobarbital | levetiracetam,carbamazepine | levetiracetam | lamotrigine,carbamazepine | lamotrigine | levetiracetam
+270_Namudoya Aidah,carbamazepine | valproate | phenobarbital,carbamazepine | valproate | levetiracetam,carbamazepine | valproate | carbamazepine; clobazam
+271_Isabirye Jeremih,valproate | phenobarbital | carbamazepine,valproate | carbamazepine | phenobarbital,valproate | levetiracetam | phenobarbital
+272_Ogol Jerry,carbamazepine | valproate | phenobarbital,carbamazepine | lamotrigine | phenobarbital,carbamazepine | phenobarbital | carbamazepine; levetiracetam
+273_Nakoni Martha,levetiracetam | topiramate | valproate,levetiracetam | valproate | clobazam; valproate,valproate | levetiracetam | topiramate
+274_Kirunda Elijah,valproate | phenobarbital | levetiracetam,carbamazepine | valproate | levetiracetam,carbamazepine | valproate | carbamazepine; levetiracetam
+275_Naigaga Ramah,valproate | levetiracetam | clobazam; valproate,carbamazepine | levetiracetam | carbamazepine; clobazam,levetiracetam | valproate | lamotrigine
+276_Keith Agaruva,carbamazepine | lamotrigine | phenobarbital,carbamazepine | valproate | carbamazepine; clobazam,carbamazepine | valproate | carbamazepine; levetiracetam
+277_Jayden Manzi,carbamazepine | levetiracetam | phenobarbital,carbamazepine | levetiracetam | carbamazepine; clobazam,valproate | levetiracetam | carbamazepine; levetiracetam
+278_Lagara Senate,valproate | carbamazepine | levetiracetam; valproate,valproate | lamotrigine | levetiracetam,levetiracetam | levetiracetam | valproate
+279_Namirembe Hannah,levetiracetam | valproate | phenobarbital,valproate | levetiracetam | carbamazepine,levetiracetam | phenobarbital | valproate
+280_Nakato Robinah,carbamazepine | levetiracetam | phenobarbital,carbamazepine | valproate | levetiracetam,carbamazepine | valproate | carbamazepine; levetiracetam
+281_Kiyimba Joshua,phenobarbital | valproate | levetiracetam; phenobarbital,phenobarbital | phenobarbital; valproate | levetiracetam,valproate | phenobarbital; valproate | levetiracetam
+282_Brena Mwesigwa,carbamazepine | phenobarbital | levetiracetam,carbamazepine | carbamazepine; phenobarbital | levetiracetam,carbamazepine | valproate | carbamazepine; valproate
+283_Kasinivu Mustafa,valproate | clobazam; valproate | phenobarbital,clobazam; valproate | levetiracetam; valproate | valproate,valproate | clobazam; valproate | levetiracetam; valproate
+284_Kanyange Fahiah,valproate | clobazam; valproate | topiramate; valproate,carbamazepine | lamotrigine | clobazam; lamotrigine,valproate | topiramate; valproate | levetiracetam
+285_Nantongo Blessing,carbamazepine | valproate | clobazam; valproate,valproate | carbamazepine | clobazam; valproate,valproate | carbamazepine | lamotrigine
+286_Kanyesubula Nicholas,valproate | clobazam; valproate | levetiracetam,valproate | phenobarbital | carbamazepine,valproate | (empty) | phenobarbital
+287_Muwanguzi Joselyn,carbamazepine | levetiracetam | carbamazepine; clobazam,carbamazepine | phenobarbital | carbamazepine; levetiracetam,carbamazepine | phenobarbital | levetiracetam
+288_Agonzibwa Trevor,carbamazepine | levetiracetam | carbamazepine; phenobarbital,carbamazepine | phenobarbital | levetiracetam,carbamazepine | carbamazepine; levetiracetam | phenobarbital
+289_Luba Rahim,valproate | phenobarbital | levetiracetam,carbamazepine | lamotrigine | levetiracetam,carbamazepine | valproate | carbamazepine; clobazam
+290_Nsubuga Sharif,carbamazepine | valproate | carbamazepine; phenobarbital,carbamazepine | valproate | carbamazepine; phenobarbital,carbamazepine | phenobarbital | carbamazepine; phenobarbital
+291_Anena Erica,valproate | carbamazepine | levetiracetam,valproate | clonazepam; valproate | levetiracetam; valproate,carbamazepine | valproate | levetiracetam; valproate
+292_Kiwafu Luis,valproate | phenobarbital | levetiracetam,carbamazepine | lamotrigine | phenobarbital,carbamazepine | valproate | lamotrigine
+293_Bahirwa Martha,carbamazepine | levetiracetam | phenobarbital,carbamazepine | phenobarbital | levetiracetam,carbamazepine | levetiracetam | phenobarbital
+294_Nawungi Shalom,valproate | carbamazepine | clobazam; valproate,valproate | clobazam; valproate | phenobarbital,valproate | phenobarbital | levetiracetam
+295_Ayebazibwe,lamotrigine | phenobarbital | levetiracetam,carbamazepine | lamotrigine | carbamazepine; levetiracetam,carbamazepine | lamotrigine | carbamazepine; levetiracetam
+296_Kulumba Jeremiah,carbamazepine | lamotrigine | carbamazepine; levetiracetam,carbamazepine | lamotrigine | carbamazepine; levetiracetam,carbamazepine | lamotrigine | carbamazepine; levetiracetam
+297_Binomugisha Louis,valproate | levetiracetam | clobazam; valproate,valproate | levetiracetam | clobazam; valproate,valproate | levetiracetam | clobazam; valproate
+298_Gitta Ryan,valproate | phenobarbital | levetiracetam,valproate | levetiracetam; valproate | carbamazepine; valproate,carbamazepine | carbamazepine; valproate | valproate
+299_Serunjogi Ibrahim,carbamazepine | levetiracetam | carbamazepine; clobazam,valproate | levetiracetam | clobazam; valproate,valproate | carbamazepine; valproate | carbamazepine
+300_Kitata Abigail,valproate | levetiracetam; valproate | phenobarbital; valproate,valproate | levetiracetam; valproate | phenobarbital; valproate,valproate | levetiracetam; valproate | phenobarbital
+301_Nayebale Hero,valproate | levetiracetam | carbamazepine; phenobarbital,levetiracetam | valproate | carbamazepine; clobazam,levetiracetam | carbamazepine; phenobarbital | carbamazepine
+302_Kisakye Godwin,valproate | phenobarbital | levetiracetam,phenobarbital | valproate | levetiracetam,valproate | phenobarbital | levetiracetam
+303_Mayanja Farid,valproate | phenobarbital | levetiracetam,valproate | levetiracetam | carbamazepine,carbamazepine | lamotrigine | carbamazepine; levetiracetam
+304_Nduga Rodney Nickson,valproate | phenobarbital | clobazam; phenobarbital; valproate,valproate | phenobarbital | phenobarbital; valproate,phenobarbital | phenobarbital; valproate | valproate
+305_Nantongo Jemia,valproate | levetiracetam | carbamazepine; clobazam,carbamazepine | valproate | carbamazepine; valproate,carbamazepine | lamotrigine | carbamazepine; levetiracetam
+306_Mustakim Abdi,valproate | phenobarbital | levetiracetam,carbamazepine | valproate | levetiracetam,carbamazepine | levetiracetam | carbamazepine; clobazam
+307_Sembatya Tian,phenobarbital | levetiracetam | clobazam; phenobarbital,phenobarbital | carbamazepine | levetiracetam; phenobarbital,levetiracetam | carbamazepine | carbamazepine; clobazam; phenobarbital
+308_Mubiru Godwin,valproate | levetiracetam | carbamazepine; clobazam,valproate | levetiracetam | phenobarbital,valproate | clobazam; valproate | levetiracetam
+309_Namukula Abigail,carbamazepine | levetiracetam | phenobarbital,carbamazepine | lamotrigine | carbamazepine; levetiracetam,carbamazepine | lamotrigine | carbamazepine; clobazam
+310_Lugemwa Emma,valproate | phenobarbital | levetiracetam; valproate,levetiracetam | valproate | clobazam; valproate,valproate | carbamazepine; valproate | levetiracetam
+311_Dambia Samuel,carbamazepine | lamotrigine | carbamazepine; levetiracetam,carbamazepine | valproate | lamotrigine,carbamazepine | lamotrigine | carbamazepine; levetiracetam
+312_Hussein Adila,valproate | levetiracetam | levetiracetam; valproate,valproate | carbamazepine | lamotrigine; valproate,levetiracetam | clobazam; levetiracetam | levetiracetam
+313_Akena Christopher,valproate | phenobarbital | levetiracetam,valproate | levetiracetam | phenobarbital,valproate | levetiracetam | phenobarbital
+314_Kitibwa Hussein,valproate | phenobarbital | levetiracetam,clobazam; valproate | levetiracetam; valproate | valproate,valproate | carbamazepine | levetiracetam; valproate
+315_KITIBWA HUSSEIN,valproate | phenobarbital | levetiracetam,valproate | lamotrigine | levetiracetam; valproate,valproate | levetiracetam | clobazam; valproate
+316_Kara Moses,valproate | phenobarbital | levetiracetam,valproate | phenobarbital | clobazam; valproate,valproate | phenobarbital | levetiracetam
+317_Nantume Shabila,carbamazepine | phenobarbital | levetiracetam,valproate | carbamazepine | lamotrigine,carbamazepine | levetiracetam | valproate
+318_Mwanje Haitham Alisla,carbamazepine | lamotrigine | carbamazepine; clobazam,carbamazepine | levetiracetam | lamotrigine,carbamazepine | lamotrigine | phenobarbital
+319_Lukyamuzi Surao,carbamazepine | levetiracetam | valproate,carbamazepine | carbamazepine; levetiracetam | phenobarbital,carbamazepine | phenobarbital | carbamazepine; levetiracetam
+320_Nakibirango Calvin,valproate | phenobarbital | levetiracetam; phenobarbital,valproate | valproate | clobazam,valproate | phenobarbital | levetiracetam
+321_Abdiaz Abdulah,levetiracetam | valproate | clobazam; valproate,valproate | clobazam; valproate | levetiracetam,carbamazepine | levetiracetam | clobazam
+322_Serwadda Jordan,valproate | levetiracetam; valproate | clobazam; valproate,valproate | phenobarbital | levetiracetam; valproate,valproate | phenobarbital | levetiracetam
+323_Walusimbi David,valproate | clobazam; levetiracetam | clobazam; levetiracetam; valproate,clobazam; levetiracetam | valproate | clobazam; lamotrigine; levetiracetam,clobazam; levetiracetam; valproate | clonazepam; levetiracetam; valproate | clobazam; lamotrigine; levetiracetam; valproate
+324_Matovu Albert,carbamazepine | valproate | levetiracetam,carbamazepine | lamotrigine | carbamazepine; levetiracetam,carbamazepine | levetiracetam | valproate
+325_Nassamula Mildred,valproate | levetiracetam | clobazam; valproate,valproate | levetiracetam | clobazam; valproate,valproate | clobazam; valproate | levetiracetam
+326_Naluminsa Gabriella,valproate | phenobarbital | levetiracetam,carbamazepine | valproate | levetiracetam,carbamazepine | valproate | levetiracetam
+327_Ssekamatta Darlene Rose,carbamazepine | lamotrigine | levetiracetam,carbamazepine | carbamazepine; clobazam | lamotrigine,valproate | carbamazepine | clobazam; valproate
+328_Museryuzi Emmanuel,valproate | carbamazepine | levetiracetam; valproate,valproate | carbamazepine | clobazam; valproate,valproate | carbamazepine | lamotrigine
+329_Nabbanja Bushira,valproate | clobazam; valproate | phenobarbital,valproate | levetiracetam | lamotrigine,valproate | levetiracetam | clobazam; valproate
+330_Ecneet Benjamin,valproate | phenobarbital | levetiracetam,carbamazepine | carbamazepine; valproate | levetiracetam,carbamazepine | carbamazepine; levetiracetam | carbamazepine; clobazam; valproate
+331_Nakato Nashim,carbamazepine | levetiracetam | valproate,carbamazepine | carbamazepine; clobazam | valproate,carbamazepine | valproate | carbamazepine; clobazam; valproate
+332_Angel Jeskin,valproate | carbamazepine | lamotrigine,phenobarbital; valproate | phenobarbital | valproate,phenobarbital | phenobarbital; valproate | carbamazepine
+333_Murungi Isaac,valproate | phenobarbital | levetiracetam,valproate | phenobarbital; valproate | phenobarbital,valproate | phenobarbital | phenobarbital; valproate
+334_Biribwa Afreen,valproate | phenobarbital | clobazam; valproate,valproate | phenobarbital | clobazam; valproate,valproate | phenobarbital | levetiracetam

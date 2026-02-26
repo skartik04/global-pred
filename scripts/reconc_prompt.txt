@@ -87,7 +87,7 @@ For each feature F:
 
 SUPPORTING_TEXT, REASONING, CONFIDENCE
 - Supporting_Text:
-  - Use only quoted snippets from the input vectors’ Supporting_Text fields.
+  - Use only quoted snippets from the input vectors' Supporting_Text fields.
   - Concatenate snippets using " | " when needed.
   - Do not fabricate quotes.
 
@@ -100,12 +100,13 @@ SUPPORTING_TEXT, REASONING, CONFIDENCE
   - Use the most conservative confidence among the non-missing contributing visits.
 
 LONGITUDINAL FORMATTING RULE (HOW TO WRITE ANSWER)
-For any feature that can change over time, the Answer must be a faithful longitudinal summary that makes timing clear. Use visit-anchored statements. Use one of these styles:
-- "Visit 1: ... Visit 2: ... Visit 3: ..." (omit Visit 3 if not provided)
-OR
-- "At Visit 1: ...; At Visit 2: ...; At Visit 3: ..." (omit missing visits)
+For any feature that can change over time, the Answer must be a faithful longitudinal summary that makes timing clear. Use visit-anchored statements. The required style is:
+- "Visit 1: ... Visit 2: ... Visit 3: ..." (include Visit 3 only if provided)
 
 Do NOT blindly concatenate earlier and later strings. You must read the meaning and produce a coherent longitudinal summary that preserves key information and makes timing explicit.
+
+MANDATORY VISIT SEGMENT RULE (non-drug features)
+For features that can change over time — SeizureFreq, StatusOrProlonged, SeizureType, CognitivePriority — once ANY visit has a non-"Not mentioned." value, ALL subsequent visit segments must appear in the Answer, even if later visits have no new information. If a later visit adds nothing new, write a brief carry-forward statement (e.g., "Visit 2: No new information; same as Visit 1."). Do NOT write bare "Not mentioned." for a later visit if an earlier visit had information.
 
 FEATURE-SPECIFIC RULES
 
@@ -113,7 +114,7 @@ Age_Years
 - Age changes over time.
 - If multiple ages are available, show trajectory:
   "Visit 1: <age1>. Visit 2: <age2>. Visit 3: <age3>."
-- If only one age is available, use that.
+- If only one age is available, use that single value.
 
 Sex_Female
 - Use the earliest non-missing value as baseline.
@@ -126,11 +127,13 @@ SeizureFreq
 - Must preserve trajectory and timing.
 - If updated later, show visit-anchored progression.
 - Normalize relative phrases (for example "2 days ago") into "2 days before Visit X" or date-based if safe.
+- Once any visit has a non-missing value, all subsequent visit segments must appear in the Answer.
 
 StatusOrProlonged
 - If ever present, it must remain in history.
-- If later visits do not mention it, do not delete it. Mark as "reported at Visit X; not mentioned later" if appropriate.
+- If later visits do not mention it, do not delete it. Write: "Visit N: Not mentioned after Visit X." to make the absence explicit.
 - Normalize any relative timing.
+- Once any visit has a non-missing value, all subsequent visit segments must appear in the Answer.
 
 CognitivePriority
 - Never delete developmental delay, CP, hemiplegia, psychiatric or behavioral issues once mentioned.
@@ -147,25 +150,56 @@ SeizureType
 - May evolve over time (for example generalized vs focal, EEG focal features later).
 - Never delete earlier classification.
 - Produce a coherent visit-anchored summary reflecting the evolution.
-- Normalize any relative timing embedded in the text.
+- Normalize any relative timing embedded in the text (e.g., "most recent episode 2 days prior to this visit" → "most recent episode 2 days before Visit 1").
+- Once any visit has a non-missing value, all subsequent visit segments must appear in the Answer.
 
 DRUG FEATURES (drug_*)
 
-Core rule:
-- "Not mentioned." means missing; inherit prior state.
-- Do NOT blindly append. Build a coherent medication timeline anchored to visits.
+DRUG ANSWER FORMAT — STRICT RULE (read carefully and follow exactly):
 
-Cumulative drug Answer format
-- If never mentioned in any provided visit:
-  "Not mentioned."
-- If mentioned at least once:
-  Write a visit-anchored timeline such as:
-  "Visit 1: <state>. Visit 2: <state>. Visit 3: <state>."
-  Use only the visits that were provided.
+Case A — Drug never mentioned in ANY provided visit (all visits show "Not mentioned."):
+  Answer must be exactly: "Not mentioned."
+  Do NOT create artificial visit segments for drugs that were never in the picture.
 
-Drug state wording
-- Use the structured signals (Exposure_before, Action_taken) to build a clear visit-anchored timeline.
-- Normalize time language. Do not carry "today" or "yesterday" into the final summary without anchoring.
+Case B — Drug mentioned (non-"Not mentioned.") in AT LEAST ONE provided visit:
+  The Answer MUST contain exactly one segment per visit provided, in visit order.
+  Every segment MUST use this exact format:
+    "Visit N: Exposure_before: <value>; Action_taken: <value>."
+  Rules:
+  - All segments must be present. If 2 visits were provided, there must be a Visit 1 and Visit 2 segment. If 3 visits were provided, all three segments must appear.
+  - Do NOT write bare "Exposure_before/Action_taken" without a "Visit N:" prefix.
+  - Do NOT write "Not mentioned." for a visit segment once the drug has appeared in any earlier visit.
+  - Do NOT add any annotations like "(inherited)", "(carried forward)", or free-text after the structured value.
+  - The only text in each segment is: "Visit N: Exposure_before: X; Action_taken: Y."
+
+Example (2 visits provided, drug active at Visit 1 and continued):
+  "Visit 1: Exposure_before: on_arrival; Action_taken: continue. Visit 2: Exposure_before: on_arrival; Action_taken: continue."
+
+Example (2 visits provided, drug stopped at Visit 1):
+  "Visit 1: Exposure_before: on_arrival; Action_taken: stop. Visit 2: Exposure_before: past_tried; Action_taken: no_action."
+
+Example (3 visits provided, drug started at Visit 2):
+  "Visit 1: Exposure_before: no_prior_exposure; Action_taken: no_action. Visit 2: Exposure_before: no_prior_exposure; Action_taken: start. Visit 3: Exposure_before: on_arrival; Action_taken: continue."
+
+CARRY-FORWARD STATE TABLE:
+Use this table to compute Exposure_before for Visit N+1 based on what happened at Visit N.
+Do not reason it out from scratch — apply this table directly.
+
+| Visit N Exposure_before  | Visit N Action_taken | → Visit N+1 Exposure_before |
+|--------------------------|----------------------|------------------------------|
+| any                      | start                | on_arrival                   |
+| any                      | continue             | on_arrival                   |
+| any                      | stop                 | past_tried                   |
+| on_arrival               | no_action            | on_arrival                   |
+| past_tried               | no_action            | past_tried                   |
+| no_prior_exposure        | no_action            | no_prior_exposure (→ drug still not yet used; write Visit N+1 segment as: Exposure_before: no_prior_exposure; Action_taken: no_action) |
+
+IMPORTANT EXCEPTION for no_prior_exposure + no_action across ALL visits:
+If a drug's Exposure_before is no_prior_exposure AND Action_taken is no_action at every single visit (meaning it was mentioned somewhere in the note but never prescribed or used), the Answer must be "Not mentioned." — do not create visit segments for a drug that was never actually in the patient's medication history.
+
+HOW TO COMPUTE EACH VISIT SEGMENT:
+For Visit 1: read Exposure_before and Action_taken directly from the input Visit 1 drug answer.
+For Visit N+1: if the input Visit N+1 drug answer is "Not mentioned." or absent, use the carry-forward table to derive Exposure_before from Visit N's state, and set Action_taken: no_action (nothing changed). If the input Visit N+1 drug answer has an explicit Exposure_before/Action_taken, use those values directly.
 
 Field definitions for reading per-visit drug answers:
 - Exposure_before: on_arrival = drug was active/ongoing going into this visit
@@ -174,26 +208,24 @@ Field definitions for reading per-visit drug answers:
 - Action_taken: continue = clinician kept the drug going at this visit (possibly with dose change)
 - Action_taken: start = drug newly initiated at this visit
 - Action_taken: stop = drug discontinued at this visit
-- Action_taken: no_action = no plan change; drug mentioned historically only
-- Backfilled entries (noted in Reasoning) = inferred retroactively from a later visit; treat as med with confidence: med
-
-Carrying drug history forward across visits:
-- If Action_taken at Visit N is "continue" or "start", the drug is active going into Visit N+1 (Exposure_before: on_arrival).
-- If Action_taken at Visit N is "stop", the drug is stopped going into Visit N+1 (Exposure_before: past_tried).
-- If Action_taken at Visit N is "no_action" with Exposure_before: past_tried, it remains past_tried at Visit N+1.
-- Always preserve the full trial history: if a drug was ever tried and stopped, that must remain visible in the cumulative Answer even if later visits do not mention it.
+- Action_taken: no_action = no plan change; drug mentioned historically only or no visit-level event
 
 Drug Supporting_Text
 - Concatenate only key snippets that justify major medication events across visits.
+- Use " | " to separate snippets from different visits.
 
 Drug Reasoning
-- Explain how the medication timeline was formed across visits and how any relative timing was normalized.
+- Explain how the medication timeline was formed across visits.
+- State which visits had explicit drug data vs. which were derived from the carry-forward table.
+- Explain any time normalization performed.
 
 FINAL SANITY CHECKS
 - Do not output keys outside the schema.
 - Do not delete earlier information.
 - Do not overwrite without preserving earlier history.
-- Treat "Not mentioned." as missing.
+- Treat "Not mentioned." as missing for non-drug features.
+- For drug features: once a drug appeared, every visit segment must be present — no "Not mentioned." allowed for subsequent visits.
 - Do not hallucinate; everything must be traceable to the input.
+- Every drug Answer is either exactly "Not mentioned." (Case A) or a string of N visit segments in the exact format "Visit N: Exposure_before: X; Action_taken: Y." (Case B). Nothing else is acceptable.
 
 Wait for the user to provide the visit vectors labeled as Visit 1, Visit 2 (and optionally Visit 3), then output the single cumulative merged JSON only.

@@ -105,7 +105,7 @@ async def call_llm_with_retries(
     user_content: str,
     model: str = "openai/gpt-oss-120b",
     temperature: float = 0.0,
-    max_tokens: int = 4096,
+    max_tokens: int = 8192,
     semaphore: asyncio.Semaphore | None = None,
     max_retries: int = 6,
 ):
@@ -275,7 +275,7 @@ async def main_async():
         return
 
     csv_path = os.path.join(os.path.dirname(os.path.dirname(script_dir)), 'global', 'data', 'combined_dataset.csv')
-    num_entries_to_process = 6  # FULL RUN
+    num_entries_to_process = 400  # FULL RUN
     max_concurrency = 8  # parallel API calls
     prompt_path = os.path.join(script_dir, "extract_prompt.txt")
     try:

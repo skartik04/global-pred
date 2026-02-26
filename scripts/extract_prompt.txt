@@ -210,6 +210,8 @@ Examples of "value":
 - "Staring spells suggestive of absence seizures."
 - "Seizure type not clearly described in this note."
 
+If the note mentions when the most recent episode occurred (e.g., "2 days ago", "last week", "yesterday"), include this timing in the value as part of the phrase. Example: "Generalized convulsive seizure; most recent episode 2 days prior to this visit." A downstream step will normalize relative timing to visit-anchored language, so include the timing as stated.
+
 If seizures are not described at all, set "value" to "Not mentioned.".
 
 9–18. Drug features (drug_clobazam through drug_carbamazepine)
@@ -228,6 +230,18 @@ IMPORTANT DRUG RULES:
 - For drug classification, do not rely only on exact keywords: interpret the meaning of phrases such as "previously on", "was on", "has been on", "stopped", "switched", and medication lists in context.
 - If multiple snippets justify the classification, include them in Supporting_Text separated by " | ".
 - PRECEDENCE RULE: Narrative text (e.g., History of Presenting Illness) takes priority over the structured medication list when they conflict — but only when the narrative directly and explicitly identifies that specific drug with clear past-tense language (e.g., "previously on X", "was on X", "has been on X"). If the drug's temporal status in the narrative is ambiguous or not clearly stated, fall back to the structured medication list.
+
+TEMPORAL CUE RULE (read carefully):
+- If a drug is described as started or given in the immediate past relative to this visit using relative time language — e.g., "started yesterday", "given last night", "commenced last week", "was started on X recently", "started on X [relative time] ago" — the drug is ALREADY ACTIVE at this visit. The patient arrived already taking it.
+- In these cases: Exposure_before: on_arrival. Action_taken is then determined by the clinician's plan in this note (continue, stop, or no_action if no plan is stated).
+- Do NOT classify relative-past-tense drug initiation as Action_taken: start. "Started yesterday" is not a start action at this visit — it is evidence of on_arrival status.
+
+PLAN DETECTION RULE — absence from plan means stopped (read carefully):
+- Before classifying Action_taken for any drug, check whether this note contains a formal Plan section. A formal Plan section is a numbered or structured list of actions, often labeled "Plan:", "Management:", "Impression and Plan:", or simply a numbered list like "1. ... 2. ... 3. ..." that includes specific drug prescriptions.
+- If a formal Plan section exists AND it contains explicit drug prescriptions:
+  - Any drug that was present in the current/prior medication list but is COMPLETELY ABSENT from the Plan section, with no instruction to continue it, must be classified as Action_taken: stop. The clinician has dropped it from the regimen.
+  - Only exception: if the plan contains language like "continue all current medications" or explicitly defers to a prior regimen without listing drugs.
+- If no formal Plan section exists (e.g., the note is purely narrative or a follow-up without an explicit plan), do NOT apply this rule. Default to no_action for unmentioned drugs.
 
 OUTPUT FORMAT (for each drug feature):
 For each drug feature, "value" must be either:

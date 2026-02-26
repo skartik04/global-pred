@@ -93,9 +93,12 @@ def set_backfill(visit_feats: dict, drug: str, as_previous: bool):
             "Confidence": "med",
         }
     else:
+        # Patient was flagged "not on medication" at baseline, so the drug could not have
+        # been on_arrival before Visit 1. Visit 2 showing on_arrival means it was first
+        # started at Visit 1 (the only intervening event).
         visit_feats[drug] = {
-            "Answer": "Exposure_before: on_arrival; Action_taken: continue",
-            "Reasoning": "Backfilled: Visit 1 baseline meds were not documented; Visit 2 indicates this drug was already active going into Visit 2, so it was being continued at Visit 1.",
+            "Answer": "Exposure_before: no_prior_exposure; Action_taken: start",
+            "Reasoning": "Backfilled: Patient was not on medication at baseline; Visit 2 indicates this drug was active going into Visit 2, so it must have been first started at Visit 1.",
             "Supporting_Text": "",
             "Confidence": "med",
         }

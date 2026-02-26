@@ -1,0 +1,232 @@
+{
+  "135_Best Betina": {
+    "Visit_2": {
+      "Age_Years": {
+        "Answer": "4.0",
+        "Reasoning": "Age is explicitly stated as 4-year-old in the visit note.",
+        "Supporting_Text": "Age: 4-year-old",
+        "Confidence": "high"
+      },
+      "Sex_Female": {
+        "Answer": "Yes",
+        "Reasoning": "Patient gender is indicated as female.",
+        "Supporting_Text": "Sex: Female",
+        "Confidence": "high"
+      },
+      "OnsetTimingYears": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The note does not provide seizure onset age or duration.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "SeizureFreq": {
+        "Answer": "Seizure free.",
+        "Reasoning": "The note explicitly states the patient has been seizure free.",
+        "Supporting_Text": "Has been seizure free since November 2022.",
+        "Confidence": "high"
+      },
+      "StatusOrProlonged": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "No information about status epilepticus or prolonged seizures is present.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "CognitivePriority": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The note does not mention developmental delay, psychiatric or behavioral problems.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "Risk_Factors": {
+        "Answer": "Possible risk factors are: none mentioned.",
+        "Reasoning": "None of the specified epilepsy risk factors are referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "SeizureType": {
+        "Answer": "Focal epilepsy.",
+        "Reasoning": "Seizure type is described as focal epilepsy.",
+        "Supporting_Text": "being managed for focal epilepsy",
+        "Confidence": "high"
+      },
+      "drug_clobazam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Clobazam is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_clonazepam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Clonazepam is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_valproate": {
+        "Answer": "Exposure_before: on_arrival; Action_taken: continue",
+        "Reasoning": "Valproate is mentioned as a current medication, indicating the patient was on it at arrival; the plan includes a prescription for it, so it is continued.",
+        "Supporting_Text": "being managed for focal epilepsy on Sodium Valproate | Tabs Sodium Valproate 150 mg bd × 3/12",
+        "Confidence": "high"
+      },
+      "drug_ethosuximide": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Ethosuximide is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_levetiracetam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Levetiracetam is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_lamotrigine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Lamotrigine is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenobarbital": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Phenobarbital is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenytoin": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Phenytoin is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_topiramate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Topiramate is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_carbamazepine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Carbamazepine is not referenced in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      }
+    },
+    "Visit_2_RAW": "{\n  \"Age_Years\": {\n    \"value\": \"4.0\",\n    \"supporting_text\": \"Age: 4-year-old\",\n    \"reasoning\": \"Age is explicitly stated as 4-year-old in the visit note.\",\n    \"confidence\": \"high\"\n  },\n  \"Sex_Female\": {\n    \"value\": \"Yes\",\n    \"supporting_text\": \"Sex: Female\",\n    \"reasoning\": \"Patient gender is indicated as female.\",\n    \"confidence\": \"high\"\n  },\n  \"OnsetTimingYears\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"The note does not provide seizure onset age or duration.\",\n    \"confidence\": \"high\"\n  },\n  \"SeizureFreq\": {\n    \"value\": \"Seizure free.\",\n    \"supporting_text\": \"Has been seizure free since November 2022.\",\n    \"reasoning\": \"The note explicitly states the patient has been seizure free.\",\n    \"confidence\": \"high\"\n  },\n  \"StatusOrProlonged\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"No information about status epilepticus or prolonged seizures is present.\",\n    \"confidence\": \"high\"\n  },\n  \"CognitivePriority\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"The note does not mention developmental delay, psychiatric or behavioral problems.\",\n    \"confidence\": \"high\"\n  },\n  \"Risk_Factors\": {\n    \"value\": \"Possible risk factors are: none mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"None of the specified epilepsy risk factors are referenced in the note.\",\n    \"confidence\": \"high\"\n  },\n  \"SeizureType\": {\n    \"value\": \"Focal epilepsy.\",\n    \"supporting_text\": \"being managed for focal epilepsy\",\n    \"reasoning\": \"Seizure type is described as focal epilepsy.\",\n    \"confidence\": \"high\"\n  },\n  \"drug_clobazam\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"Clobazam is not referenced in the note.\",\n    \"confidence\": \"high\"\n  },\n  \"drug_clonazepam\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"Clonazepam is not referenced in the note.\",\n    \"confidence\": \"high\"\n  },\n  \"drug_valproate\": {\n    \"value\": \"Exposure_before: on_arrival; Action_taken: continue\",\n    \"supporting_text\": \"being managed for focal epilepsy on Sodium Valproate | Tabs Sodium Valproate 150 mg bd × 3/12\",\n    \"reasoning\": \"Valproate is mentioned as a current medication, indicating the patient was on it at arrival; the plan includes a prescription for it, so it is continued.\",\n    \"confidence\": \"high\"\n  },\n  \"drug_ethosuximide\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"Ethosuximide is not referenced in the note.\",\n    \"confidence\": \"high\"\n  },\n  \"drug_levetiracetam\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"Levetiracetam is not referenced in the note.\",\n    \"confidence\": \"high\"\n  },\n  \"drug_lamotrigine\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"Lamotrigine is not referenced in the note.\",\n    \"confidence\": \"high\"\n  },\n  \"drug_phenobarbital\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"Phenobarbital is not referenced in the note.\",\n    \"confidence\": \"high\"\n  },\n  \"drug_phenytoin\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"Phenytoin is not referenced in the note.\",\n    \"confidence\": \"high\"\n  },\n  \"drug_topiramate\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"Topiramate is not referenced in the note.\",\n    \"confidence\": \"high\"\n  },\n  \"drug_carbamazepine\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"Carbamazepine is not referenced in the note.\",\n    \"confidence\": \"high\"\n  }\n}"
+  },
+  "24_Nangobi Jazmine": {
+    "Visit_3": {
+      "Age_Years": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The note does not provide the patient's age and only references a baseline age that is not shown, so age cannot be determined.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "Sex_Female": {
+        "Answer": "Yes",
+        "Reasoning": "Gender is explicitly listed as female (F).",
+        "Supporting_Text": "Patient Gender: F",
+        "Confidence": "high"
+      },
+      "OnsetTimingYears": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The note does not state when seizures first began or the duration of epilepsy.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "SeizureFreq": {
+        "Answer": "Seizure free for the past 1 year.",
+        "Reasoning": "The note reports that the child has been seizure free for the past year, indicating no seizures during that period.",
+        "Supporting_Text": "child has been seizure free for the past 1 year",
+        "Confidence": "high"
+      },
+      "StatusOrProlonged": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "There is no reference to status epilepticus or prolonged seizures in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "CognitivePriority": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "The note only mentions the child is studying well; no developmental, behavioral, or psychiatric issues are described.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "Risk_Factors": {
+        "Answer": "Possible risk factors are: none mentioned.",
+        "Reasoning": "The note does not mention any of the listed epilepsy risk factors.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "SeizureType": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "No seizure semiology is described; the note only states the patient is seizure free.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_clobazam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Clobazam is not referenced anywhere in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_clonazepam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Clonazepam is not referenced anywhere in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_valproate": {
+        "Answer": "Exposure_before: on_arrival; Action_taken: continue",
+        "Reasoning": "The plan explicitly says to continue medications and valproate is listed in the prescription, indicating the patient was already taking it and the clinician intends to keep it.",
+        "Supporting_Text": "Let's continue medications. | Sodium Valproate (Epilim) 200 mg bd × 2/12",
+        "Confidence": "high"
+      },
+      "drug_ethosuximide": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Ethosuximide is not referenced anywhere in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_levetiracetam": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Levetiracetam is not referenced anywhere in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_lamotrigine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Lamotrigine is not referenced anywhere in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenobarbital": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Phenobarbital is not referenced anywhere in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_phenytoin": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Phenytoin is not referenced anywhere in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_topiramate": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Topiramate is not referenced anywhere in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      },
+      "drug_carbamazepine": {
+        "Answer": "Not mentioned.",
+        "Reasoning": "Carbamazepine is not referenced anywhere in the note.",
+        "Supporting_Text": "",
+        "Confidence": "high"
+      }
+    },
+    "Visit_3_RAW": "{\n  \"Age_Years\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"The note does not provide the patient's age and only references a baseline age that is not shown, so age cannot be determined.\",\n    \"confidence\": \"high\"\n  },\n  \"Sex_Female\": {\n    \"value\": \"Yes\",\n    \"supporting_text\": \"Patient Gender: F\",\n    \"reasoning\": \"Gender is explicitly listed as female (F).\",\n    \"confidence\": \"high\"\n  },\n  \"OnsetTimingYears\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"The note does not state when seizures first began or the duration of epilepsy.\",\n    \"confidence\": \"high\"\n  },\n  \"SeizureFreq\": {\n    \"value\": \"Seizure free for the past 1 year.\",\n    \"supporting_text\": \"child has been seizure free for the past 1 year\",\n    \"reasoning\": \"The note reports that the child has been seizure free for the past year, indicating no seizures during that period.\",\n    \"confidence\": \"high\"\n  },\n  \"StatusOrProlonged\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"There is no reference to status epilepticus or prolonged seizures in the note.\",\n    \"confidence\": \"high\"\n  },\n  \"CognitivePriority\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"The note only mentions the child is studying well; no developmental, behavioral, or psychiatric issues are described.\",\n    \"confidence\": \"high\"\n  },\n  \"Risk_Factors\": {\n    \"value\": \"Possible risk factors are: none mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"The note does not mention any of the listed epilepsy risk factors.\",\n    \"confidence\": \"high\"\n  },\n  \"SeizureType\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"No seizure semiology is described; the note only states the patient is seizure free.\",\n    \"confidence\": \"high\"\n  },\n  \"drug_clobazam\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"Clobazam is not referenced anywhere in the note.\",\n    \"confidence\": \"high\"\n  },\n  \"drug_clonazepam\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"Clonazepam is not referenced anywhere in the note.\",\n    \"confidence\": \"high\"\n  },\n  \"drug_valproate\": {\n    \"value\": \"Exposure_before: on_arrival; Action_taken: continue\",\n    \"supporting_text\": \"Let's continue medications. | Sodium Valproate (Epilim) 200 mg bd × 2/12\",\n    \"reasoning\": \"The plan explicitly says to continue medications and valproate is listed in the prescription, indicating the patient was already taking it and the clinician intends to keep it.\",\n    \"confidence\": \"high\"\n  },\n  \"drug_ethosuximide\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"Ethosuximide is not referenced anywhere in the note.\",\n    \"confidence\": \"high\"\n  },\n  \"drug_levetiracetam\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"Levetiracetam is not referenced anywhere in the note.\",\n    \"confidence\": \"high\"\n  },\n  \"drug_lamotrigine\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"Lamotrigine is not referenced anywhere in the note.\",\n    \"confidence\": \"high\"\n  },\n  \"drug_phenobarbital\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"Phenobarbital is not referenced anywhere in the note.\",\n    \"confidence\": \"high\"\n  },\n  \"drug_phenytoin\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"Phenytoin is not referenced anywhere in the note.\",\n    \"confidence\": \"high\"\n  },\n  \"drug_topiramate\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"Topiramate is not referenced anywhere in the note.\",\n    \"confidence\": \"high\"\n  },\n  \"drug_carbamazepine\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"Carbamazepine is not referenced anywhere in the note.\",\n    \"confidence\": \"high\"\n  }\n}"
+  },
+  "219_Magala Jovan": {
+    "Visit_2": {},
+    "Visit_2_RAW": "{\n  \"Age_Years\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"The note does not provide the patient's age or any information to compute it.\",\n    \"confidence\": \"high\"\n  },\n  \"Sex_Female\": {\n    \"value\": \"No\",\n    \"supporting_text\": \"Patient Gender: M\",\n    \"reasoning\": \"The note explicitly states the patient gender as male.\",\n    \"confidence\": \"high\"\n  },\n  \"OnsetTimingYears\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"There is no information about seizure onset age or duration in this visit note.\",\n    \"confidence\": \"high\"\n  },\n  \"SeizureFreq\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"The note does not describe how often seizures are occurring.\",\n    \"confidence\": \"high\"\n  },\n  \"StatusOrProlonged\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"No mention of status epilepticus or prolonged seizures is present.\",\n    \"confidence\": \"high\"\n  },\n  \"CognitivePriority\": {\n    \"value\": \"ADHD noted.\",\n    \"supporting_text\": \"Impression: Focal frontal epilepsy plus ADHD.\",\n    \"reasoning\": \"The impression explicitly lists ADHD, a neurodevelopmental/behavioral condition.\",\n    \"confidence\": \"high\"\n  },\n  \"Risk_Factors\": {\n    \"value\": \"Possible risk factors are: none mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"The note does not contain any of the specified epilepsy risk factor terms.\",\n    \"confidence\": \"high\"\n  },\n  \"SeizureType\": {\n    \"value\": \"Focal frontal epilepsy.\",\n    \"supporting_text\": \"Impression: Focal frontal epilepsy plus ADHD.\",\n    \"reasoning\": \"The impression directly describes the seizure type as focal frontal epilepsy.\",\n    \"confidence\": \"high\"\n  },\n  \"drug_clobazam\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"Clobazam is not referenced anywhere in the note.\",\n    \"confidence\": \"high\"\n  },\n  \"drug_clonazepam\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"Clonazepam is not referenced anywhere in the note.\",\n    \"confidence\": \"high\"\n  },\n  \"drug_valproate\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"Valproate is not referenced anywhere in the note.\",\n    \"confidence\": \"high\"\n  },\n  \"drug_ethosuximide\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"Ethosuximide is not referenced anywhere in the note.\",\n    \"confidence\": \"high\"\n  },\n  \"drug_levetiracetam\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"Levetiracetam is not referenced anywhere in the note.\",\n    \"confidence\": \"high\"\n  },\n  \"drug_lamotrigine\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"Lamotrigine is not referenced anywhere in the note.\",\n    \"confidence\": \"high\"\n  },\n  \"drug_phenobarbital\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"Phenobarbital is not referenced anywhere in the note.\",\n    \"confidence\": \"high\"\n  },\n  \"drug_phenytoin\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"Phenytoin is not referenced anywhere in the note.\",\n    \"confidence\": \"high\"\n  },\n  \"drug_topiramate\": {\n    \"value\": \"Not mentioned.\",\n    \"supporting_text\": \"\",\n    \"reasoning\": \"Topiramate is not referenced anywhere in the note.\",\n    \"confidence\": \"high\"\n  },\n  \"drug_carbamazepine\": {\n    \"value\": \"Exposure_before: no_prior_exposure; Action_taken: start\",\n    \"supporting_text\": \"Plan: 1.\\tStart carbamazepine 100 mg BD × 1/12 | Medication Prescription (6-month visit): 1.\tStart carbamazepine 100 mg BD × 1/12\",\n    \"reasoning\": \"The note does not indicate the patient was already taking carbamazepine, so exposure before the visit is 'no_prior_exposure'. The plan explicitly says 'Start carbamazepine', indicating the action is to initiate the drug.\",\n    \"confidence\": \"high\"\n  }\n}"
+  }
+}

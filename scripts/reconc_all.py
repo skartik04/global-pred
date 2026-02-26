@@ -143,7 +143,7 @@ async def call_llm_with_retries(
     user_content: str,
     model: str = "openai/gpt-oss-120b",
     temperature: float = 0.0,
-    max_tokens: int = 4096,
+    max_tokens: int = 8192,
     semaphore: asyncio.Semaphore | None = None,
     max_retries: int = 6,
 ):
@@ -287,10 +287,10 @@ async def main_async():
     key_path = os.path.join(script_dir, ".env")
 
     # Input/Output Files (in only_open folder)
-    input_filename = "csv_backfilled_gpt_oss_trial.json"    # Input: backfilled extraction results
-    output_filename = "csv_reconciled_gpt_oss_trial.json"   # Output: reconciled cumulative results
-    prompt_filename = "reconc_prompt.txt"             # Reconciliation prompt
-    
+    input_filename = "csv_backfilled_gpt_oss_trial.json"     # Input: backfilled extraction results
+    output_filename = "csv_reconciled_gpt_oss_trial.json"    # Output: reconciled cumulative results
+    prompt_filename = "reconc_prompt.txt"                   # Reconciliation prompt
+
     # Processing Settings
     model = "openai/gpt-oss-120b"
     temperature = 0.0
