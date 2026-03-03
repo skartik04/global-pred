@@ -4,3 +4,6 @@ __pycache__/
 *.pyc
 viewer
 viewer_feedback/
+all_patient_pdfs
+viewer_gpt52
+viewer_feedback_trans

@@ -14,10 +14,10 @@ dotenv.load_dotenv(os.path.join(_HERE, '.env'))
 # ============ CONFIGURATION ============
 
 # Model name (Together AI)
-model = 'openai/gpt-oss-120b'
+model = 'gpt-5.2'
 
 # Which visit to process (1, 2, or 3)
-visit_num = 3
+visit_num = 1
 
 # Input mode: 'raw' (CSV) or 'extracted' (reconciled JSON)
 input_mode = 'extracted'
@@ -37,7 +37,7 @@ prompt_file = 'all_drugs.txt'
 
 # Processing settings
 thinking_budget = 6000
-max_tokens = 4096
+max_tokens = 16000
 max_concurrency = 8
 limit_patients = 400   # Set to int to limit, None for all
 
@@ -82,6 +82,16 @@ _MED_LEGEND = (
     "current (dose changed) = dose was adjusted at prior visit; "
     "previous (stopped) = discontinued before prior visit."
 )
+
+
+def get_provider(model_name: str) -> str:
+    """Detect provider from model name."""
+    m = model_name.lower()
+    if m.startswith("claude"):
+        return "anthropic"
+    if any(m.startswith(p) for p in ("gpt-", "o1", "o3", "o4", "text-")):
+        return "openai"
+    return "together"
 
 
 def get_short_model_name(model_name: str) -> str:
@@ -447,7 +457,7 @@ def load_tasks_extracted(json_path: str, vnum: int):
 
 async def call_together_with_retries(
     session: aiohttp.ClientSession,
-    together_key: str,
+    api_key: str,
     system_prompt: str,
     user_content: str,
     model: str,
@@ -457,31 +467,97 @@ async def call_together_with_retries(
     max_retries: int = 6,
 ) -> tuple:
     """Async raw HTTP call with concurrency cap + exponential backoff.
-    Returns (reasoning, content) tuple.
+    Returns (reasoning, content) tuple. Routes to Together / OpenAI / Anthropic.
     """
-    url = "https://api.together.xyz/v1/chat/completions"
-    headers = {
-        "Authorization": f"Bearer {together_key}",
-        "Content-Type": "application/json",
-    }
-    payload = {
-        "model": model,
-        "messages": [
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": user_content},
-        ],
-        "max_tokens": max_tokens,
-        "thinking": {"type": "enabled", "budget_tokens": thinking_budget},
-    }
+    provider = get_provider(model)
 
     async def _one_call():
-        async with session.post(url, headers=headers, json=payload) as resp:
-            resp.raise_for_status()
-            data = await resp.json()
-        msg = data["choices"][0]["message"]
-        reasoning = (msg.get("reasoning") or "").strip()
-        content = (msg.get("content") or "").strip()
-        return reasoning, content
+        if provider == "anthropic":
+            url = "https://api.anthropic.com/v1/messages"
+            headers = {
+                "x-api-key": api_key,
+                "anthropic-version": "2023-06-01",
+                "content-type": "application/json",
+            }
+            payload = {
+                "model": model,
+                "max_tokens": max_tokens,
+                "system": system_prompt,
+                "messages": [{"role": "user", "content": user_content}],
+                "thinking": {"type": "enabled", "budget_tokens": thinking_budget},
+            }
+            async with session.post(url, headers=headers, json=payload) as resp:
+                if resp.status != 200:
+                    body = await resp.text()
+                    raise RuntimeError(f"{resp.status} {resp.reason}: {body}")
+                data = await resp.json()
+            reasoning, content = "", ""
+            for block in data.get("content", []):
+                if block.get("type") == "thinking":
+                    reasoning = block.get("thinking", "")
+                elif block.get("type") == "text":
+                    content = block.get("text", "")
+            return reasoning.strip(), content.strip()
+
+        elif provider == "openai":
+            # Use Responses API to expose reasoning summary for thinking models
+            url = "https://api.openai.com/v1/responses"
+            headers = {
+                "Authorization": f"Bearer {api_key}",
+                "Content-Type": "application/json",
+            }
+            payload = {
+                "model": model,
+                "input": [
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": user_content},
+                ],
+                "max_output_tokens": max_tokens,
+            }
+            # Enable reasoning summary for thinking-capable models (gpt-5+, o-series)
+            is_thinking_model = any(model.lower().startswith(p) for p in ("gpt-5", "o1", "o3", "o4"))
+            if is_thinking_model:
+                payload["reasoning"] = {"effort": "none", "summary": "auto"}
+            async with session.post(url, headers=headers, json=payload) as resp:
+                if resp.status != 200:
+                    body = await resp.text()
+                    raise RuntimeError(f"{resp.status} {resp.reason}: {body}")
+                data = await resp.json()
+            reasoning, content = "", ""
+            for item in data.get("output", []):
+                if item.get("type") == "reasoning":
+                    summaries = item.get("summary", [])
+                    reasoning = " ".join(s.get("text", "") for s in summaries).strip()
+                elif item.get("type") == "message":
+                    for block in item.get("content", []):
+                        if block.get("type") == "output_text":
+                            content = block.get("text", "").strip()
+            return reasoning, content
+
+        else:  # together
+            url = "https://api.together.xyz/v1/chat/completions"
+            headers = {
+                "Authorization": f"Bearer {api_key}",
+                "Content-Type": "application/json",
+            }
+            payload = {
+                "model": model,
+                "messages": [
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": user_content},
+                ],
+                "max_tokens": max_tokens,
+                "thinking": {"type": "enabled", "budget_tokens": thinking_budget},
+            }
+            async with session.post(url, headers=headers, json=payload) as resp:
+                if resp.status != 200:
+                    body = await resp.text()
+                    raise RuntimeError(f"{resp.status} {resp.reason}: {body}")
+                data = await resp.json()
+            msg = data["choices"][0]["message"]
+            reasoning = (msg.get("reasoning") or "").strip()
+            content = (msg.get("content") or "").strip()
+            return reasoning, content
 
     for attempt in range(max_retries):
         try:
@@ -526,11 +602,19 @@ async def run_inference(tasks, system_prompt: str, together_key: str, model: str
 async def main_async():
     script_dir = os.path.dirname(os.path.abspath(__file__))
 
-    # Get Together API key
-    together_key = os.getenv("TOGETHER_API_KEY")
+    # Get API key based on provider
+    provider = get_provider(model)
+    key_map = {
+        "together":  ("TOGETHER_API_KEY",  "Together AI"),
+        "openai":    ("OPENAI_API_KEY",    "OpenAI"),
+        "anthropic": ("CLAUDE_API_KEY",    "Anthropic"),
+    }
+    env_var, provider_name = key_map[provider]
+    together_key = os.getenv(env_var)
     if not together_key:
-        print("Error: TOGETHER_API_KEY not found in .env file")
+        print(f"Error: {env_var} not found in .env file")
         return
+    print(f"Provider: {provider_name} ({env_var})")
 
     # Output files
     short_name = get_short_model_name(model)
