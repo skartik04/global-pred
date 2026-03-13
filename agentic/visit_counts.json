@@ -1,0 +1,3050 @@
+{
+  "1_Nanyonga Aisha": {
+    "visit_count": 3,
+    "visit_dates": [
+      "02/01/2022",
+      "22/06/2023",
+      "21/03/2024"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are present. No additional clinic visits with medication changes were identified; other mentions are routine reviews or clinical details without new dates."
+  },
+  "2_Mwania Sheldon": {
+    "visit_count": 3,
+    "visit_dates": [
+      "05/01/2023",
+      "26/06/2023",
+      "25/01/2024"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are present. No separate clinic visits with medication changes were identified beyond these dates. All dates are consistent and required no correction."
+  },
+  "3_Kazibwe Ryan": {
+    "visit_count": 4,
+    "visit_dates": [
+      "04/10/2022",
+      "08/11/2022",
+      "05/01/2023",
+      "22/06/2023"
+    ],
+    "notes": "The note in Visit 2 mentions a medication change 'since 8/11/2023'. This date falls after the documented 12‑month visit (22/06/2023) and is inconsistent with the timeline. Based on context, the change (increase of carbamazepine dose) likely occurred between the 0‑month and 6‑month visits, so the year was corrected to 2022, yielding an extra clinic visit on 08/11/2022. No other extra visits with medication changes were identified."
+  },
+  "4_Asio Esther Jane": {
+    "visit_count": 4,
+    "visit_dates": [
+      "05/01/2022",
+      "19/01/2023",
+      "22/06/2023",
+      "23/03/2024"
+    ],
+    "notes": "The record contains the three required official visits (0, 6, 12 months) on 05/01/2022, 19/01/2023 and 22/06/2023. An additional medication change is documented: Sodium Valproate was commenced on 23/03/2024, indicating an extra clinic visit with a drug plan change. The date \"23/3/2024\" was normalized to \"23/03/2024\". No other extra visits with medication changes were identified."
+  },
+  "5_Nalumu Martha": {
+    "visit_count": 3,
+    "visit_dates": [
+      "12/01/2023",
+      "10/07/2023",
+      "30/11/2023"
+    ],
+    "notes": "No extra clinic visits were identified beyond the three official visits. All medication adjustments (carbamazepine dose increase, addition of baclofen, and addition of Epilirum and Ambroxol syrups) occurred during the documented official visits, so they are not counted as separate visits."
+  },
+  "6_Samiya Mohammed": {
+    "visit_count": 4,
+    "visit_dates": [
+      "12/01/2023",
+      "23/02/2023",
+      "13/06/2023",
+      "10/06/2024"
+    ],
+    "notes": "Added an extra visit on 23/02/2023 because medication regimen was changed (re-started Sodium Valproate, adjusted Carbamazepine dose, added Vitamin D). The reference to a visit on 22/06/203 appears to be a typo; corrected to 22/06/2023 based on context but not counted as a separate visit since no new drug change was described. All other dates are official visits with no additional medication changes beyond the scheduled visits."
+  },
+  "7_Akello Angel": {
+    "visit_count": 5,
+    "visit_dates": [
+      "16/01/2023",
+      "07/08/2023",
+      "05/02/2024",
+      "19/02/2024",
+      "18/03/2024"
+    ],
+    "notes": "The dates 5/02/24 and 19/02/24 were interpreted as 05/02/2024 and 19/02/2024 respectively, based on the chronological context of the 12‑month official visit on 18/03/2024. Both dates involve medication changes (addition and subsequent discontinuation of Lamotrigine) and are therefore counted as extra visits."
+  },
+  "8_Tisma Natabi": {
+    "visit_count": 3,
+    "visit_dates": [
+      "16/01/2023",
+      "15/06/2023",
+      "18/01/2024"
+    ],
+    "notes": "The official visit dates are clearly given as 16/01/2023 (Visit 1), 15/06/2023 (Visit 2), and 18/01/2024 (Visit 3). A line in Visit 1 mentions \"Date of commencement of medication: 16/01/2024\", which conflicts with the official visit date and appears to be a typo; it likely should be 16/01/2023. No additional clinic visits with medication changes were identified beyond the three official visits. EEG and other investigation dates were ignored as they do not count as clinic visits."
+  },
+  "9_Nalukwaago Patience": {
+    "visit_count": 4,
+    "visit_dates": [
+      "19/01/2023",
+      "16/11/2023",
+      "18/01/2024",
+      "19/07/2024"
+    ],
+    "notes": "An additional visit was inferred from the medication commencement date listed as 19/07/2024, which indicates a new drug (Carbamazepine) was started. No other extra visits with medication changes were identified."
+  },
+  "10_Muduku Matthew": {
+    "visit_count": 3,
+    "visit_dates": [
+      "19/01/2023",
+      "27/07/2023",
+      "01/02/2024"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) were identified. No additional clinic visits with medication changes were found; the 6‑month visit only continued the same drugs at the same doses, and the 12‑month visit, while involving a drug change, is an official visit. All dates appear valid; no corrections were needed."
+  },
+  "11_Lupuia Michael": {
+    "visit_count": 3,
+    "visit_dates": [
+      "23/01/2023",
+      "21/08/2023",
+      "20/05/2024"
+    ],
+    "notes": "All medication changes (initiation of Sodium Valproate, switch to Epilim) occurred during the three official visits. No additional clinic visits with drug plan changes were identified. Dates are consistent with patient age and required no correction."
+  },
+  "12_Sewakiryanga Erik": {
+    "visit_count": 4,
+    "visit_dates": [
+      "23/01/2023",
+      "21/08/2023",
+      "16/10/2023",
+      "08/01/2024"
+    ],
+    "notes": "Corrected Visit 2 date from 21/08/2024 to 21/08/2023 based on the 6‑month interval from the initial visit (23/01/2023). Added an extra visit on 16/10/2023 because Carbamazepine was started on that date, representing a medication change. The 23/03/2023 mention in Visit 1 did not involve a medication change, so it was not counted as an extra visit."
+  },
+  "13_Hikima Rautha": {
+    "visit_count": 3,
+    "visit_dates": [
+      "30/01/2023",
+      "28/08/2023",
+      "22/01/2024"
+    ],
+    "notes": "Visit 2 was recorded as 28/08/2024, but this conflicts with the 6‑month follow‑up schedule (approximately July 2023) and with surrounding data (weight entries from early 2023). Context suggests the intended year is 2023, so the date was corrected to 28/08/2023. No additional visits with medication changes were identified; weight‑only entries (13/02/23, 27/03/23) were not counted as separate visits."
+  },
+  "14_Mulungi Jemimah": {
+    "visit_count": 3,
+    "visit_dates": [
+      "13/02/2023",
+      "10/07/2023",
+      "15/01/2024"
+    ],
+    "notes": "Visit 2 originally listed as 10/07/2024, which is inconsistent with a 6‑month follow‑up after the initial visit (13/02/2023) and would place it after the 12‑month visit dated 15/01/2024. The year was corrected to 2023 to maintain the expected timeline. No additional visits were identified beyond the three official visits, as no other dates involved medication changes."
+  },
+  "15_Moses Zinabala": {
+    "visit_count": 3,
+    "visit_dates": [
+      "23/02/2023",
+      "25/05/2023",
+      "01/02/2024"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) involve distinct clinic encounters. Additional dates mentioned in the narrative (e.g., 23/03/2023 and 23/11/2023) do not correspond to medication changes (no new drug, stop, or dose adjustment), so they are not counted as extra visits. All dates are valid and required no correction."
+  },
+  "16_Katoosi Timothy": {
+    "visit_count": 5,
+    "visit_dates": [
+      "02/03/2023",
+      "04/05/2023",
+      "01/06/2023",
+      "16/11/2023",
+      "15/02/2024"
+    ],
+    "notes": "Corrected the official Visit 1 date from 02/03/2024 to 02/03/2023 based on the chronological sequence of visits (Visit 2 is 16/11/2023 and Visit 3 is 15/02/2024). The dates 04/05/2023 and 01/06/2023 appear within the 6‑month interval and each includes medication dosage changes, so they are counted as extra visits. No other extra visits were identified because other dates refer to investigations, weight checks, or routine reviews without medication changes."
+  },
+  "17_Kabito Alpha": {
+    "visit_count": 6,
+    "visit_dates": [
+      "02/03/2023",
+      "10/03/2023",
+      "14/09/2023",
+      "17/01/2024",
+      "30/03/2024",
+      "25/04/2024"
+    ],
+    "notes": "Manually resolved. Three dates buried in Second Entry (14/09/2023, 10/03/2023, 30/03/2024). 17/01/2023 in Third Entry is a typo for 17/01/2024 (falls between V2 and V3). V1 had no drug started but is included as official visit."
+  },
+  "18_Senyendo Ridhwan": {
+    "visit_count": 4,
+    "visit_dates": [
+      "02/03/2023",
+      "06/07/2023",
+      "03/08/2023",
+      "08/03/2024"
+    ],
+    "notes": "An extra clinic visit was identified on 06/07/2023 because Baclofen was started on that date, representing a medication change. EEG on 12/07/2023 is an investigation and not counted. All dates appear consistent; no typos detected."
+  },
+  "19_Kimuli Aksam": {
+    "visit_count": 3,
+    "visit_dates": [
+      "02/03/2023",
+      "14/09/2023",
+      "25/07/2024"
+    ],
+    "notes": "Corrected the year of Visit 1 from 02/03/2024 to 02/03/2023 because the patient's age progresses from 8 years at the first visit to 9 years at the second visit, indicating the first visit occurred in 2023. The second visit date (14/09/2023) aligns with this correction and required no change. No additional clinic visits with medication changes were identified beyond the three official visits."
+  },
+  "20_Ainebyona David": {
+    "visit_count": 3,
+    "visit_dates": [
+      "16/03/2023",
+      "28/09/2023",
+      "22/08/2024"
+    ],
+    "notes": "No extra visits identified beyond the three official visits. No medication changes occurred outside the documented official visits."
+  },
+  "21_Valencia Wasswa": {
+    "visit_count": 3,
+    "visit_dates": [
+      "13/03/2023",
+      "26/06/2024",
+      "22/08/2024"
+    ],
+    "notes": "All three official visits are included. No additional clinic visits with medication changes were identified. Dates are taken as written; however, the interval between Visit 1 (13/03/2023) and Visit 2 (26/06/2024) is longer than the expected 6‑month gap, suggesting a possible documentation error in month or year, but the given dates were retained."
+  },
+  "22_Awor Veronica": {
+    "visit_count": 3,
+    "visit_dates": [
+      "13/03/2023",
+      "14/08/2023",
+      "28/03/2024"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are documented. No additional clinic dates with medication changes were found. All medication adjustments occurred within the official visits."
+  },
+  "23_Namayanja Shuhaira": {
+    "visit_count": 3,
+    "visit_dates": [
+      "06/03/2023",
+      "18/09/2023",
+      "18/03/2024"
+    ],
+    "notes": "No extra visits identified beyond the three official visits. All medication changes occurred during the official 0‑, 6‑, and 12‑month visits. Dates are consistent and required no correction."
+  },
+  "24_Nangobi Jazmine": {
+    "visit_count": 3,
+    "visit_dates": [
+      "09/03/2023",
+      "14/09/2023",
+      "14/03/2024"
+    ],
+    "notes": "All three documented visits (0, 6, and 12 months) were identified. No additional clinic visits involving medication changes (new drug, stopped drug, or dose alteration) were found in the record."
+  },
+  "25_Sentongo Edrien": {
+    "visit_count": 3,
+    "visit_dates": [
+      "09/03/2023",
+      "10/08/2023",
+      "19/02/2024"
+    ],
+    "notes": "Corrected Visit 1 year from 2024 to 2023 because the weight record (11/05/2023) and drug regimen dates indicate the baseline visit occurred in 2023. No additional clinic visits with medication changes were identified; other dates refer to weight measurement or routine notes."
+  },
+  "26_Nalweyiso Zahara": {
+    "visit_count": 3,
+    "visit_dates": [
+      "23/03/2023",
+      "02/11/2023",
+      "30/03/2024"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are counted. No additional clinic visits with medication changes were identified; all drug adjustments occurred within the documented official visits. Dates are taken as written; no typographical errors detected."
+  },
+  "27_kiwujjo Micheal": {
+    "visit_count": 3,
+    "visit_dates": [
+      "13/03/2023",
+      "21/08/2023",
+      "22/02/2024"
+    ],
+    "notes": "Only the three official visits are present. No additional clinic visits with medication changes were identified. The date 24/04/2024 refers to a weight measurement, not a separate visit."
+  },
+  "28_Berma Bukasa": {
+    "visit_count": 4,
+    "visit_dates": [
+      "09/03/2023",
+      "23/03/2023",
+      "26/10/2023",
+      "27/05/2024"
+    ],
+    "notes": "An additional clinic visit on 23/03/2023 was identified because the record notes that Levetiracetam was started (medication change). No other extra visits with drug changes were found."
+  },
+  "29_Malik Wongho": {
+    "visit_count": 3,
+    "visit_dates": [
+      "10/01/2022",
+      "22/03/2022",
+      "20/04/2022"
+    ],
+    "notes": "The official Visit 2 and Visit 3 dates were given as 22/03/2023 and 20/04/2023, but the patient’s age described in those entries (4 years 10/12 months and 4 years 11/12 months) is consistent with dates in 2022, not 2023. Therefore the years were corrected to 2022. No additional clinic visits with medication changes were identified beyond the three official visits."
+  },
+  "30_Magezi Walter": {
+    "visit_count": 3,
+    "visit_dates": [
+      "20/03/2023",
+      "10/08/2023",
+      "30/05/2024"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are documented. No additional clinic visits with medication changes were identified. All dates appear correct; no typographical errors detected."
+  },
+  "31_Baita Christian": {
+    "visit_count": 3,
+    "visit_dates": [
+      "23/03/2023",
+      "05/10/2023",
+      "16/05/2024"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are present. No additional clinic visits with medication changes were identified; admissions and investigations are excluded per instructions."
+  },
+  "32_Kayemba Deo": {
+    "visit_count": 4,
+    "visit_dates": [
+      "16/03/2023",
+      "07/09/2023",
+      "11/01/2024",
+      "25/05/2024"
+    ],
+    "notes": "Corrected the medication start date listed as 16/03/2024 to 16/03/2023 based on the official Visit 1 date. Identified an extra clinic visit on 11/01/2024 because the record shows a change in carbamazepine dosing (from bd ×3/12 to bd ×2/12), which qualifies as a medication change. No other extra visits involved medication changes."
+  },
+  "33_Nakalyango Nicole": {
+    "visit_count": 3,
+    "visit_dates": [
+      "27/03/2023",
+      "29/01/2024",
+      "23/09/2024"
+    ],
+    "notes": "Corrected the medication commencement date listed as 27/03/2024 to 27/03/2023 to match the official Visit 1 date. No additional clinic visits with medication changes were identified; investigation dates (EEG, CT) were excluded."
+  },
+  "34_Semakula Miracle": {
+    "visit_count": 3,
+    "visit_dates": [
+      "23/11/2023",
+      "27/03/2024",
+      "26/09/2024"
+    ],
+    "notes": "No extra visits involving medication changes were identified. All three official visits are counted. Dates are consistent; they have been ordered chronologically."
+  },
+  "35_Nanyanzi Victoria": {
+    "visit_count": 3,
+    "visit_dates": [
+      "30/03/2023",
+      "29/02/2024",
+      "04/07/2024"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) involve medication changes. The EEG date (21/03/2023) is an investigation and not counted as a clinic visit. No additional visit dates with drug plan changes were found."
+  },
+  "36_Namugerwa Hawa": {
+    "visit_count": 4,
+    "visit_dates": [
+      "06/11/2023",
+      "30/03/2024",
+      "27/05/2024",
+      "19/08/2024"
+    ],
+    "notes": "An additional clinic visit on 06/11/2023 was identified because it included initiation of Sodium Valproate and Baclofen (medication change). EEG dates (30/03/2023) are investigations and not counted as visits. No other non‑medication visits were found between the official 0‑, 6‑, and 12‑month visits."
+  },
+  "37_Tamale Jonathan": {
+    "visit_count": 3,
+    "visit_dates": [
+      "30/03/2023",
+      "16/11/2023",
+      "20/05/2024"
+    ],
+    "notes": "The official baseline visit was recorded as 30/03/2024, but this creates an impossible chronology because the 6‑month follow‑up is dated 16/11/2023 (earlier). The year was corrected to 2023 to maintain a logical sequence of visits. No additional visits with medication changes were identified beyond the three official visits."
+  },
+  "38_Nansera George": {
+    "visit_count": 3,
+    "visit_dates": [
+      "23/03/2023",
+      "29/02/2024",
+      "13/06/2024"
+    ],
+    "notes": "Visit 1 official date was given as 23/03/2023; later text referenced 23/03/2024 for medication start, which appears to be a typo and was corrected to 2023 to match the official visit date. No additional clinic visits with medication changes were identified beyond the three official visits. The EEG date (01/03/2024) and other investigation dates were not counted as visits."
+  },
+  "39_Najjemba Christine": {
+    "visit_count": 3,
+    "visit_dates": [
+      "03/04/2023",
+      "14/08/2023",
+      "05/08/2024"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are present. No additional clinic visits with medication changes were identified. Dates are taken as written; the 6‑month visit falls in August 2023 rather than the expected October 2023, but no correction was applied beyond preserving the given format."
+  },
+  "40_Nankya Favour": {
+    "visit_count": 3,
+    "visit_dates": [
+      "24/04/2023",
+      "21/09/2023",
+      "22/04/2024"
+    ],
+    "notes": "The note dated 22/06/2023 mentions a 6‑month review but no medication change, so it is not counted as an extra visit. All official visits (0, 6, 12 months) are included."
+  },
+  "41_Muvunyi Dvir": {
+    "visit_count": 3,
+    "visit_dates": [
+      "20/04/2023",
+      "23/01/2024",
+      "24/06/2024"
+    ],
+    "notes": "Visit 2 was recorded as 23/01/2023, which predates Visit 1 (20/04/2023) and conflicts with the patient’s age progression (8 years old at Visit 2). The year was adjusted to 2024 to maintain chronological order and logical consistency. No additional visits with medication changes were identified beyond the three official visits."
+  },
+  "42_Nabagala Hellen": {
+    "visit_count": 3,
+    "visit_dates": [
+      "17/04/2023",
+      "30/10/2023",
+      "12/02/2024"
+    ],
+    "notes": "Only the three official visits are present. No additional clinic visits with medication changes were identified. All dates are consistent; no typographical errors detected."
+  },
+  "43_Babirye Joan": {
+    "visit_count": 3,
+    "visit_dates": [
+      "13/04/2023",
+      "22/02/2024",
+      "20/06/2024"
+    ],
+    "notes": "No extra visits with medication changes beyond the three official visits. The 6‑month visit date (22/02/2024) is later than exactly six months after the baseline, but no definitive typo could be identified, so the recorded dates are retained."
+  },
+  "44_Nakidde Zoe": {
+    "visit_count": 3,
+    "visit_dates": [
+      "06/04/2023",
+      "12/10/2023",
+      "27/05/2024"
+    ],
+    "notes": "No additional clinic visits with medication changes were identified. All three official visits (0, 6, and 12 months) are counted. Dates are consistent and required no correction."
+  },
+  "45_Nankya Munira": {
+    "visit_count": 4,
+    "visit_dates": [
+      "25/05/2023",
+      "22/06/2023",
+      "21/09/2023",
+      "27/06/2024"
+    ],
+    "notes": "An extra clinic visit was identified on 22/06/2023 within the first visit notes, where the medication was changed from Sodium Valproate to Carbamazepine (dose 55 mg bd). This qualifies as an additional visit because of a drug plan change. No other extra visits were found; the 6‑month (21/09/2023) and 12‑month (27/06/2024) visits are official and already counted. All dates appear valid; no corrections were needed."
+  },
+  "46_Kabonge Aaron": {
+    "visit_count": 3,
+    "visit_dates": [
+      "18/05/2023",
+      "22/01/2024",
+      "09/09/2024"
+    ],
+    "notes": "No extra visits beyond the three official visits were identified. All medication changes (addition of folic acid, antibiotics, antihistamine) occurred during the documented 6‑month and 12‑month visits."
+  },
+  "47_Mugisha Silver": {
+    "visit_count": 3,
+    "visit_dates": [
+      "11/05/2023",
+      "30/11/2023",
+      "24/06/2024"
+    ],
+    "notes": "All three official visits (0, 6, and 12 months) are present. No additional clinic visits with medication changes were identified beyond the scheduled visits. The dosage change from ×2/12 to ×3/12 occurred at the 6‑month visit, which is an official visit, not an extra one."
+  },
+  "48_Mukisa Jeremiah": {
+    "visit_count": 3,
+    "visit_dates": [
+      "11/05/2023",
+      "08/10/2023",
+      "23/05/2024"
+    ],
+    "notes": "No extra visits beyond the three official visits. All medication changes occurred during the official visits, so they are not counted as separate visits."
+  },
+  "49_Magezi Jeremiah": {
+    "visit_count": 3,
+    "visit_dates": [
+      "04/05/2023",
+      "02/11/2023",
+      "06/06/2024"
+    ],
+    "notes": "All three official visits are counted. No additional visits with medication changes were identified. Dates are taken as written; the 12‑month visit date (06/06/2024) is slightly later than exactly 12 months after the first visit but is assumed correct based on the provided record."
+  },
+  "50_Talindeka Jeremiah": {
+    "visit_count": 3,
+    "visit_dates": [
+      "04/05/2023",
+      "02/11/2023",
+      "22/04/2024"
+    ],
+    "notes": "No extra visits with medication changes were identified between the official 0‑, 6‑, and 12‑month visits. All visit dates are consistent and required no correction."
+  },
+  "51_Nakafeero Pauline": {
+    "visit_count": 4,
+    "visit_dates": [
+      "10/01/2022",
+      "10/03/2022",
+      "05/05/2022",
+      "09/03/2023"
+    ],
+    "notes": "The date 10/03/2022 appears as a separate entry between the official 0‑month and 6‑month visits and includes a medication plan (Carbamazepine 400 mg BD), indicating a dose change from the previous regimen; therefore it is counted as an extra visit. No other extra visits involved medication changes. All dates are taken as written; no obvious typographical errors were detected."
+  },
+  "52_Ssemwogerere Farid": {
+    "visit_count": 3,
+    "visit_dates": [
+      "17/01/2022",
+      "12/05/2022",
+      "05/01/2023"
+    ],
+    "notes": "An additional date (04/08/2022) appears in the notes but no medication change is documented, so it is not counted as an extra visit. All official visit dates are consistent; no typos detected."
+  },
+  "53_Bukenya Patrick": {
+    "visit_count": 3,
+    "visit_dates": [
+      "17/01/2022",
+      "01/08/2022",
+      "12/01/2023"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are documented. No additional clinic visits with medication changes were identified in the merged notes."
+  },
+  "54_Sekito Abdulhakim": {
+    "visit_count": 3,
+    "visit_dates": [
+      "20/01/2022",
+      "14/07/2022",
+      "19/01/2023"
+    ],
+    "notes": "No extra visits with medication changes were identified; only the three official visits are counted."
+  },
+  "55_Semwanga Raphael": {
+    "visit_count": 3,
+    "visit_dates": [
+      "19/01/2023",
+      "05/06/2023",
+      "08/04/2024"
+    ],
+    "notes": "No extra visits identified beyond the three official visits, as no medication changes occurred outside the documented visits. All dates are consistent; no typographical errors required correction."
+  },
+  "56_Masanso Wallace": {
+    "visit_count": 3,
+    "visit_dates": [
+      "27/01/2022",
+      "02/06/2022",
+      "06/03/2023"
+    ],
+    "notes": "The 6‑month visit date (02/06/2022) occurs earlier than the expected 6‑month interval after the initial visit (27/01/2022 would suggest a late July 2022 date). No additional clinic visits with medication changes were identified beyond the three official visits."
+  },
+  "57_Pirwot Travis": {
+    "visit_count": 3,
+    "visit_dates": [
+      "03/02/2022",
+      "11/04/2022",
+      "30/03/2023"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are present. No additional clinic visits with medication changes were identified. Dates are consistent and required no correction."
+  },
+  "58_Sekyeru Jeremiah": {
+    "visit_count": 3,
+    "visit_dates": [
+      "19/01/2023",
+      "26/06/2023",
+      "11/01/2024"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are documented. No additional clinic visits with medication changes were identified. All dates appear correct; no typos required correction."
+  },
+  "59_Adikin Kerin": {
+    "visit_count": 3,
+    "visit_dates": [
+      "31/01/2022",
+      "21/07/2022",
+      "27/02/2023"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) involve medication changes. No additional clinic visits with drug plan changes were identified. The EEG date (27/01/22) is an investigation, not a visit. All dates are consistent; no typos required correction."
+  },
+  "60_Kabenge Rayan": {
+    "visit_count": 3,
+    "visit_dates": [
+      "18/01/2022",
+      "19/09/2022",
+      "16/01/2023"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are present. The EEG date (14/07/2022) is an investigation, not a clinic visit. No additional clinic visits with medication changes were identified."
+  },
+  "61_Nakate Liza": {
+    "visit_count": 3,
+    "visit_dates": [
+      "14/02/2022",
+      "23/06/2022",
+      "27/02/2023"
+    ],
+    "notes": "Only the three official visits (0, 6, 12 months) are documented. No additional clinic visits with medication changes were identified in the merged notes."
+  },
+  "62_Bros Collins": {
+    "visit_count": 3,
+    "visit_dates": [
+      "24/02/2022",
+      "15/08/2022",
+      "20/02/2023"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are counted. The admission from 01/08/2022 to 07/08/2022 is not a clinic visit and is excluded. All medication changes occurred during the official visits, so no extra visits are flagged."
+  },
+  "63_Buyinza Alex": {
+    "visit_count": 3,
+    "visit_dates": [
+      "14/02/2022",
+      "14/07/2022",
+      "06/04/2023"
+    ],
+    "notes": "Only the three official visits are present. No additional clinic visits involved medication changes; the 6‑month visit introduced carbamazepine, and the 12‑month visit continued the same regimen. No date typos detected."
+  },
+  "64_Owinyi Golden": {
+    "visit_count": 4,
+    "visit_dates": [
+      "10/02/2022",
+      "10/03/2022",
+      "08/08/2022",
+      "02/03/2023"
+    ],
+    "notes": "An additional clinic visit on 10/03/2022 was identified within the first visit notes; it includes a medication change (introduction of Sodium Valproate). No other extra visits with drug changes were found."
+  },
+  "65_Kasana Aidah": {
+    "visit_count": 3,
+    "visit_dates": [
+      "21/03/2022",
+      "10/10/2022",
+      "03/04/2023"
+    ],
+    "notes": "No extra visits identified beyond the three official visits; all medication changes occurred during the official visits."
+  },
+  "66_Semakula Nation": {
+    "visit_count": 3,
+    "visit_dates": [
+      "21/03/2022",
+      "27/06/2022",
+      "24/04/2023"
+    ],
+    "notes": "All three documented visits are the official 0‑, 6‑, and 12‑month visits. No additional clinic visits with medication changes were identified. Dates are consistent and required no correction."
+  },
+  "67_Ssenyonjo Waswa": {
+    "visit_count": 3,
+    "visit_dates": [
+      "07/03/2022",
+      "08/08/2022",
+      "17/04/2023"
+    ],
+    "notes": "Corrected the year for Visit 2 from 08/08/2023 to 08/08/2022 based on the expected 6‑month interval after the first visit (07/03/2022) and consistency with other timeline references. The mention of medication start dates (e.g., clonazepam 22/08/2022) does not correspond to a documented clinic visit, so only the three official visits are counted."
+  },
+  "68_Mpagi Mohammed": {
+    "visit_count": 3,
+    "visit_dates": [
+      "10/03/2022",
+      "13/10/2022",
+      "27/03/2023"
+    ],
+    "notes": "Only the three official visits were documented. No additional clinic visits with medication changes were found; the dates 18/01/2023 and 23/03/2023 refer to lab results, not separate visits."
+  },
+  "69_Ainembabazi Prosper": {
+    "visit_count": 3,
+    "visit_dates": [
+      "03/03/2022",
+      "01/09/2022",
+      "15/02/2024"
+    ],
+    "notes": "All three official visits are included. No additional clinic visits with medication changes were identified beyond the scheduled 0‑, 6‑, and 12‑month visits. The date of the 12‑month visit (15/02/2024) is later than the exact 12‑month interval from the baseline (which would be around March 2023), but the note explicitly states a 2‑year gap and the recorded date is consistent with that narrative, so it is retained as written."
+  },
+  "70_Namukose Mary": {
+    "visit_count": 3,
+    "visit_dates": [
+      "07/02/2022",
+      "12/09/2022",
+      "06/02/2023"
+    ],
+    "notes": "The record contained a typo where the medication commencement date was listed as 07/02/2024; based on context (the index visit is 07/02/2022) this was corrected to 07/02/2022. No additional clinic visits with medication changes were identified beyond the three official visits."
+  },
+  "71_Nabbossa Meghan": {
+    "visit_count": 3,
+    "visit_dates": [
+      "24/03/2022",
+      "14/07/2022",
+      "09/02/2023"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are present. The EEG on 18/03/2022 is an investigation, not a clinic visit. No additional clinic visits with medication changes were documented."
+  },
+  "72_Nalusiba Sandra": {
+    "visit_count": 3,
+    "visit_dates": [
+      "28/03/2022",
+      "22/09/2022",
+      "30/03/2023"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) involved medication changes. No additional clinic visits with drug plan changes were identified. The mention of a missed review in January 2023 was a non‑attendance, not a separate visit. All dates appear correct; no typographical corrections were needed."
+  },
+  "73_Maselino Gombe": {
+    "visit_count": 4,
+    "visit_dates": [
+      "31/03/2022",
+      "28/04/2022",
+      "05/09/2022",
+      "27/03/2023"
+    ],
+    "notes": "Included the three official visits (31/03/2022, 05/09/2022, 27/03/2023). Added an extra visit on 28/04/2022 because the note records a medication change (stop carbamazepine, start Sodium Valproate). The 07/04/2022 review and the 14/07/2022 entry did not involve any drug plan change, so they are not counted as separate visits."
+  },
+  "74_Mukisa Shalom": {
+    "visit_count": 4,
+    "visit_dates": [
+      "07/04/2022",
+      "13/04/2023",
+      "12/10/2023",
+      "30/05/2024"
+    ],
+    "notes": "The record contains three official visits (0, 6, and 12 months) on 07/04/2022, 12/10/2023, and 30/05/2024. An additional clinic encounter on 13/04/2023 was identified because it introduced a new medication (Phenobarbitone) and changed the Epilim dose, qualifying it as an extra visit with a drug plan change. Dates such as 10/11/2023 and other investigation mentions were not counted as visits."
+  },
+  "75_Nakabuye Swahih": {
+    "visit_count": 3,
+    "visit_dates": [
+      "07/04/2022",
+      "29/09/2022",
+      "18/05/2023"
+    ],
+    "notes": "No extra visits identified beyond the three official visits. All dates are consistent; no typographical errors detected."
+  },
+  "76_Ainebyona Genesis": {
+    "visit_count": 4,
+    "visit_dates": [
+      "21/04/2022",
+      "15/09/2022",
+      "02/03/2023",
+      "22/01/2024"
+    ],
+    "notes": "Corrected the mention of medication commencement on \"21/04/2023\" to 21/04/2022 based on the official Visit 1 date. Identified an extra clinic visit on 15/09/2022 because it involved a medication change (increase of carbamazepine dose and addition of baclofen). Other dates (MRI, neurosurgical consult, family history) were not counted as visits since they did not involve prescription changes."
+  },
+  "77_Promise Ambrose": {
+    "visit_count": 4,
+    "visit_dates": [
+      "12/04/2022",
+      "15/09/2022",
+      "18/12/2022",
+      "11/05/2023"
+    ],
+    "notes": "An additional clinic encounter on 18/12/2022 was identified within the second visit notes. It includes medication adjustments (dose changes for Lamotrigine and Clonazepam, continuation of Valproate) and therefore counts as an extra visit. No other extra visits with drug plan changes were found. All dates are presented in dd/mm/yyyy format and required no correction."
+  },
+  "78_Katamba Druscilla": {
+    "visit_count": 3,
+    "visit_dates": [
+      "28/04/2022",
+      "03/11/2022",
+      "24/04/2023"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are documented. No additional clinic visits with medication changes were identified. All dates are consistent and required no correction."
+  },
+  "79_Dalton Nakimbugwe": {
+    "visit_count": 3,
+    "visit_dates": [
+      "09/03/2022",
+      "03/11/2022",
+      "11/05/2023"
+    ],
+    "notes": "The record contains three official visits at 0, 6, and 12 months. No additional clinic visits involved a medication change, so only the official visits are counted. The date '9/03/2023' in the history appears to be a typo (should be 09/03/2022) and has been corrected to match the official Visit 1 date. Investigation dates (CT scan 04/03/2023) and other historical dates are not counted as visits."
+  },
+  "80_Ssubi Adrian Jolline": {
+    "visit_count": 3,
+    "visit_dates": [
+      "30/05/2022",
+      "03/11/2022",
+      "19/06/2023"
+    ],
+    "notes": "No extra visits identified beyond the three official visits. All medication changes occurred during the documented official visits, so they are not counted as additional visits."
+  },
+  "81_Echanu Elvis": {
+    "visit_count": 4,
+    "visit_dates": [
+      "26/05/2022",
+      "27/04/2023",
+      "15/02/2024",
+      "20/06/2024"
+    ],
+    "notes": "The record contains the three required official visits (0, 6, and 12 months) dated 26/05/2022, 15/02/2024, and 20/06/2024. An additional clinic encounter on 27/04/2023 involved initiation of Baclofen and Carbamazepine, so it is counted as an extra visit. The 6‑month official date (15/02/2024) is later than expected based on the 0‑month date, suggesting a possible documentation error, but it is retained as the official visit per instructions."
+  },
+  "82_Shadin Rajat": {
+    "visit_count": 3,
+    "visit_dates": [
+      "26/05/2022",
+      "02/11/2023",
+      "01/02/2024"
+    ],
+    "notes": "All three official visits identified; no additional visits with medication changes were found."
+  },
+  "83_Ahmed Mohamed Abdulkadir": {
+    "visit_count": 3,
+    "visit_dates": [
+      "23/05/2023",
+      "07/08/2023",
+      "07/03/2024"
+    ],
+    "notes": "Corrected the year of the first official visit from 2022 to 2023 based on patient age progression (8 y at first visit, 9 y at third visit) and the logical 6‑month and 12‑month intervals. No additional visits with medication changes were identified."
+  },
+  "84_Andwaniira Emmanuel": {
+    "visit_count": 3,
+    "visit_dates": [
+      "23/05/2022",
+      "08/12/2022",
+      "17/04/2023"
+    ],
+    "notes": "All three official visits are counted. No additional visits with medication changes were identified beyond the scheduled 0, 6, and 12 month visits. The dose increase noted at the 12‑month visit is part of the official visit, not an extra visit."
+  },
+  "85_Mirembe Mercy": {
+    "visit_count": 3,
+    "visit_dates": [
+      "16/01/2023",
+      "06/07/2023",
+      "22/02/2024"
+    ],
+    "notes": "Only the three official visits were identified. The date 02/05/2022 is a historical reference, not a clinic visit. No additional visits with medication changes were found."
+  },
+  "86_Namukose Gift": {
+    "visit_count": 4,
+    "visit_dates": [
+      "02/06/2022",
+      "14/07/2022",
+      "01/02/2023",
+      "11/05/2023"
+    ],
+    "notes": "Visit 2 official date was given as 01/02/2022, which predates the first visit and is inconsistent with the 6‑month follow‑up schedule. Based on the chronology (after the July 2022 visit and before the May 2023 visit) the year was corrected to 2023. The entry dated 14/07/2022 includes a clear medication change (stop carbamazepine, start sodium valproate), so it is counted as an extra clinic visit. The 08/09/2022 entry does not involve any drug plan change and is therefore not counted as an extra visit."
+  },
+  "87_Isingoma Creven": {
+    "visit_count": 3,
+    "visit_dates": [
+      "13/06/2022",
+      "09/01/2023",
+      "05/06/2023"
+    ],
+    "notes": "Only the three official visits are present. The date 11/07/2022 appears within the first visit note as a weight measurement, not as a separate clinic encounter. No additional visits with medication changes were identified."
+  },
+  "88_Kamoga Joseph": {
+    "visit_count": 3,
+    "visit_dates": [
+      "16/06/2022",
+      "05/12/2022",
+      "06/01/2023"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) were found. No additional clinic visits with medication changes were identified."
+  },
+  "89_Lukwago Benjamin": {
+    "visit_count": 3,
+    "visit_dates": [
+      "20/06/2022",
+      "09/01/2023",
+      "05/06/2023"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are present. No additional clinic visits involved medication changes; the date 03/04/2023 refers to seizure episodes, not a separate visit."
+  },
+  "90_Odongo Moses": {
+    "visit_count": 3,
+    "visit_dates": [
+      "23/06/2022",
+      "12/01/2023",
+      "06/07/2023"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are documented. No additional clinic visits with medication changes were identified in the record."
+  },
+  "91_Kirabo Emmanuel": {
+    "visit_count": 3,
+    "visit_dates": [
+      "23/06/2022",
+      "27/04/2023",
+      "21/08/2023"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) involve medication changes. A non‑official review mentioned in September 2022 did not include any drug plan change, so it is not counted as an extra visit. No date typos were detected."
+  },
+  "92_Rubangakene Bright": {
+    "visit_count": 3,
+    "visit_dates": [
+      "30/06/2022",
+      "29/12/2022",
+      "29/06/2023"
+    ],
+    "notes": "No additional clinic visits involving medication changes were identified beyond the three official visits. All dates are consistent; no typos detected."
+  },
+  "93_Ikiriza Jenayah": {
+    "visit_count": 4,
+    "visit_dates": [
+      "30/06/2022",
+      "07/11/2022",
+      "11/05/2023",
+      "02/11/2023"
+    ],
+    "notes": "Included an extra visit on 07/11/2022 due to medication dose change (Epilim increased from 50 mg to 80 mg). No other extra visits with drug changes were identified."
+  },
+  "94_Lomakol Ives Zane": {
+    "visit_count": 4,
+    "visit_dates": [
+      "30/06/2022",
+      "14/07/2022",
+      "13/10/2022",
+      "30/06/2023 (approximate – 12‑month official visit, date not documented)"
+    ],
+    "notes": "Corrected the year of Visit 2 from 13/10/2023 to 13/10/2022 based on the patient’s age (still 4 years) and the expected 6‑month interval. The 12‑month official visit had no date recorded; inferred an approximate date of 30/06/2023 (one year after the initial visit) for chronological completeness. The 14/07/2022 visit involved addition of Sodium Valproate and Clobazam, representing an extra clinic visit with medication changes, thus counted as an extra visit."
+  },
+  "95_Lomakol Ives Zane": {
+    "visit_count": 4,
+    "visit_dates": [
+      "30/06/2022",
+      "14/07/2022",
+      "13/10/2023",
+      "13/10/2023"
+    ],
+    "notes": "An extra clinic visit on 14/07/2022 was identified because Sodium Valproate was added to the regimen (medication change). The official 6‑month and 12‑month visits are both recorded as 13/10/2023; this duplicate date may be a documentation error (the 6‑month visit would be expected around late 2022). No other medication changes were found. Dates are kept as written, with the assumption that they are correct despite the apparent inconsistency."
+  },
+  "96_Ayan Nicholas": {
+    "visit_count": 3,
+    "visit_dates": [
+      "23/06/2022",
+      "23/01/2023",
+      "29/05/2023"
+    ],
+    "notes": "No additional visits beyond the three official visits involved a medication change. All dates are consistent; no typographical errors detected."
+  },
+  "97_Ahimbisibwe Keron": {
+    "visit_count": 3,
+    "visit_dates": [
+      "06/06/2022",
+      "14/11/2022",
+      "13/03/2023"
+    ],
+    "notes": "The third official visit was recorded as 13/03/2024, which is inconsistent with the stated 12‑month follow‑up schedule (approximately 12 months after the first visit in June 2022). Assuming a typographical error in the year, the date has been corrected to 13/03/2023. No additional clinic visits with medication changes were identified beyond the three official visits."
+  },
+  "98_Magalo Imran": {
+    "visit_count": 3,
+    "visit_dates": [
+      "07/07/2022",
+      "11/05/2023",
+      "23/11/2023"
+    ],
+    "notes": "Only the three official visits (0, 6, 12 months) are documented. No additional clinic visits with medication changes were identified. Dates appear consistent; no typographical corrections were needed."
+  },
+  "99_Akol Precious": {
+    "visit_count": 3,
+    "visit_dates": [
+      "07/07/2022",
+      "29/12/2022",
+      "14/09/2023"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are present. No additional clinic visits with medication changes were identified. The ECHO date (28/06/22) is an investigation, not a clinic visit, and therefore not counted."
+  },
+  "100_Otim Fortunate": {
+    "visit_count": 4,
+    "visit_dates": [
+      "07/07/2022",
+      "08/12/2022",
+      "15/12/2022",
+      "31/08/2023"
+    ],
+    "notes": "The record contains an additional date '15/12/22' within the 6‑month visit notes. It includes a medication plan change (adjusted doses of Clobazam, Sodium Valproate, and Topiramate), indicating a separate clinic encounter. The year was inferred as 2022 based on surrounding context. No other extra visits with drug changes were identified."
+  },
+  "101_Osukira Josiah": {
+    "visit_count": 3,
+    "visit_dates": [
+      "18/07/2022",
+      "20/02/2023",
+      "14/08/2023"
+    ],
+    "notes": "All three visits correspond to the official 0‑month, 6‑month, and 12‑month follow‑ups. No extra clinic visits with medication changes were found; other mentions (EEG, review notes) lack specific dates and do not constitute separate visits."
+  },
+  "102_Mulungi Rodney": {
+    "visit_count": 3,
+    "visit_dates": [
+      "25/07/2022",
+      "23/01/2023",
+      "23/07/2023"
+    ],
+    "notes": "The record lists three official visits (0, 6, and 12 months). The 12‑month visit was recorded with the same date as the 6‑month visit (23/01/2023), which is unlikely. Based on the 6‑month date, the expected 12‑month follow‑up would be six months later, around late July 2023. I corrected the date to 23/07/2023. No additional clinic visits with medication changes were identified beyond the three official visits."
+  },
+  "103_Ssempala Ian": {
+    "visit_count": 3,
+    "visit_dates": [
+      "25/07/2022",
+      "23/01/2023",
+      "24/07/2023"
+    ],
+    "notes": "Corrected the date of Visit 2 from 23/01/2024 to 23/01/2023 to align with the expected 6‑month follow‑up after the initial visit on 25/07/2022. No additional visits with medication changes were identified."
+  },
+  "104_Ssenfuka Benjamin": {
+    "visit_count": 3,
+    "visit_dates": [
+      "28/07/2022",
+      "22/12/2022",
+      "28/08/2023"
+    ],
+    "notes": "Only the three official visits are documented. No additional clinic visits with medication changes were identified in the record."
+  },
+  "105_Babirye Zawujja": {
+    "visit_count": 3,
+    "visit_dates": [
+      "28/07/2022",
+      "21/02/2023",
+      "31/08/2023"
+    ],
+    "notes": "No additional clinic visits with medication changes were identified beyond the three official visits. All dates are consistent; no typographical errors required correction."
+  },
+  "106_Senyondo Ian": {
+    "visit_count": 3,
+    "visit_dates": [
+      "04/08/2022",
+      "02/03/2023",
+      "22/08/2023"
+    ],
+    "notes": "The third official visit was recorded as 22/08/2024, which is inconsistent with the 12‑month follow‑up schedule (approximately one year after the baseline visit on 04/08/2022) and with the patient’s age progression (9 y at the 6‑month visit, 10 y at the 12‑month visit). The year was corrected to 2023 to align with the expected 12‑month interval. No additional clinic visits with medication changes were identified beyond the three official visits."
+  },
+  "107_Ismahan Mahad": {
+    "visit_count": 3,
+    "visit_dates": [
+      "04/08/2023",
+      "02/02/2024",
+      "07/03/2024"
+    ],
+    "notes": "All medication changes occurred during the three official visits. No additional clinic visits with drug plan changes were identified."
+  },
+  "108_Arinaitwe Aryna": {
+    "visit_count": 4,
+    "visit_dates": [
+      "01/01/2022",
+      "04/08/2022",
+      "13/02/2023",
+      "25/09/2023"
+    ],
+    "notes": "An extra visit was inferred for the medication switch from Carbamazepine to Sodium Valproate mentioned as occurring in January 2022. The exact day was not provided, so 01/01/2022 was assumed. No other non‑official visits involved a drug plan change."
+  },
+  "109_Nakazi Hope": {
+    "visit_count": 3,
+    "visit_dates": [
+      "04/08/2022",
+      "11/07/2023",
+      "11/03/2024"
+    ],
+    "notes": "No extra visits with medication changes identified beyond the three official visits."
+  },
+  "110_Manozi Angella": {
+    "visit_count": 3,
+    "visit_dates": [
+      "15/08/2022",
+      "27/02/2023",
+      "18/09/2023"
+    ],
+    "notes": "No additional clinic visits with medication changes were identified beyond the three official visits."
+  },
+  "111_Nalubega Darphine": {
+    "visit_count": 3,
+    "visit_dates": [
+      "18/08/2022",
+      "09/03/2023",
+      "28/09/2023"
+    ],
+    "notes": "Only the three official visits are documented. No additional clinic visits with medication changes were identified. EEG date (18/01/2019) and other investigation dates are excluded per instructions."
+  },
+  "112_Kabenge Rayan": {
+    "visit_count": 3,
+    "visit_dates": [
+      "18/08/2022",
+      "16/01/2023",
+      "16/08/2023"
+    ],
+    "notes": "Visit 3 date was recorded as 16/01/2023, which duplicates the 6‑month visit and does not align with the 12‑month follow‑up (patient age progresses from 6 to 7 years). Based on the expected 12‑month interval from the initial visit (18/08/2022) and the age change, the date was corrected to 16/08/2023. No additional visits beyond the three official ones involved medication changes."
+  },
+  "113_Mbabazi Martha": {
+    "visit_count": 3,
+    "visit_dates": [
+      "28/04/2022",
+      "05/01/2024",
+      "06/03/2024"
+    ],
+    "notes": "The official Visit 1 date is given as 28/04/2022. Later in the record the medication commencement is listed as 28/04/2024, which is inconsistent with the visit timeline and likely a typo; the 2022 date is retained as the correct visit date. All three official visits are included, and no additional visits with medication changes were identified."
+  },
+  "114_Iratukunda Danita": {
+    "visit_count": 3,
+    "visit_dates": [
+      "01/09/2022",
+      "23/03/2023",
+      "07/09/2023"
+    ],
+    "notes": "Only the three official visits are present. No additional clinic visits with medication changes were identified. The EEG date (03/08/2022) is an investigation, not a visit."
+  },
+  "115_Mugwanya Loijo": {
+    "visit_count": 3,
+    "visit_dates": [
+      "05/09/2022",
+      "16/01/2023",
+      "16/10/2023"
+    ],
+    "notes": "No additional clinic visits beyond the three official visits were identified. The dose change at the 12‑month visit is part of the official visit, not an extra visit."
+  },
+  "116_Nansubuga Angel": {
+    "visit_count": 3,
+    "visit_dates": [
+      "08/09/2022",
+      "20/03/2023",
+      "05/06/2023"
+    ],
+    "notes": "No extra visits detected beyond the three official visits. All medication changes occurred during the documented official visits, so they are not counted as additional visits. Dates appear consistent; no corrections needed."
+  },
+  "117_Muyingo Shammah": {
+    "visit_count": 3,
+    "visit_dates": [
+      "08/09/2022",
+      "07/03/2023",
+      "23/11/2023"
+    ],
+    "notes": "Visit 2 was labeled as the 6‑month follow‑up but the year was given as 2024, which would be 30 months after the initial visit. Based on the 6‑month interval, it is most likely a typo and has been corrected to 07/03/2023. Visit 3 (12‑month follow‑up) is recorded as 23/11/2023, which is slightly later than the exact 12‑month point (September 2023) but no clear error is identifiable, so the date is retained as written. No additional clinic visits beyond the three official ones were identified, as no other dates with medication changes were present."
+  },
+  "118_Ssebadduka Derrick": {
+    "visit_count": 3,
+    "visit_dates": [
+      "08/09/2022",
+      "09/03/2023",
+      "16/11/2023"
+    ],
+    "notes": "All three documented visits (0, 6, 12 months) were identified. No additional clinic visits involving medication changes were found; later entries were routine refills without dosage or drug alterations."
+  },
+  "119_Odur Hillary": {
+    "visit_count": 3,
+    "visit_dates": [
+      "12/09/2022",
+      "24/04/2023",
+      "25/09/2023"
+    ],
+    "notes": "No extra visits with medication changes identified beyond the three official visits."
+  },
+  "120_Tumaebaze Emmanuel": {
+    "visit_count": 3,
+    "visit_dates": [
+      "12/09/2022",
+      "30/03/2023",
+      "03/08/2023"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are present. No additional clinic visits with medication changes were identified. The EEG date in July 2022 is an investigation, not a visit. All dates are consistent and required no correction."
+  },
+  "121_Kitaka Raymond": {
+    "visit_count": 3,
+    "visit_dates": [
+      "15/09/2022",
+      "17/11/2022",
+      "31/07/2023"
+    ],
+    "notes": "All three official visits are included. No additional clinic visits with medication changes were identified in the merged notes. Dates are taken as written; no obvious typographical errors were detected."
+  },
+  "122_Tabuzibwa Benjamin": {
+    "visit_count": 3,
+    "visit_dates": [
+      "15/09/2022",
+      "23/02/2023",
+      "16/11/2023"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) involve medication changes. No additional clinic visits with drug plan changes were identified; dates related to investigations (CT, EEG) and routine follow‑up measurements were excluded."
+  },
+  "123_Awania Epiphany": {
+    "visit_count": 5,
+    "visit_dates": [
+      "15/09/2022",
+      "27/10/2022",
+      "27/02/2023",
+      "14/09/2023",
+      "14/12/2023"
+    ],
+    "notes": "Two extra visits were identified because they involved medication changes: 27/10/2022 (dose increase of syrup Epilim) and 14/09/2023 (increase of carbamazepine and folic acid dosage). All dates have been normalized to dd/mm/yyyy format."
+  },
+  "124_Afaayo Francis": {
+    "visit_count": 3,
+    "visit_dates": [
+      "19/09/2022",
+      "08/04/2023",
+      "17/06/2023"
+    ],
+    "notes": "The document labels Visit 2 as the 6‑month follow‑up but lists the date as 08/04/2024, which is inconsistent with a 6‑month interval from the initial visit (19/09/2022). The year was corrected to 2023 to match the 6‑month schedule. Similarly, Visit 3 is labeled as the 12‑month follow‑up with the date 17/06/2024; the year was adjusted to 2023 to keep the sequence chronological. No additional clinic visits with medication changes were identified beyond the three official visits."
+  },
+  "125_Arame Hirwe Ayan": {
+    "visit_count": 3,
+    "visit_dates": [
+      "22/09/2022",
+      "13/03/2023",
+      "18/12/2023"
+    ],
+    "notes": "No additional visits beyond the three official visits were identified, as no separate dates with medication changes were present. All dates are consistent and required no correction."
+  },
+  "126_Ayebale Shilla": {
+    "visit_count": 3,
+    "visit_dates": [
+      "22/09/2022",
+      "09/03/2023",
+      "07/09/2023"
+    ],
+    "notes": "Only the three official visits are documented. No additional clinic visits with medication changes were identified. All dates are consistent and required format."
+  },
+  "127_Nakawesi Jamirah": {
+    "visit_count": 3,
+    "visit_dates": [
+      "22/09/2022",
+      "17/04/2023",
+      "02/10/2023"
+    ],
+    "notes": "All three documented official visits were identified. No additional visits with medication changes were found; the follow‑up visits only continued the same Sodium Valproate regimen. Dates appear correct; no typographical corrections were needed."
+  },
+  "128_Malukwago Joan Angel": {
+    "visit_count": 3,
+    "visit_dates": [
+      "26/09/2022",
+      "24/04/2023",
+      "01/07/2024"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are present. No additional clinic visits with medication changes were identified beyond these official dates."
+  },
+  "129_Nakiranda Prisca": {
+    "visit_count": 3,
+    "visit_dates": [
+      "29/09/2022",
+      "30/03/2023",
+      "23/11/2023"
+    ],
+    "notes": "All medication changes occurred during the three official visits. No additional clinic visits with drug plan changes were identified. Dates are consistent and required no correction."
+  },
+  "130_Mukasa Rajab": {
+    "visit_count": 3,
+    "visit_dates": [
+      "29/09/2022",
+      "30/03/2023",
+      "29/02/2024"
+    ],
+    "notes": "All three official visits (0, 6, 12 months) are recorded. No additional clinic visits with medication changes were identified beyond these official dates. Dates are valid; no corrections needed."
+  },
+  "131_Muwanguzi Blessed Serugga": {
+    "visit_count": 3,
+    "visit_dates": [
+      "06/10/2022",
+      "30/03/2023",
+      "28/09/2023"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are present. No additional clinic visits with medication changes were identified; the medication adjustments occurred within the official 12‑month visit. All dates are consistent and required no correction."
+  },
+  "132_Naiga Joy": {
+    "visit_count": 3,
+    "visit_dates": [
+      "06/10/2022",
+      "02/03/2023",
+      "18/04/2024"
+    ],
+    "notes": "No extra clinic visits with medication changes were identified beyond the three official visits (0, 6, and 12 months). All dates appear correct; no typographical corrections were needed."
+  },
+  "133_Nsamba Ethan": {
+    "visit_count": 3,
+    "visit_dates": [
+      "06/10/2022",
+      "13/04/2023",
+      "20/11/2023"
+    ],
+    "notes": "Only the three official visits are present. No additional visits involved medication changes; the follow‑up visits continued the same regimen (Syrup Epilim/Valproate) with no new drug started, stopped, or dose altered. Dates are consistent and required no correction."
+  },
+  "134_Nomuhangi Daniel": {
+    "visit_count": 3,
+    "visit_dates": [
+      "03/11/2022",
+      "07/03/2024",
+      "06/06/2024"
+    ],
+    "notes": "Only the three official visits are documented. No additional clinic visits with medication changes were identified in the record. All dates are consistent; no typographical errors required correction."
+  },
+  "135_Best Betina": {
+    "visit_count": 3,
+    "visit_dates": [
+      "13/10/2022",
+      "27/04/2023",
+      "26/10/2023"
+    ],
+    "notes": "Only the three official visits are present. The date 03-11-2022 appears within the third visit notes but does not represent a separate clinic visit or medication change, so it is not counted. No extra visits with drug plan changes were identified."
+  },
+  "136_Ssejjengo Hashim": {
+    "visit_count": 3,
+    "visit_dates": [
+      "13/10/2022",
+      "25/09/2023",
+      "25/01/2024"
+    ],
+    "notes": "Only the three official visits are documented. No additional clinic visits with medication changes were identified. All dates are consistent and required no correction."
+  },
+  "138_Aronda Alban": {
+    "visit_count": 3,
+    "visit_dates": [
+      "13/10/2022",
+      "03/04/2023",
+      "16/10/2023"
+    ],
+    "notes": "Only the three official visits are documented. No additional clinic visits with medication changes were identified. The phrase 'when Carbamazepine was stepped up' refers to the initial prescription and no dose change is recorded at the 6‑month visit. Folic Acid was added at the 12‑month visit, which is an official visit, not an extra one."
+  },
+  "139_Kamulegeya Kudra": {
+    "visit_count": 4,
+    "visit_dates": [
+      "20/10/2022",
+      "13/03/2023",
+      "04/09/2023",
+      "05/09/2024"
+    ],
+    "notes": "The record contains an additional entry dated 13-03-2023 describing a medication change to Epilim syrup. Although the narrative mentions a 1‑year‑old female (which may belong to another patient), the presence of a new drug regimen qualifies it as an extra clinic visit with a drug plan change. No other dates represent medication changes; EEG orders and routine reviews are excluded. All dates have been normalized to dd/mm/yyyy format."
+  },
+  "140_Bayiga Shama": {
+    "visit_count": 3,
+    "visit_dates": [
+      "20/10/2022",
+      "09/03/2023",
+      "02/11/2023"
+    ],
+    "notes": "All medication changes (stop carbamazepine, start valproate and prednisolone; increase valproate dose and add albendazole) occurred during the three official visits. No additional clinic visits with drug plan changes were identified in the record."
+  },
+  "141_Kirikarama Joshua": {
+    "visit_count": 4,
+    "visit_dates": [
+      "24/10/2022",
+      "16/01/2023",
+      "15/05/2023",
+      "25/01/2024"
+    ],
+    "notes": "Included the medication commencement date 24/10/2022 as an extra visit because it represents a drug plan change (new meds started). Excluded EEG date 07/09/2022 and other investigation dates as they do not involve medication changes."
+  },
+  "142_Onyero Rogers": {
+    "visit_count": 3,
+    "visit_dates": [
+      "24/10/2022",
+      "24/04/2023",
+      "18/12/2023"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are documented. No additional clinic visits with medication changes were found; all medication adjustments occurred during the official visits. Dates are consistent and required no correction."
+  },
+  "143_Mwanje Frankline": {
+    "visit_count": 3,
+    "visit_dates": [
+      "24/10/2022",
+      "06/04/2023",
+      "21/12/2023"
+    ],
+    "notes": "Only the three official visits are present. No additional clinic visits with medication changes were identified; the change in prescription duration at the 6‑month visit does not constitute a new drug, discontinuation, or dose alteration."
+  },
+  "144_Isambira Prosper": {
+    "visit_count": 3,
+    "visit_dates": [
+      "27/10/2022",
+      "06/04/2023",
+      "28/09/2023"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are present. No additional clinic visits with medication changes were identified. Dates of EEG (27/08/2022) and other historical events are excluded as they are not clinic visits."
+  },
+  "145_Muhimbise Blessing": {
+    "visit_count": 3,
+    "visit_dates": [
+      "03/11/2022",
+      "23/10/2023",
+      "23/05/2024"
+    ],
+    "notes": "An additional entry dated 24/04/2023 was present, but it did not involve any change to the medication regimen (no new drug, stop, or dose adjustment), so it is not counted as an extra visit. All official visits are included and dates are consistent; no typographical corrections were needed."
+  },
+  "146_Kigenyi Fred": {
+    "visit_count": 3,
+    "visit_dates": [
+      "07/11/2022",
+      "03/04/2023",
+      "08/01/2024"
+    ],
+    "notes": "No extra visits beyond the three official visits. EEG date (07/09/2020) is an investigation, not a clinic visit."
+  },
+  "147_Matovu Trinah": {
+    "visit_count": 3,
+    "visit_dates": [
+      "03/11/2022",
+      "03/07/2023",
+      "25/01/2024"
+    ],
+    "notes": "Only the three official visits (0, 6, 12 months) are present. No additional clinic visits with medication changes were identified beyond these scheduled visits."
+  },
+  "148_Mayengo Bernard": {
+    "visit_count": 3,
+    "visit_dates": [
+      "03/11/2022",
+      "15/12/2022",
+      "11/07/2024"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) were identified. No additional clinic visits with medication changes were found. Dates such as the CT scan (04/08/2022) are investigations and not counted as visits."
+  },
+  "149_Kizito Enock": {
+    "visit_count": 3,
+    "visit_dates": [
+      "27/10/2022",
+      "25/05/2023",
+      "30/11/2023"
+    ],
+    "notes": "All medication changes occurred during the three official visits (0, 6, and 12 months). No additional clinic visits with drug plan changes were identified in the record."
+  },
+  "150_Tumwebaze Emmanuel": {
+    "visit_count": 3,
+    "visit_dates": [
+      "12/09/2022",
+      "30/03/2023",
+      "23/05/2024"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are present. No additional clinic visits with medication changes were identified. Dates are taken as written; the EEG date in July 2022 is an investigation, not a clinic visit."
+  },
+  "151_Nassali Ronita": {
+    "visit_count": 3,
+    "visit_dates": [
+      "21/01/2021",
+      "05/07/2021",
+      "13/12/2021"
+    ],
+    "notes": "No additional clinic visits beyond the three official visits were identified. All medication changes (continuation of carbamazepine and addition of cefixime) occurred within the documented 6‑month visit, not representing separate visits. Dates are consistent and required no correction."
+  },
+  "152_Mubangizi Elizabeth": {
+    "visit_count": 3,
+    "visit_dates": [
+      "21/01/2021",
+      "29/04/2021",
+      "13/01/2022"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are present. No additional clinic visits with medication changes were identified beyond these official dates."
+  },
+  "153_Kakande Huzaifa": {
+    "visit_count": 3,
+    "visit_dates": [
+      "21/01/2021",
+      "21/06/2021",
+      "14/02/2022"
+    ],
+    "notes": "All three documented visits (0, 6, and 12 months) involve medication changes, but they are the official scheduled visits. No additional clinic visits with drug plan changes were identified in the record."
+  },
+  "154_Rubangakene Joseph": {
+    "visit_count": 3,
+    "visit_dates": [
+      "08/01/2021",
+      "27/09/2021",
+      "17/01/2022"
+    ],
+    "notes": "Only the three official visits (0, 6, 12 months) are documented. No additional clinic visits with medication changes were identified. Historical dates (e.g., June 2020) refer to past events, not clinic visits. All dates are consistent and required no correction."
+  },
+  "155_Numazi Shamirah": {
+    "visit_count": 3,
+    "visit_dates": [
+      "28/01/2021",
+      "02/09/2021",
+      "13/01/2022"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) involved medication changes. EEG and CT dates are investigations and not counted as clinic visits. No extra visits with drug plan changes were identified."
+  },
+  "156_Irumba Peter": {
+    "visit_count": 3,
+    "visit_dates": [
+      "28/01/2021",
+      "20/05/2021",
+      "03/01/2022"
+    ],
+    "notes": "All medication changes occurred during the three official visits (0, 6, and 12 months). No additional clinic visits with drug plan changes were identified. Dates are consistent and required no correction."
+  },
+  "157_Odong Raphael": {
+    "visit_count": 3,
+    "visit_dates": [
+      "25/01/2021",
+      "16/08/2021",
+      "17/02/2022"
+    ],
+    "notes": "All documented visits correspond to the three official visits (0, 6, and 12 months). No additional clinic visits with medication changes were identified."
+  },
+  "158_Namugalu Shatra": {
+    "visit_count": 3,
+    "visit_dates": [
+      "04/02/2021",
+      "10/06/2021",
+      "13/06/2022"
+    ],
+    "notes": "All medication changes (initiation of Sodium Valproate, addition of Carbamazepine, and prescription duration adjustment) occurred during the three official visits. No additional clinic visits with drug plan changes were identified. Dates are consistent; no typos required correction."
+  },
+  "159_Nyanzi Rowan": {
+    "visit_count": 4,
+    "visit_dates": [
+      "04/02/2021",
+      "04/03/2021",
+      "04/11/2021",
+      "23/02/2023"
+    ],
+    "notes": "The record contains the three required official visits (0, 6, and 12 months) on 04/02/2021, 04/11/2021, and 23/02/2023. An additional medication change (dose increase of Carbamazepine) is documented as occurring on 04/03/2021, which implies a separate clinic encounter; this is counted as an extra visit. The 10/06/2021 entry only reports a review with no medication alteration, so it is not counted. All dates have been normalized to dd/mm/yyyy format."
+  },
+  "160_Arinda Robinson": {
+    "visit_count": 3,
+    "visit_dates": [
+      "04/02/2021",
+      "22/04/2021",
+      "21/03/2022"
+    ],
+    "notes": "All three documented visits (0, 6, and 12 months) involve medication changes and are counted. No additional clinic visits with drug plan changes were identified in the record."
+  },
+  "161_Alonyo Ellijah": {
+    "visit_count": 3,
+    "visit_dates": [
+      "11/02/2021",
+      "09/08/2021",
+      "07/02/2022"
+    ],
+    "notes": "All three documented visits are official (0, 6, 12 months). No additional clinic visits with medication changes were identified. Dates are consistent and required no correction."
+  },
+  "162_Atwiine Disani": {
+    "visit_count": 6,
+    "visit_dates": [
+      "15/02/2021",
+      "01/03/2021",
+      "18/03/2021",
+      "12/08/2021",
+      "04/11/2021",
+      "22/09/2022"
+    ],
+    "notes": "Extra visits were counted for dates with medication changes: 01/03/2021 (initial drug start), 18/03/2021 (carbamazepine added and dose adjustments), and 12/08/2021 (prednisolone restarted). No date typos were identified; all dates are kept in dd/mm/yyyy format and ordered chronologically."
+  },
+  "163_Nalubwama Jacinta": {
+    "visit_count": 3,
+    "visit_dates": [
+      "12/06/2021",
+      "23/09/2021",
+      "17/02/2022"
+    ],
+    "notes": "Official Visit 1 was recorded as 12/06/2022, which conflicts with the medication start date (15/02/2021) and the chronological order of the other visits. Based on context, the year was corrected to 2021. No additional visits with medication changes were identified beyond the three official visits."
+  },
+  "164_Adadi Bwanika": {
+    "visit_count": 3,
+    "visit_dates": [
+      "28/12/2021",
+      "07/08/2022",
+      "06/01/2023"
+    ],
+    "notes": "Visit 2 originally listed as 07/08/2021, which predates Visit 1 (28/12/2021). Adjusted to 07/08/2022 to reflect a 6‑month follow‑up. Visit 3 originally listed as 06/01/2022, which would fall before the corrected Visit 2. Adjusted to 06/01/2023 to represent the 12‑month follow‑up after the first visit. No medication changes occurred beyond the initial prescription, so no extra visits were flagged."
+  },
+  "165_Nakalanzi Hafswa": {
+    "visit_count": 3,
+    "visit_dates": [
+      "18/02/2021",
+      "27/09/2021",
+      "07/03/2022"
+    ],
+    "notes": "All three official visits (0, 6, and 12 months) were identified. No additional clinic visits with medication changes were found beyond the documented official visits."
+  },
+  "166_Mukisa Joshua": {
+    "visit_count": 4,
+    "visit_dates": [
+      "15/02/2021",
+      "04/10/2021",
+      "04/04/2022",
+      "03/10/2022"
+    ],
+    "notes": "The date 04/10/2021 appears within the narrative of Visit 1 and includes a change in Sodium Valproate dosage (150 mg am, 180 mg pm). This qualifies as an extra clinic visit with a medication plan change. All other dates are either the three official visits or non‑visit events (EEG, medication start, etc.). No typos were detected beyond the standard date formats."
+  },
+  "167_Asiimwe Roland": {
+    "visit_count": 3,
+    "visit_dates": [
+      "25/03/2021",
+      "20/05/2021",
+      "24/02/2022"
+    ],
+    "notes": "All three documented visits involve medication changes but are the official 0‑, 6‑, and 12‑month visits. No additional clinic visits with drug plan changes were identified. Dates are consistent; no typos detected."
+  },
+  "168_Kato Paul": {
+    "visit_count": 3,
+    "visit_dates": [
+      "21/11/2022",
+      "20/04/2023",
+      "06/06/2024"
+    ],
+    "notes": "All three documented visits (0, 6, and 12 months) involve medication changes, but they are the official scheduled visits. No additional clinic visits with drug plan changes were identified in the merged notes. Dates are consistent and required no correction."
+  },
+  "169_Senyange Jethro": {
+    "visit_count": 3,
+    "visit_dates": [
+      "21/11/2022",
+      "19/06/2023",
+      "15/01/2024"
+    ],
+    "notes": "All three official visits are present and no additional clinic visits involved a medication change. Dates are consistent; no typos detected."
+  },
+  "170_Kobugabe Claire": {
+    "visit_count": 3,
+    "visit_dates": [
+      "07/01/2021",
+      "14/06/2021",
+      "07/02/2022"
+    ],
+    "notes": "Only the three official visits are present. No additional clinic visits with medication changes were identified. EEG date and other investigation dates were excluded."
+  },
+  "171_Afaayo Francis": {
+    "visit_count": 3,
+    "visit_dates": [
+      "17/11/2022",
+      "03/07/2023",
+      "08/01/2024"
+    ],
+    "notes": "Only the three official visits are documented. No additional clinic visits with medication changes were identified; mentions of discharge dates or historical admissions are not counted as visits."
+  },
+  "172_Kansiime Nihalo": {
+    "visit_count": 3,
+    "visit_dates": [
+      "15/03/2021",
+      "26/08/2021",
+      "10/06/2022"
+    ],
+    "notes": "No extra visits with medication changes identified. Review dates (R/V, TCA) are follow‑up appointments without prescription changes."
+  },
+  "173_Kasirye Hatib": {
+    "visit_count": 4,
+    "visit_dates": [
+      "27/01/2021",
+      "15/07/2021",
+      "09/09/2021",
+      "07/04/2022"
+    ],
+    "notes": "The three official visits are on 27/01/2021 (0 months), 15/07/2021 (6 months) and 07/04/2022 (12 months). An additional clinic encounter is inferred from the note \"TCA on 09/09/21\" indicating a new drug started on 09/09/2021, which qualifies as an extra visit with a medication change. Dates for EEG (18/03/2021) and review (02/06/2022) are investigations or routine follow‑ups without medication changes and are therefore not counted as extra visits."
+  },
+  "174_Oming Stephen": {
+    "visit_count": 3,
+    "visit_dates": [
+      "04/02/2021",
+      "09/09/2021",
+      "10/02/2022"
+    ],
+    "notes": "Only the three official visits are documented. No additional clinic visits with medication changes were identified. Dates are taken as written; investigations and lab dates are excluded."
+  },
+  "175_Nsimbi Ethan": {
+    "visit_count": 3,
+    "visit_dates": [
+      "25/01/2021",
+      "21/06/2021",
+      "27/07/2021"
+    ],
+    "notes": "The official visit dates for Visit 2 and Visit 3 were recorded as 21/06/2022 and 27/07/2022, which are inconsistent with the expected 6‑month and 12‑month follow‑up intervals after the initial visit on 25/01/2021. Based on the required schedule (0, 6, and 12 months) the years were corrected to 2021 to align the visits chronologically. No additional clinic visits were identified that involved a medication change beyond the documented official visits."
+  },
+  "176_Kantiti Jormaine": {
+    "visit_count": 3,
+    "visit_dates": [
+      "28/07/2017",
+      "16/02/2018",
+      "24/03/2018"
+    ],
+    "notes": "The official 6‑month and 12‑month visit dates were recorded as 16/02/2021 and 24/03/2022, which are inconsistent with a 0‑month visit in July 2017. Based on the expected 6‑month and 12‑month intervals, these years were corrected to 2018. No additional clinic visits with medication changes were identified beyond the three official visits."
+  },
+  "177_Natukunda Promise": {
+    "visit_count": 3,
+    "visit_dates": [
+      "11/03/2021",
+      "03/05/2021",
+      "28/03/2022"
+    ],
+    "notes": "All three documented official visits (0, 6, and 12 months) were included. No additional clinic visits with medication changes were identified in the merged notes. The 6‑month visit date (03/05/2021) appears earlier than a true 6‑month interval from the baseline (which would be around September 2021), but the record lists this date explicitly, so it was retained as‑is."
+  },
+  "178_Muganguzi Jonathan": {
+    "visit_count": 3,
+    "visit_dates": [
+      "11/03/2021",
+      "16/09/2021",
+      "04/04/2022"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are present. No additional clinic visits with medication changes were identified; future review dates are not counted as visits."
+  },
+  "179_Nasirwa Halima": {
+    "visit_count": 3,
+    "visit_dates": [
+      "11/03/2021",
+      "12/10/2021",
+      "11/07/2022"
+    ],
+    "notes": "All three official visits are counted. No additional clinic visits with medication changes were identified. The date for the 6‑month visit is recorded as 12/10/2021 (12 Oct 2021), which is slightly more than 6 months after the baseline visit (11 Mar 2021), but it is the documented official visit date and is retained as is."
+  },
+  "180_Agasha Raphaella": {
+    "visit_count": 3,
+    "visit_dates": [
+      "19/04/2021",
+      "29/11/2021",
+      "26/05/2022"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) were identified. No additional clinic visits involving medication changes were found; dates mentioned for future reviews or past tests were not counted as visits."
+  },
+  "181_Tumuramye Calvin": {
+    "visit_count": 3,
+    "visit_dates": [
+      "26/07/2021",
+      "17/01/2022",
+      "19/09/2022"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) involve medication changes. The review dates (20/09/2021, 21/03/2022, 19/12/2022) are routine follow‑ups without prescription changes, so they are not counted as extra visits. No date typos were detected."
+  },
+  "182_Lubega Joel": {
+    "visit_count": 3,
+    "visit_dates": [
+      "14/11/2022",
+      "08/06/2023",
+      "21/02/2024"
+    ],
+    "notes": "The date for Visit 3 was given as 21/02/2023, which precedes the 6‑month visit (08/06/2023) and contradicts the narrative that it follows the previous visit. Based on context, the year was corrected to 2024. The review mentioned on 17/11/2022 (R/V) and the TCA date 31/08/2023 are not counted as separate visits because they involve no medication change."
+  },
+  "183_Zimula Hilamu": {
+    "visit_count": 3,
+    "visit_dates": [
+      "14/11/2022",
+      "04/05/2023",
+      "08/02/2024"
+    ],
+    "notes": "Only the three official visits are counted. No additional clinic visits with medication changes were documented. The mention of TCA starting on 25/04/2024 appears to be a future prescription plan, not a separate visit."
+  },
+  "184_Kasujja Imran": {
+    "visit_count": 3,
+    "visit_dates": [
+      "14/11/2022",
+      "21/08/2023",
+      "20/11/2023"
+    ],
+    "notes": "Only the three official visits (0, 6, 12 months) are documented. No additional clinic visits with medication changes were identified. Dosage remained Sodium Valproate 200 mg twice daily throughout. Dates are consistent; no typographical errors detected."
+  },
+  "185_Nakiwala Patricia": {
+    "visit_count": 3,
+    "visit_dates": [
+      "17/11/2022",
+      "25/05/2023",
+      "12/01/2024"
+    ],
+    "notes": "No additional clinic visits with medication changes were found beyond the three official visits. All dates are taken as written; no obvious typographical errors in the visit dates were detected. (Age entries appear inconsistent across visits but do not affect visit counting.)"
+  },
+  "186_Ndawula Jarius": {
+    "visit_count": 3,
+    "visit_dates": [
+      "25/02/2021",
+      "06/09/2021",
+      "17/02/2022"
+    ],
+    "notes": "A review visit on 25/03/2021 is mentioned (R/V) but no medication change is documented, so it is not counted as an extra visit. All dates are consistent and required no correction."
+  },
+  "187_Opul Elijah": {
+    "visit_count": 4,
+    "visit_dates": [
+      "01/02/2021",
+      "06/09/2021",
+      "27/06/2022",
+      "26/09/2022"
+    ],
+    "notes": "Included the three official visits (0, 6, 12 months). Added an extra visit on 26/09/2022 because a new medication (TCA) was scheduled to start on that date, representing a drug plan change. EEG report date (15/02/2021) and other investigation dates were not counted as visits. No date typos required correction."
+  },
+  "188_Kakooza Destiny": {
+    "visit_count": 4,
+    "visit_dates": [
+      "04/02/2021",
+      "30/06/2021",
+      "30/09/2021",
+      "19/06/2023"
+    ],
+    "notes": "Added an extra visit on 30/06/2021 inferred from the note in Visit 2 stating that Clobazam was stopped 3 months prior to the official 30/09/2021 visit. No other medication changes were mentioned without a date, so only this inferred visit was counted in addition to the three official visits."
+  },
+  "190_Ssentongo Joseph": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2021-11-01",
+      "2022-05-23",
+      "2023-03-09"
+    ],
+    "notes": "No extra visits with medication changes identified. All dates are consistent and required follow‑up dates (e.g., TCA entries) do not represent separate clinic visits."
+  },
+  "191_Afoyoa Alvin": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2021-11-04",
+      "2022-05-26",
+      "2022-11-24"
+    ],
+    "notes": "Only the three official visits were identified. No additional clinic visits involving medication changes were found. The TCA date (03/02/2022) appears to be a routine follow‑up without a drug change and is therefore not counted as an extra visit."
+  },
+  "192_Namubiru Alia": {
+    "visit_count": 3,
+    "visit_dates": [
+      "11/11/2021",
+      "22/09/2022",
+      "03/04/2023"
+    ],
+    "notes": "Only the three official visits are present. EEG date (18/06/2021) and the planned TCA date (24/05/2023) are investigations or future plans, not clinic visits with medication changes. No additional medication changes were documented between the official visits."
+  },
+  "193_Wasswa Isiah": {
+    "visit_count": 4,
+    "visit_dates": [
+      "2021-11-04",
+      "2022-03-23",
+      "2022-09-15",
+      "2023-07-06"
+    ],
+    "notes": "An extra clinic visit was identified on 23/03/2022 (recorded as 23/03/2022) where a new medication (Syrup Levetiracetam 90 mg bd) was initiated, constituting a drug plan change. All other dates are official visits (0, 6, 12 months). No other visits involved medication changes, so they are not counted. Dates have been normalized to ISO format."
+  },
+  "194_Kamugisha Anthony": {
+    "visit_count": 3,
+    "visit_dates": [
+      "01/11/2021",
+      "02/06/202202",
+      "19/01/2023"
+    ],
+    "notes": "All three visits correspond to the official 0‑, 6‑, and 12‑month follow‑ups. No extra clinic visits with medication changes were found. Dates have been normalized to dd/mm/yyyy format."
+  },
+  "195_Tebandeka Abubaker": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2021-03-15",
+      "2021-10-18",
+      "2022-07-21"
+    ],
+    "notes": "All medication changes (initiation, dose adjustments, addition of cetirizine and benylin) occurred during the three official visits. No additional clinic visits with medication changes were identified."
+  },
+  "196_Kigozi David": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2021-03-15",
+      "2021-09-09",
+      "2022-05-05"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are present. The mention of a review on 18/03/2021 is a scheduled follow‑up, not an actual clinic visit, and no other dates correspond to separate visits with medication changes. No date typos were detected."
+  },
+  "197_Mukisa Fagil": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2021-03-15",
+      "2022-01-03",
+      "2023-01-23"
+    ],
+    "notes": "The record labels the second visit as the 6‑month follow‑up, but the date (2022-01-03) is about 10 months after the first visit and the child's age (4 y 2 m) matches this interval. No additional clinic visits with medication changes were identified; scheduled review dates (e.g., 12/04/2021, 04/04/2022) are not counted as visits."
+  },
+  "198_Ahumuza Rodin": {
+    "visit_count": 3,
+    "visit_dates": [
+      "03/05/2021",
+      "15/11/2021",
+      "04/08/2022"
+    ],
+    "notes": "No extra visits with medication changes were found. The EEG date 24/03/24 is an investigation (likely 24/03/2024) and not a clinic visit. All visit dates have been normalized to dd/mm/yyyy format."
+  },
+  "199_Mayamba Jedidah": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2021-06-09",
+      "2021-11-08",
+      "2022-07-14"
+    ],
+    "notes": "All three official visits (0, 6, and 12 months) are accounted for. No additional clinic visits with medication changes were identified beyond these dates. Dates are taken from the official visit entries; no typographical errors required correction."
+  },
+  "200_Wasswa Sembatya": {
+    "visit_count": 3,
+    "visit_dates": [
+      "06/05/2021",
+      "26/05/2022",
+      "23/06/2022"
+    ],
+    "notes": "Only the three official visits are present. No additional clinic visits with medication changes were identified; the medication initiations and dosage adjustments occurred within the official 6‑month and 12‑month visits."
+  },
+  "201_Namozi Chloe Miracle": {
+    "visit_count": 4,
+    "visit_dates": [
+      "26/04/2021",
+      "17/05/2021",
+      "05/01/2023",
+      "23/07/2023"
+    ],
+    "notes": "An extra clinic visit was inferred from the documented start of carbamazepine on 26/04/2021, which is a medication change not coinciding with the official baseline visit date (17/05/2021). All dates have been normalized to DD/MM/YYYY format. No other drug‑plan changes occurred outside the three official visits."
+  },
+  "202_Kasule Amil": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2021-05-20",
+      "2021-11-04",
+      "2022-09-01"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are documented. No additional clinic visits with medication changes were identified. Dates such as the planned review (12/08/2021) and TCA entries are not actual visits and are therefore excluded."
+  },
+  "203_Sadat Gitta": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2021-04-26",
+      "2021-10-21",
+      "2022-07-25"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are present. No additional clinic visits with medication changes were identified; dates mentioned for reviews or follow‑ups are not separate visits."
+  },
+  "204_Nalusiba Parvin": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2021-03-18",
+      "2021-08-12",
+      "2022-06-02"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are documented. No additional clinic visits with medication changes were recorded; planned review dates (12/08/2021, 04/11/2021, 01/09/2022) are future appointments, not actual visits."
+  },
+  "205_Kirabo Hilda": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2021-03-22",
+      "2021-09-09",
+      "2022-03-28"
+    ],
+    "notes": "No extra visits identified beyond the three official visits. The addition of risperidone was documented during the 12‑month official visit, not as a separate clinic encounter. Investigation dates (EEG) and scheduled review dates were excluded from the visit count."
+  },
+  "206_Nuwahereza Peterson": {
+    "visit_count": 3,
+    "visit_dates": [
+      "25/03/2021",
+      "30/08/2021",
+      "23/05/2022"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are documented. No additional clinic visits with medication changes were identified. All dates are consistent; no typographical errors required correction."
+  },
+  "207_Namiro Hadija": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2021-03-25",
+      "2021-09-27",
+      "2022-06-06"
+    ],
+    "notes": "No additional clinic visits with medication changes were identified beyond the three official visits. All dates are consistent and required no correction."
+  },
+  "208_Luyomba Miracle": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2021-04-12",
+      "2021-10-25",
+      "2022-05-30"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) were identified. No additional clinic visits involving medication changes were found; the follow‑up date mentioned in Visit 2 (22-11-2021) was a scheduled appointment, not a documented visit."
+  },
+  "209_Semwogerere Annul": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2021-04-22",
+      "2022-04-28",
+      "2022-09-15"
+    ],
+    "notes": "All three official visits are included. No additional clinic visits were identified that involved a medication change outside the documented 0‑, 6‑, and 12‑month visits. The third visit is labeled as the 12‑month follow‑up but the date (15‑09‑2022) is only ~5 months after the 6‑month visit; this appears to be a labeling inconsistency, but the date itself is retained as recorded."
+  },
+  "210_Kitabwa Jonathan": {
+    "visit_count": 3,
+    "visit_dates": [
+      "15/07/2021",
+      "07/02/2022",
+      "15/09/2022"
+    ],
+    "notes": "All three official visits (0, 6, 12 months) are present. No additional clinic visits with medication changes were documented. Dates are consistent; no typos detected."
+  },
+  "211_Senyonjo Miracle": {
+    "visit_count": 4,
+    "visit_dates": [
+      "2021-07-19",
+      "2022-02-14",
+      "2022-08-18",
+      "2023-04-03"
+    ],
+    "notes": "The record contains the three required official visits (0, 6, 12 months) on 19/07/2021, 18/08/2022, and 03/04/2023. An additional visit on 14/02/2022 is documented within the first visit notes and includes a medication change (valproate stopped, carbamazepine dose increased, cetirizine added), so it is counted as an extra visit. Dates have been normalized to ISO format. No other dates represent clinic visits with drug plan changes."
+  },
+  "212_Akuzizibwe Jemuel": {
+    "visit_count": 3,
+    "visit_dates": [
+      "05/08/2021",
+      "27/01/2022",
+      "16/03/2023"
+    ],
+    "notes": "Visit 2 official date was recorded as 2021-01-27, which predates Visit 1 (05/08/2021). Based on the 6‑month follow‑up schedule, the year was corrected to 2022, giving a date of 27/01/2022. No additional visits with medication changes were identified."
+  },
+  "213_Sinyoli Cyrus": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2021-08-12",
+      "2022-04-04",
+      "2022-09-26"
+    ],
+    "notes": "All medication changes (initiation of Sodium Valproate, dose increase, addition of Folic Acid) occurred during the three official visits. No additional clinic visits with drug plan changes were identified. Dates were consistent and required no correction."
+  },
+  "214_Ssekido Isaiah": {
+    "visit_count": 4,
+    "visit_dates": [
+      "12-08-2021",
+      "06-01-2022",
+      "02-06-2022",
+      "02-02-2023"
+    ],
+    "notes": "An extra clinic visit on 06-01-2022 was identified because the carbamazepine dose was increased from 50 mg BD to 100 mg BD, representing a medication change. All other dates correspond to the three official visits (0, 6, and 12 months). No other medication changes were found in the record."
+  },
+  "215_Nakyeyune Martha": {
+    "visit_count": 4,
+    "visit_dates": [
+      "19/08/2021",
+      "10/01/2022",
+      "11/08/2022",
+      "12/01/2023"
+    ],
+    "notes": "An extra clinic visit on 10/01/2022 was identified because the treatment plan changed (Carbamazepine dose increased and Sodium Valproate added). All other dates correspond to the three official visits; no other medication changes occurred on separate dates. Dates have been standardized to DD/MM/YYYY format."
+  },
+  "216_Rukundo Jeremiah": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2022-07-28",
+      "2023-01-16",
+      "2023-12-11"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) contain documented clinic dates. Earlier dates (e.g., 23/08/2021) refer to the initial admission and are not separate clinic visits. No additional visits with medication changes were identified beyond the official visits."
+  },
+  "217_Koloba Steven": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2021-10-07",
+      "2022-06-01",
+      "2022-11-03"
+    ],
+    "notes": "No extra visits with medication changes identified. All dates are consistent and required official visits only."
+  },
+  "218_Katende Gideon": {
+    "visit_count": 3,
+    "visit_dates": [
+      "27/09/2021",
+      "21/07/2022",
+      "13/10/2022"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are present. No additional clinic visits with medication changes were identified. All dates are consistent and required no correction."
+  },
+  "219_Magala Jovan": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2020-03-16",
+      "2020-08-16",
+      "2021-05-31"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) involve medication changes. Review dates (20/05/2020 and 26/06/2021) are routine follow‑ups without prescription changes and are not counted as extra visits. No date typos detected."
+  },
+  "220_Kigozi Goshen": {
+    "visit_count": 4,
+    "visit_dates": [
+      "2020-03-19",
+      "2021-02-25",
+      "2021-04-01",
+      "2022-03-13"
+    ],
+    "notes": "Corrected the official Visit 1 date from 2019-03-19 to 2020-03-19 based on the documented age (2 months) and subsequent timeline. Identified an extra clinic visit on 25-02-2021 because the carbamazepine dose was increased to 50 mg 8‑hourly, which qualifies as a medication change. No other extra visits met the criteria."
+  },
+  "221_Baalimira Jaunice": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2020-08-13",
+      "2021-03-04",
+      "2021-11-18"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) were identified. No additional clinic visits involving a medication change were found. Other dates in the narrative refer to medication start dates or planned review appointments, not separate visits."
+  },
+  "222_Kisakye Samuel": {
+    "visit_count": 3,
+    "visit_dates": [
+      "10-09-2020",
+      "07-06-2021",
+      "06-10-2022"
+    ],
+    "notes": "The record contains multiple date mentions (e.g., 08-06-2020 and 10-09-2020) that appear to refer to the same initial visit. No medication changes were documented for those entries, so they are not counted as separate visits. Only the three official visits (0, 6, and 12 months) are included."
+  },
+  "223_Kasozi Elijah": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2020-06-18",
+      "2021-02-25",
+      "2021-08-19"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are present. No additional clinic visits with medication changes were identified; review dates and EEG mentions are not counted as separate visits."
+  },
+  "224_Mukama Sadat": {
+    "visit_count": 3,
+    "visit_dates": [
+      "21/01/2021",
+      "16/09/2021",
+      "30/06/2022"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are present. No additional clinic visits with medication changes were identified; other dates refer to history, investigations, or scheduled follow‑up appointments."
+  },
+  "225_Namatovu Matilda": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2020-07-02",
+      "2021-05-24",
+      "2022-06-16"
+    ],
+    "notes": "All three official visits (0, 6, and 12 months) involve medication changes and are counted. No additional clinic visits with drug plan changes were identified; dates labeled as TCA are follow‑up appointments, not separate visits."
+  },
+  "226_Muganga Dauda": {
+    "visit_count": 4,
+    "visit_dates": [
+      "09/07/2020",
+      "12/03/2021",
+      "15/11/2021",
+      "28/03/2022"
+    ],
+    "notes": "The record contains the three required official visits (0, 6, and 12 months). An additional clinic visit on 12/03/2021 was identified because the plan included a change in sodium valproate dosing (dose adjustment). Dates such as TCA follow‑up appointments (06/08/2020, 22/04/2021, 24/01/2021) are not counted as visits. No typographical errors were detected in the dates."
+  },
+  "227_Muluwaya Arnold": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2020-07-20",
+      "2021-02-08",
+      "2021-08-02"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) were identified. No additional clinic visits involved medication changes; the two‑week review after Visit 1 and the scheduled reviews after Visits 2 and 3 were routine follow‑ups without prescription adjustments. All dates were consistent and required no correction."
+  },
+  "228_Namara Sarah": {
+    "visit_count": 4,
+    "visit_dates": [
+      "10/07/2020",
+      "13/07/2020",
+      "25/01/2021",
+      "30/08/2021"
+    ],
+    "notes": "An extra clinic visit on 10/07/2020 was identified because carbamazepine and levetiracetam were initiated on that day (medication change). All dates are consistent; no typos required correction."
+  },
+  "229_Katumba Patrick": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2020-03-19",
+      "2020-09-07",
+      "2021-04-12"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are present. No additional clinic visits with medication changes were identified; dates such as TCA 16/04/2020, 05/10/2020, and 10/05/2021 refer to follow‑up appointments, not separate visits."
+  },
+  "230_Okipi Elijah": {
+    "visit_count": 3,
+    "visit_dates": [
+      "09/09/2021",
+      "31/03/2022",
+      "22/12/2022"
+    ],
+    "notes": "All three official visits (0, 6, 12 months) are counted. No additional clinic visits with medication changes were identified; dates such as 07/10/2021, 23/06/2022, and 27/02/2023 refer to planned reviews, not actual visits."
+  },
+  "231_Kayondo Mesach": {
+    "visit_count": 3,
+    "visit_dates": [
+      "16/09/2021",
+      "13/01/2022",
+      "29/09/2022"
+    ],
+    "notes": "Only the three official clinic visits are counted. Dates for therapeutic drug monitoring (17/02/2022, 27/10/2022) and the scheduled review on 30/09/2021 are not counted as separate visits because they involve no medication change."
+  },
+  "232_Nanungi Teddy": {
+    "visit_count": 3,
+    "visit_dates": [
+      "16/09/2021",
+      "14/04/202202",
+      "26/09/2022"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) involve medication changes. No additional clinic visits with drug plan changes were identified. Dates for EEG and TCA entries are investigations or scheduled follow‑ups, not separate visits."
+  },
+  "233_Nabunje Shivan": {
+    "visit_count": 3,
+    "visit_dates": [
+      "30/09/2021",
+      "21/04/2022",
+      "01/12/2022"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) were identified. No additional clinic visits involved medication changes; mentions of TCA are follow‑up appointments, not drug modifications."
+  },
+  "234_Ssekalongo Malcom": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2021-10-11",
+      "2022-06-02",
+      "2023-01-09"
+    ],
+    "notes": "No extra visits with medication changes were identified. All dates are consistent and required no correction."
+  },
+  "235_Sseremba Ibra": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2021-10-21",
+      "2022-03-10",
+      "2023-04-24"
+    ],
+    "notes": "No extra visits with medication changes identified. All dates are consistent and required official visits (0, 6, 12 months) are included."
+  },
+  "236_Wasswa Isiah": {
+    "visit_count": 4,
+    "visit_dates": [
+      "04/11/2021",
+      "23/03/2022",
+      "15/09/2022",
+      "06/07/2023"
+    ],
+    "notes": "The record contains the three required official visits (23/03/2022, 15/09/2022, 06/07/2023). An additional earlier visit on 04/11/2021 was identified because prednisolone therapy was initiated, representing a drug plan change. No other dates correspond to medication changes; dates related to EEG, TCA follow‑ups, or routine reviews without prescription adjustments were excluded."
+  },
+  "237_Ssemukasa Sadam": {
+    "visit_count": 3,
+    "visit_dates": [
+      "11/11/2021",
+      "11/04/2022",
+      "08/12/2022"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are documented. No additional clinic visits with medication changes were identified. All dates are consistent; no typos required correction."
+  },
+  "238_Kunguvu Moses": {
+    "visit_count": 3,
+    "visit_dates": [
+      "13/07/2020",
+      "01/02/2021",
+      "23/08/2021"
+    ],
+    "notes": "Only the three official visits (0, 6, 12 months) involve medication changes. The admission mentioned before the first visit and the TCA dates (10/08/2020, 15/02/2021) are follow‑up or inpatient events without documented drug plan changes, so they are not counted as extra clinic visits."
+  },
+  "239_Katende Ashim": {
+    "visit_count": 3,
+    "visit_dates": [
+      "20/07/2020",
+      "08/02/2021",
+      "03/10/2022"
+    ],
+    "notes": "All medication changes (initiation, dose increase, addition of baclofen) occurred at the three scheduled official visits (0, 6, and 12 months). No additional clinic visits with drug plan changes were identified."
+  },
+  "240_Babirye Atuhaire": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2020-07-20",
+      "2021-10-18",
+      "2022-10-03"
+    ],
+    "notes": "All three official visits (0, 6, and 12 months) are present. No additional clinic visits with medication changes were identified. Dates are consistent and required no correction."
+  },
+  "241_Nakagera Rhama": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2018-02-14",
+      "2020-06-14",
+      "2021-08-12"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) were identified. No additional clinic visits with medication changes were found. Dates were taken directly from the official visit entries; the short form \"12/08/21\" was interpreted as 2021-08-12. The planned review on 11/04/19 and the follow‑up appointment on 07/10/2021 did not involve any drug changes, so they were not counted as extra visits."
+  },
+  "242_Nsaduli Sharef": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2019-01-14",
+      "2019-07-08",
+      "2020-01-20"
+    ],
+    "notes": "Visit 1 official date is 2019-01-14, but the narrative notes a Date of Visit: 04/01/2019. Assuming the official ISO date is correct. No additional clinic visits involved medication changes; TCA dates are future appointment reminders, not actual visits."
+  },
+  "243_Nakyanzi Shalwa": {
+    "visit_count": 3,
+    "visit_dates": [
+      "17/01/2019",
+      "29/07/2019",
+      "27/01/2020"
+    ],
+    "notes": "Only the three official visits are counted. No additional clinic visits involved medication changes; the mention of TCA on 18/02/2019 is a prescription plan, not a separate visit."
+  },
+  "244_Mirembe Tabitha": {
+    "visit_count": 3,
+    "visit_dates": [
+      "17/01/2019",
+      "30/09/2019",
+      "03/02/2020"
+    ],
+    "notes": "The third official visit was labeled as 2022-02-03, but the patient's age (4 years 6 months) is inconsistent with a 2022 date given the initial age of 3 years 7 months in Jan 2019. The year was corrected to 2020 to align with the expected 12‑month follow‑up and the reported age."
+  },
+  "245_Naka Wunde Ruth": {
+    "visit_count": 3,
+    "visit_dates": [
+      "21/01/2019",
+      "15/07/2019",
+      "16/03/2020"
+    ],
+    "notes": "No extra visits with medication changes were identified; only the three official visits are counted."
+  },
+  "246_Muwanguzi Marc Joseph": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2019-01-21",
+      "2019-08-26",
+      "2021-03-25"
+    ],
+    "notes": "All three official visits are counted. No additional clinic visits with medication changes were identified beyond the documented official visits. The third visit date (2021-03-25) aligns with the patient's reported age (6 years) and therefore is retained despite being later than a strict 12‑month interval."
+  },
+  "247_Namutebi Shilat": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2019-01-21",
+      "2019-06-26",
+      "2020-03-09"
+    ],
+    "notes": "All three official visits are present with consistent dates. No additional clinic visits with medication changes were identified."
+  },
+  "248_Nanozi Phiona": {
+    "visit_count": 3,
+    "visit_dates": [
+      "21/01/2019",
+      "29/08/2019",
+      "13/02/2020"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are present. Dates for TCA appointments (15/04/2019, 24/10/2019, 14/05/2020) are follow‑up or investigation dates without medication changes, so they are not counted as extra visits."
+  },
+  "249_Abubaker Amina": {
+    "visit_count": 3,
+    "visit_dates": [
+      "24/01/2019",
+      "14/03/2019",
+      "15/09/2019"
+    ],
+    "notes": "The third official visit was labeled as '12 months' but the recorded date was 2022-09-15, which is inconsistent with the timeline (first visit in Jan 2019). Based on the 12‑month interval, the correct year should be 2019, so the date was corrected to 15/09/2019. No additional clinic visits involving medication changes were identified."
+  },
+  "250_Sseruma Moses": {
+    "visit_count": 3,
+    "visit_dates": [
+      "28/01/2019",
+      "25/04/2019",
+      "27/08/2020"
+    ],
+    "notes": "All three official visits (0, 6, 12 months) are counted. No extra clinic visits with medication changes were found in the record. Visit 2 occurs about 3 months after the baseline visit rather than the expected 6 months, but it is retained as the documented official 6‑month visit."
+  },
+  "251_Orwao Micheal": {
+    "visit_count": 3,
+    "visit_dates": [
+      "04/02/2019",
+      "16/09/2019",
+      "10/02/2020"
+    ],
+    "notes": "The third official visit was recorded as 2024-02-10, which is inconsistent with the 12‑month follow‑up schedule (should be ~Feb 2020). Based on the sequence of visits (0 months Feb 2019, 6 months Sep 2019), the year was corrected to 2020. No additional clinic visits with medication changes were identified."
+  },
+  "252_Semata Vikram": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2019-02-04",
+      "2020-01-20",
+      "2020-07-20"
+    ],
+    "notes": "Only the three official visits are present. No additional visits with medication changes were identified. Dates are taken as recorded; the 6‑month visit falls later than expected but is retained as documented."
+  },
+  "253_Kibirice Abbu": {
+    "visit_count": 3,
+    "visit_dates": [
+      "04/03/2019",
+      "11/07/2019",
+      "20/07/2020"
+    ],
+    "notes": "All medication changes occurred during the three official visits. The entry dated 11/07/2019 aligns with the official 6‑month visit, so no additional distinct clinic visit is counted."
+  },
+  "254_Mawazo Hanifa": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2019-03-11",
+      "2019-08-29",
+      "2024-01-04"
+    ],
+    "notes": "The three official visits are included as documented. The third visit is dated 2024-01-04, which is several years after the 6‑month visit (2019‑08‑29) rather than the expected 12‑month interval; this appears to be a genuine later follow‑up rather than a typographical error, so the date is retained as given. No additional clinic visits with medication changes were identified in the notes."
+  },
+  "255_AAMULURA PETER": {
+    "visit_count": 3,
+    "visit_dates": [
+      "14/03/2019",
+      "31/10/2019",
+      "25/11/2021"
+    ],
+    "notes": "The three official visits are included as documented. No additional clinic visits with medication changes were identified. The third visit date (25/11/2021) is later than the expected 12‑month interval after the 6‑month visit (31/10/2019); it may be a delayed follow‑up or a typographical error in the year, but it is retained as recorded."
+  },
+  "256_Nkinzi Joyce": {
+    "visit_count": 3,
+    "visit_dates": [
+      "14/03/2019",
+      "23/01/2020",
+      "23/04/2020"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) involve medication changes. No additional clinic visits with drug plan changes were identified; mentions of future review dates (e.g., 21/03/2019, 23/04/2020, 16/07/2020) are appointment plans, not separate visits."
+  },
+  "257_Nalubega Nashim": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2019-03-18",
+      "2019-08-12",
+      "2020-07-20"
+    ],
+    "notes": "Only the three official visits (0, 6, 12 months) are present. No additional clinic visits with medication changes were identified. All dates are consistent and required no correction."
+  },
+  "258_Nyakato Mary": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2020-09-20",
+      "2021-02-11",
+      "2021-12-19"
+    ],
+    "notes": "The first entry mentions a date of 10/09/2020, but the official visit date is recorded as 2020-09-20; the official date is taken as correct. No additional clinic visits with medication changes were identified beyond the three official visits."
+  },
+  "259_Ayaan Abdrizak": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2019-03-25",
+      "2019-11-25",
+      "2024-01-29"
+    ],
+    "notes": "The three official visits are included as documented. The 6‑month visit date (2019-11-25) is later than exactly 6 months after the baseline (should be ~2020-09), and the 12‑month visit date (2024-01-29) is several years later, but per instructions the recorded official dates are retained. No additional clinic visits with medication changes were identified."
+  },
+  "260_Mukisa Elizabeth": {
+    "visit_count": 3,
+    "visit_dates": [
+      "28/03/2019",
+      "28/08/2019",
+      "09/07/2020"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are counted. No additional clinic visits involved a medication change, so no extra visits are flagged."
+  },
+  "261_Kahuma Joel": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2019-04-01",
+      "2019-10-28",
+      "2020-11-30"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are present. No additional clinic visits involved medication changes; future review dates (27/01/2020 and 05/04/2021) are not actual visits. All dates are consistent and required no correction."
+  },
+  "262_Mutyaba Derrick": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2019-04-11",
+      "2020-01-27",
+      "2020-10-19"
+    ],
+    "notes": "All three official visits (0, 6, 12 months) are present. No extra clinic visits with medication changes were identified in the record."
+  },
+  "263_Nabukenya Abigail": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2019-04-01",
+      "2019-11-04",
+      "2020-06-29"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are present. No additional clinic visits with medication changes were documented. The 'R/V on 03/06/2019' mentioned in Visit 1 is a scheduled review, not a recorded visit, so it is not counted."
+  },
+  "264_Bukenya Daniel": {
+    "visit_count": 4,
+    "visit_dates": [
+      "18/04/2019",
+      "09/09/2019",
+      "20/04/2020",
+      "20/03/2023"
+    ],
+    "notes": "Included the three official visits (0, 6, 12 months). Detected an additional clinic visit on 09/09/2019 where carbamazepine dose was changed (from 50 mg BD to 100 mg AM/50 mg PM), so it is counted as an extra visit. Corrected the date for Visit 3: the record listed \"20/03/2020\" but the official timestamp is 2023-03-20 and the patient's age (4 years) matches 2023, so the date was corrected to 20/03/2023. No other extra visits met the drug‑plan‑change criterion."
+  },
+  "265_Kateregga David": {
+    "visit_count": 3,
+    "visit_dates": [
+      "25/04/2019",
+      "15/10/2020",
+      "20/05/2021"
+    ],
+    "notes": "No extra visits with medication changes identified. All dates are consistent and required no correction."
+  },
+  "266_Ssebunya Hashim": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2019-04-29",
+      "2019-10-28",
+      "2020-06-08"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are present. No additional clinic visits with medication changes were identified. The dates are consistent and required no correction."
+  },
+  "267_Ampiire Claire": {
+    "visit_count": 3,
+    "visit_dates": [
+      "08/07/2019",
+      "19/03/2020",
+      "13/08/2020"
+    ],
+    "notes": "All three official visits (0, 6, and 12 months) are counted. No extra clinic visits with medication changes were identified. Dates have been normalized to dd/mm/yyyy format."
+  },
+  "268_Serukera Bahati": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2019-04-29",
+      "2019-10-10",
+      "2020-05-11"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) were identified. No additional clinic visits involved medication changes; all other dates refer to follow-up appointments or investigations."
+  },
+  "269_Byamukama Morris": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2019-05-02",
+      "2019-11-07",
+      "2021-08-16"
+    ],
+    "notes": "Only the three official visits (0, 6, 12 months) are present. No additional clinic visits involved medication changes; all drug regimens remained carbamazepine 100 mg BD throughout. No date typos detected."
+  },
+  "270_Namudoya Aidah": {
+    "visit_count": 3,
+    "visit_dates": [
+      "23/05/2019",
+      "01/08/2019",
+      "29/10/2020"
+    ],
+    "notes": "Only the three official visits (0, 6, 12 months) were identified. No additional clinic visits with medication changes were found. Dates were normalized to DD/MM/YYYY format; all provided dates were consistent and required no correction."
+  },
+  "271_Isabirye Jeremih": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2019-05-23",
+      "2019-08-26",
+      "2020-08-28"
+    ],
+    "notes": "The third official visit was documented as 2023-08-28, which is inconsistent with a 12‑month follow‑up after the 6‑month visit (2019-08-26). Based on the expected timeline (approximately one year after baseline) and the patient’s age progression, the year was corrected to 2020, yielding a plausible date of 2020-08-28. No additional visits with medication changes were identified."
+  },
+  "272_Ogol Jerry": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2019-05-27",
+      "2019-12-05",
+      "2020-10-15"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are present. No additional clinic visits involved medication changes; scheduled review dates (e.g., 24/06/2019) are not counted as visits. All dates are taken as recorded and required no correction."
+  },
+  "273_Nakoni Martha": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2019-06-06",
+      "2019-11-07",
+      "2020-07-09"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) involve medication changes. No additional clinic visits with drug plan changes were identified. Investigation dates and routine follow‑ups without prescription changes were excluded."
+  },
+  "274_Kirunda Elijah": {
+    "visit_count": 4,
+    "visit_dates": [
+      "06/06/2019",
+      "24/06/2019",
+      "13/01/2020",
+      "30/08/2021"
+    ],
+    "notes": "An extra clinic visit on 24/06/2019 was identified because a new medication (carbamazepine) was started. All dates were verified against the official timestamps and corrected to a consistent dd/mm/yyyy format. No other extra visits with medication changes were found."
+  },
+  "275_Naigaga Ramah": {
+    "visit_count": 3,
+    "visit_dates": [
+      "11/07/2019",
+      "25/05/2020",
+      "30/11/2020"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) involved medication changes. Additional dates mentioned (e.g., 25/07/2019, 28/10/2019) were routine follow‑ups or investigations without any drug plan alteration, so they are not counted as separate visits."
+  },
+  "276_Keith Agaruva": {
+    "visit_count": 3,
+    "visit_dates": [
+      "11/07/2019",
+      "16/01/2020",
+      "01/10/2020"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are present. No additional clinic visits with medication changes were identified; dates such as 13/02/2020 and 01/12/2020 refer to scheduled follow‑up appointments (TCA) without documented prescription modifications."
+  },
+  "277_Jayden Manzi": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2019-07-11",
+      "2020-02-10",
+      "2022-04-25"
+    ],
+    "notes": "All three official visits (0, 6, and 12 months) are present. No additional clinic visits with medication changes were identified; dates such as TCA or R/V are follow‑up appointments without prescription modifications. The third visit occurs later than the typical 12‑month interval (2022 instead of 2021), but it is still counted as the official 12‑month visit."
+  },
+  "278_Lagara Senate": {
+    "visit_count": 4,
+    "visit_dates": [
+      "21/02/2019",
+      "12/11/2020",
+      "24/08/2023",
+      "24/08/2023"
+    ],
+    "notes": "Included the three required official visits (0, 6, and 12 months). An additional follow‑up visit on 12/11/2020 was flagged because the plan reduced the EPILIM syrup dose, representing a medication change. The 6‑month and 12‑month official visits both have the same recorded date (24/08/2023); this appears to be a documentation duplication but both are retained as separate visits per the requirement to always count the three official visits."
+  },
+  "279_Namirembe Hannah": {
+    "visit_count": 3,
+    "visit_dates": [
+      "01/06/2019",
+      "02/01/2020",
+      "07/09/2020"
+    ],
+    "notes": "All three official visits are included; no extra clinic visits with medication changes were found. Dates are consistent across the record, so no corrections were needed."
+  },
+  "280_Nakato Robinah": {
+    "visit_count": 3,
+    "visit_dates": [
+      "18/07/2019",
+      "28/10/2019",
+      "30/11/2020"
+    ],
+    "notes": "All three documented visits (0, 6, 12 months) were counted. No additional clinic visits with medication changes were identified. Dates were verified and formatted as dd/mm/yyyy."
+  },
+  "281_Kiyimba Joshua": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2019-07-18",
+      "2020-01-09",
+      "2021-02-04"
+    ],
+    "notes": "Only the three official visits (0, 6, 12 months) are present. No additional clinic visits with medication changes were identified. Dates were already consistent; no typographical corrections were needed."
+  },
+  "282_Brena Mwesigwa": {
+    "visit_count": 4,
+    "visit_dates": [
+      "18/07/2019",
+      "24/02/2020",
+      "08/09/2022",
+      "07/11/2022"
+    ],
+    "notes": "The record contains three official visits (0, 6, and 12 months) on 18/07/2019, 08/09/2022, and 07/11/2022. An additional clinic visit on 24/02/2020 was identified because the medication regimen was changed (valproate dose increased and amoxicillin added). Dates were standardized to DD/MM/YYYY format; no year‑digit typos were detected beyond the mixed ISO and local formats."
+  },
+  "283_Kasinivu Mustafa": {
+    "visit_count": 3,
+    "visit_dates": [
+      "19/08/2019",
+      "05/03/2020",
+      "04/10/2021"
+    ],
+    "notes": "All three official visits (0, 6, and 12 months) were identified. No additional clinic visits with medication changes were found. Dates were standardized to DD/MM/YYYY format; no typographical errors required correction."
+  },
+  "284_Kanyange Fahiah": {
+    "visit_count": 3,
+    "visit_dates": [
+      "29/08/2019",
+      "20/02/2020",
+      "17/09/2020"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are present. No additional clinic visits with medication changes were identified. Dates have been standardized to DD/MM/YYYY format."
+  },
+  "285_Nantongo Blessing": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2019-09-05",
+      "2020-01-09",
+      "2020-12-03"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) were identified. No additional clinic visits with medication changes were found; dates such as TCA 3/10/19 and TCA 9/04/2020 appear to be planned follow‑up appointments but not documented visits with prescription changes."
+  },
+  "286_Kanyesubula Nicholas": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2019-11-21",
+      "2021-03-18",
+      "2021-09-30"
+    ],
+    "notes": "All three official visits (0, 6, 12 months) are included. No additional clinic visits with medication changes were identified beyond these. The official 6‑month visit date (2021-03-18) is inconsistent with a true 6‑month interval from the index visit (2019-11-21); it appears to be a documentation error, but the date is retained as given. No extra visits were flagged."
+  },
+  "287_Muwanguzi Joselyn": {
+    "visit_count": 4,
+    "visit_dates": [
+      "16/09/2019",
+      "24/02/2020",
+      "23/11/2020",
+      "19/07/2021"
+    ],
+    "notes": "An extra clinic visit on 24/02/2020 was identified because a new medication (amoxicillin) was started, indicating a drug plan change. No other extra visits met the medication‑change criteria. All dates have been normalized to DD/MM/YYYY format."
+  },
+  "288_Agonzibwa Trevor": {
+    "visit_count": 3,
+    "visit_dates": [
+      "19/09/2019",
+      "14/12/2020",
+      "28/06/2021"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) involved medication changes. The note dated 25/06/2020 within Visit 1 was a routine follow‑up with no change in drug regimen, so it is not counted as an extra visit. All dates have been normalized to DD/MM/YYYY format."
+  },
+  "289_Luba Rahim": {
+    "visit_count": 3,
+    "visit_dates": [
+      "23/09/2019",
+      "06/07/2020",
+      "08/10/2020"
+    ],
+    "notes": "All three official visits are counted. No additional visits involved medication changes, so only the official 0‑, 6‑, and 12‑month visits are included. Dates were consistent; no typos required correction."
+  },
+  "290_Nsubuga Sharif": {
+    "visit_count": 4,
+    "visit_dates": [
+      "26/09/2019",
+      "06/08/2020",
+      "28/01/2021",
+      "06/09/2021"
+    ],
+    "notes": "An extra clinic visit on 06/08/2020 was identified because a new medication (TCA) was introduced, representing a drug plan change. All dates have been normalized to DD/MM/YYYY format; no typographical errors required correction."
+  },
+  "291_Anena Erica": {
+    "visit_count": 3,
+    "visit_dates": [
+      "03/10/2019",
+      "11/05/2023",
+      "19/02/2024"
+    ],
+    "notes": "All three official visits are included. The dates were given in ISO format and converted to dd/mm/yyyy. Visit 2 is labelled as the 6‑month visit but its date (19/02/2024) is after the 12‑month visit (11/05/2023); this appears to be a labeling error rather than a date typo, so the dates are kept as recorded. No additional visits with medication changes were identified."
+  },
+  "292_Kiwafu Luis": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2019-10-03",
+      "2021-03-18",
+      "2021-08-26"
+    ],
+    "notes": "Only the three official visits are counted. No additional clinic visits with medication changes were identified. The date 'TCA: 17/06/2021' appears to be a scheduled follow‑up, not a separate visit with a drug plan change."
+  },
+  "293_Bahirwa Martha": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2019-10-07",
+      "2020-02-27",
+      "2020-10-15"
+    ],
+    "notes": "All three official visits (0, 6, and 12 months) are included. No additional clinic visits with medication changes were identified. Dates are consistent and required no correction."
+  },
+  "294_Nawungi Shalom": {
+    "visit_count": 3,
+    "visit_dates": [
+      "14/10/2019",
+      "21/10/2024",
+      "20/01/2025"
+    ],
+    "notes": "The label 'Visit 2 (6 months)' is inconsistent with the recorded date (21/10/2024) and the patient's age (8 years), which suggests a longer interval since the first visit. No additional clinic visits were identified beyond the three official visits, as other dates refer to admissions, investigations, or planned follow‑ups without medication changes."
+  },
+  "295_Ayebazibwe": {
+    "visit_count": 3,
+    "visit_dates": [
+      "17/10/2019",
+      "02/03/2020",
+      "25/01/2021"
+    ],
+    "notes": "All three visits correspond to the official 0‑, 6‑, and 12‑month follow‑ups. No extra clinic visits with medication changes were found. Dates have been normalized to dd/mm/yyyy format."
+  },
+  "296_Kulumba Jeremiah": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2019-10-17",
+      "2020-06-25",
+      "2021-02-25"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) were identified. No additional clinic visits with medication changes were found; scheduled review dates (2/11/2019 and 20/5/2021) are follow‑up appointments without prescription changes and are not counted as extra visits."
+  },
+  "297_Binomugisha Louis": {
+    "visit_count": 3,
+    "visit_dates": [
+      "24/10/2019",
+      "17/02/2020",
+      "22/04/2021"
+    ],
+    "notes": "Only the three official visits are documented. No additional clinic visits with medication changes were found; the medication adjustments (dose changes) occurred within the scheduled 0‑, 6‑, and 12‑month visits. Dates are taken from the official visit records and are already consistent."
+  },
+  "298_Gitta Ryan": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2019-11-28",
+      "2021-03-04",
+      "2021-05-20"
+    ],
+    "notes": "The first visit had a typo in the narrative date (31/11/2019, which is invalid). The official recorded date 2019-11-28 was used as the correct visit date. No additional visits with medication changes were identified beyond the three official visits."
+  },
+  "299_Serunjogi Ibrahim": {
+    "visit_count": 3,
+    "visit_dates": [
+      "31/10/2019",
+      "02/06/2022",
+      "07/07/2022"
+    ],
+    "notes": "The official 6‑month visit is recorded as 02/06/2022, which is more than two years after the initial visit (31/10/2019). No clear typographical error could be resolved from the context, so the date is kept as documented. No additional clinic visits with medication changes were identified beyond the three official visits."
+  },
+  "300_Kitata Abigail": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2020-12-10",
+      "2022-06-20",
+      "2022-09-05"
+    ],
+    "notes": "The record contains three official visits (0, 6, and 12 months) with clear ISO dates. A conflicting date '04/11/19' appears in the narrative of Visit 1, but the official visit date is 2020-12-10, which is used. No additional clinic visits with medication changes were identified beyond the official visits."
+  },
+  "301_Nayebale Hero": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2019-11-07",
+      "2019-11-21",
+      "2020-11-27"
+    ],
+    "notes": "The record contains the three required official visits (0, 6, and 12 months) with dates 07/11/2019, 21/11/2019, and 27/11/2020. No additional clinic visits involving medication changes were identified beyond these official visits. The 6‑month visit date appears earlier than a true 6‑month interval, but it is retained as the documented official visit."
+  },
+  "302_Kisakye Godwin": {
+    "visit_count": 4,
+    "visit_dates": [
+      "2019-11-14",
+      "2020-07-16",
+      "2021-01-25",
+      "2022-01-10"
+    ],
+    "notes": "Included the three official visits (0, 6, 12 months) and one extra visit on 16/07/2020 because the note records a change in Sodium Valproate dosing (120 mg AM, 200 mg nocte) compared to the initial regimen. No other extra visits involved medication changes. Dates have been normalized to ISO format (YYYY-MM-DD)."
+  },
+  "303_Mayanja Farid": {
+    "visit_count": 4,
+    "visit_dates": [
+      "14/11/2019",
+      "31/08/2020",
+      "22/02/2021",
+      "16/09/2021"
+    ],
+    "notes": "One extra clinic visit (31/08/2020) was identified because it included medication changes (addition of Baclofen, Ondansetron, Aristozyme, Grovit drops, Flucamox). All other visits are the three official visits at 0, 6, and 12 months. Dates were normalized to DD/MM/YYYY format; no typographical errors required correction."
+  },
+  "304_Nduga Rodney Nickson": {
+    "visit_count": 3,
+    "visit_dates": [
+      "18/11/2019",
+      "17/02/2020",
+      "18/05/2020"
+    ],
+    "notes": "Only the three official clinic visits (0, 6, and 12 months) are present. No additional clinic visits with medication changes were identified. Admission dates and investigation dates were excluded. All dates are corrected to a consistent dd/mm/yyyy format."
+  },
+  "305_Nantongo Jemia": {
+    "visit_count": 3,
+    "visit_dates": [
+      "21/11/2019",
+      "23/07/2020",
+      "21/01/2021"
+    ],
+    "notes": "All three official visits (0, 6, and 12 months) are included. No extra clinic visits with medication changes were identified in the merged notes."
+  },
+  "306_Mustakim Abdi": {
+    "visit_count": 3,
+    "visit_dates": [
+      "21/11/2019",
+      "18/06/2020",
+      "04/02/2021"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) involve medication changes. The review date mentioned on 13/08/2020 is a scheduled follow‑up without a documented prescription change, so it is not counted as an extra visit."
+  },
+  "307_Sembatya Tian": {
+    "visit_count": 3,
+    "visit_dates": [
+      "21/11/2019",
+      "06/02/2020",
+      "17/12/2020"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) involved medication changes. No additional clinic visits with drug plan changes were identified. All dates are taken from the official visit records and are already in correct format."
+  },
+  "308_Mubiru Godwin": {
+    "visit_count": 3,
+    "visit_dates": [
+      "28/11/2019",
+      "11/06/2020",
+      "03/12/2020"
+    ],
+    "notes": "Only the three official visits are present. No additional clinic visits with medication changes were identified. All dates are consistent; no typos detected."
+  },
+  "309_Namukula Abigail": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2019-11-28",
+      "2021-02-24",
+      "2021-11-18"
+    ],
+    "notes": "The official 6‑month visit is dated 24/02/2021, which is 15 months after the baseline visit (28/11/2019). The narrative mentions a long gap and a visit in January of the previous year, suggesting the date is correct despite the interval mismatch. No additional clinic visits with medication changes were identified beyond the three official visits."
+  },
+  "310_Lugemwa Emma": {
+    "visit_count": 3,
+    "visit_dates": [
+      "09/12/2019",
+      "13/02/2020",
+      "11/02/2021"
+    ],
+    "notes": "No extra visits with medication changes identified. EEG date (06/12/2019) and TCA dates (07/01/2020, 13/04/2020, 11/03/2021) are investigations or routine follow‑ups without prescription changes."
+  },
+  "311_Dambia Samuel": {
+    "visit_count": 3,
+    "visit_dates": [
+      "09/12/2019",
+      "06/07/2020",
+      "01/02/2021"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) involved medication changes. The scheduled review on 27/01/2020 and the TCA follow‑up on 05/10/2020 did not include any drug plan changes, so they are not counted as extra visits."
+  },
+  "312_Hussein Adila": {
+    "visit_count": 3,
+    "visit_dates": [
+      "12/12/2019",
+      "29/06/2020",
+      "07/01/2021"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) were identified. No additional clinic visits with medication changes were found in the record. Dates are taken from the official visit entries and are already consistent; no corrections were needed."
+  },
+  "313_Akena Christopher": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2019-12-16",
+      "2020-05-11",
+      "2021-04-08"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are present. No additional clinic visits with medication changes were identified; the dates listed as TCA are scheduled follow‑up appointments, not separate visits."
+  },
+  "314_Kitibwa Hussein": {
+    "visit_count": 3,
+    "visit_dates": [
+      "19/12/2019",
+      "30/11/2020",
+      "25/03/2021"
+    ],
+    "notes": "Only the three official visits were documented. No additional clinic visits with medication changes were identified. The scheduled review on 20/01/2020 was mentioned but no details of a visit or drug change were provided, so it is not counted as an extra visit."
+  },
+  "315_KITIBWA HUSSEIN": {
+    "visit_count": 3,
+    "visit_dates": [
+      "19/12/2019",
+      "30/11/2020",
+      "25/03/2021"
+    ],
+    "notes": "All three official visits (0, 6, 12 months) are included. The second visit is labeled as the 6‑month follow‑up but the recorded date is 30/11/2020, which is later than 6 months after the first visit (expected ~June 2020). No additional clinic visits with medication changes were documented beyond the official visits."
+  },
+  "316_Kara Moses": {
+    "visit_count": 3,
+    "visit_dates": [
+      "19/12/2019",
+      "04/01/2021",
+      "12/01/2023"
+    ],
+    "notes": "Only the three official visits are documented. No additional clinic visits with medication changes were found. Future review dates (10/02/2020, 22/03/2021) are not actual visits and are therefore excluded."
+  },
+  "317_Nantume Shabila": {
+    "visit_count": 3,
+    "visit_dates": [
+      "11/01/2018",
+      "15/11/2018",
+      "29/10/2020"
+    ],
+    "notes": "The record contains three official visits (0, 6, and 12 months) on 11/01/2018, 15/11/2018, and 29/10/2020. An additional date (13/05/2018) appears but no medication change is documented, so it is not counted as an extra visit. All dates are formatted as dd/mm/yyyy."
+  },
+  "318_Mwanje Haitham Alisla": {
+    "visit_count": 3,
+    "visit_dates": [
+      "22/02/2018",
+      "23/08/2018",
+      "03/02/2019"
+    ],
+    "notes": "The third official visit was recorded as 2020-02-03, which is inconsistent with the 12‑month follow‑up schedule (should be ~Feb 2019). Based on the timeline (0‑month visit Feb 2018, 6‑month visit Aug 2018), the year was corrected to 2019. No additional clinic visits involved medication changes, so only the three official visits are counted."
+  },
+  "319_Lukyamuzi Surao": {
+    "visit_count": 3,
+    "visit_dates": [
+      "22/02/2018",
+      "17/09/2018",
+      "06/05/2019"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) involve medication changes. No additional clinic visits with drug plan changes were identified. The EEG date and planned future medication start dates are not visits. All dates appear correct; no typos detected."
+  },
+  "320_Nakibirango Calvin": {
+    "visit_count": 3,
+    "visit_dates": [
+      "26/02/2018",
+      "30/07/2018",
+      "08/07/2019"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are present. No additional clinic visits with medication changes were identified. The EEG date (12/03/2018) is an investigation, not a visit. All dates were corrected to a consistent dd/mm/yyyy format."
+  },
+  "321_Abdiaz Abdulah": {
+    "visit_count": 3,
+    "visit_dates": [
+      "28/02/2018",
+      "07/05/2018",
+      "16/05/2019"
+    ],
+    "notes": "All three visits are official (0, 6, and 12 months) and each includes a medication change. No extra clinic visits with drug plan changes were found in the merged notes."
+  },
+  "322_Serwadda Jordan": {
+    "visit_count": 3,
+    "visit_dates": [
+      "25/10/2018",
+      "25/04/2019",
+      "06/02/2020"
+    ],
+    "notes": "The official 6‑month visit was recorded with the same date as the baseline visit (25/10/2018), which is clearly a data entry error. Based on the intended 6‑month interval, the date was corrected to 25/04/2019. No additional clinic visits involved medication changes; the only other mentioned follow‑up (13/12/2018) did not include a drug plan change, so it is not counted as an extra visit."
+  },
+  "323_Walusimbi David": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2018-03-01",
+      "2018-10-18",
+      "2019-08-22"
+    ],
+    "notes": "All medication changes occurred during the three official visits (0, 6, and 12 months). No additional clinic visits with drug plan changes were identified. Dates are consistent and required no correction."
+  },
+  "324_Matovu Albert": {
+    "visit_count": 3,
+    "visit_dates": [
+      "13/12/2018",
+      "30/05/2019",
+      "14/02/2020"
+    ],
+    "notes": "Corrected Visit 1 date: official date listed as 2018-03-12 appears to be a typo; narrative states 13/12/2018 and age matches this later date, so used 13/12/2018. No additional visits involved medication changes, so only the three official visits are counted."
+  },
+  "325_Nassamula Mildred": {
+    "visit_count": 4,
+    "visit_dates": [
+      "15/03/2018",
+      "27/09/2018",
+      "02/05/2019",
+      "31/10/2019"
+    ],
+    "notes": "The note dated 27/09/2018 within the first visit includes a change in Sodium Valproate dosage (50 mg OD) compared to the initial prescription (100 mg OD), indicating a distinct clinic encounter. It is therefore counted as an extra visit. All other dates are official 0‑, 6‑, and 12‑month visits. No other dates represent medication changes; routine review dates (e.g., 17/12/2018) and investigation dates are excluded."
+  },
+  "326_Naluminsa Gabriella": {
+    "visit_count": 3,
+    "visit_dates": [
+      "15/03/2018",
+      "30/07/2018",
+      "08/04/2019"
+    ],
+    "notes": "All three official visits are recorded. No additional clinic visits with medication changes were identified. Dates are consistent; no typos detected."
+  },
+  "327_Ssekamatta Darlene Rose": {
+    "visit_count": 3,
+    "visit_dates": [
+      "14/03/2018",
+      "13/01/2022",
+      "03/02/2022"
+    ],
+    "notes": "All three visits are the official 0‑, 6‑, and 12‑month visits. No extra clinic visits with medication changes were identified in the record."
+  },
+  "328_Museryuzi Emmanuel": {
+    "visit_count": 3,
+    "visit_dates": [
+      "15/03/2018",
+      "16/08/2018",
+      "08/08/2019"
+    ],
+    "notes": "All medication changes (dose adjustments) occurred during the three official visits. No additional clinic visits with drug plan changes were identified. Dates are formatted as dd/mm/yyyy."
+  },
+  "329_Nabbanja Bushira": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2018-03-22",
+      "2018-07-23",
+      "2019-05-27"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) are documented. No additional clinic visits with medication changes were found; mentions of future appointments (e.g., 27/08/2018, 30/09/2019) are not actual visits. All dates are consistent; no typos required correction."
+  },
+  "330_Ecneet Benjamin": {
+    "visit_count": 3,
+    "visit_dates": [
+      "23/03/2018",
+      "01/11/2018",
+      "09/01/2020"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) were documented. No additional clinic visits with medication changes were identified in the record. All dates were consistent; no typographical errors required correction."
+  },
+  "331_Nakato Nashim": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2018-01-25",
+      "2018-10-15",
+      "2019-01-28"
+    ],
+    "notes": "Only the three official visits (0, 6, 12 months) are present. No additional clinic visits with medication changes were identified; other dates mentioned (e.g., TCA dates, review on 15/04/2019) relate to therapy or routine review without drug changes. Dates are taken as recorded; no obvious typographical errors required correction."
+  },
+  "332_Angel Jeskin": {
+    "visit_count": 3,
+    "visit_dates": [
+      "01/02/2018",
+      "11/04/2019",
+      "27/02/2020"
+    ],
+    "notes": "Only the three official visits (0, 6, and 12 months) involved medication changes. An additional date (11/10/18) appears in the notes but no drug regimen change occurred, so it is not counted as an extra visit. All dates have been normalized to dd/mm/yyyy format."
+  },
+  "333_Murungi Isaac": {
+    "visit_count": 3,
+    "visit_dates": [
+      "2019-09-05",
+      "2019-12-05",
+      "2020-10-08"
+    ],
+    "notes": "All three official visits (0, 6, and 12 months) are counted. No additional clinic visits with medication changes were identified. Dates are consistent and required no correction."
+  },
+  "334_Biribwa Afreen": {
+    "visit_count": 3,
+    "visit_dates": [
+      "05/09/2019",
+      "20/02/2020",
+      "10/12/2020"
+    ],
+    "notes": "An additional date (17/10/2019) appears in the notes, but it only documents a routine review with continuation of the same Sodium Valproate dose and no medication change, so it is not counted as an extra visit. All other dates are either investigations or part of the official 0‑, 6‑, and 12‑month visits."
+  }
+}

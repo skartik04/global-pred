@@ -1,0 +1,5929 @@
+{
+  "1_Nanyonga Aisha": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "2_Mwania Sheldon": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate",
+        "levetiracetam"
+      ],
+      "stopped": []
+    }
+  },
+  "5_Nalumu Martha": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "8_Tisma Natabi": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "10_Muduku Matthew": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate",
+        "levetiracetam"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate",
+        "levetiracetam"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate",
+        "levetiracetam"
+      ],
+      "stopped": []
+    }
+  },
+  "11_Lupuia Michael": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "13_Hikima Rautha": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "14_Mulungi Jemimah": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "15_Moses Zinabala": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "19_Kimuli Aksam": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": [
+        "phenobarbital"
+      ]
+    },
+    "Visit_2": {
+      "prescribed": [
+        "levetiracetam",
+        "carbamazepine"
+      ],
+      "stopped": [
+        "valproate"
+      ]
+    },
+    "Visit_3": {
+      "prescribed": [
+        "levetiracetam",
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "20_Ainebyona David": {
+    "Visit_1": {
+      "prescribed": [],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "21_Valencia Wasswa": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate",
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate",
+        "levetiracetam"
+      ],
+      "stopped": [
+        "carbamazepine"
+      ]
+    }
+  },
+  "22_Awor Veronica": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "23_Namayanja Shuhaira": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "24_Nangobi Jazmine": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "25_Sentongo Edrien": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "26_Nalweyiso Zahara": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "27_kiwujjo Micheal": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "29_Malik Wongho": {
+    "Visit_1": {
+      "prescribed": [
+        "clobazam",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "clobazam",
+        "valproate",
+        "levetiracetam"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "clobazam",
+        "valproate",
+        "levetiracetam"
+      ],
+      "stopped": []
+    }
+  },
+  "30_Magezi Walter": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate",
+        "levetiracetam"
+      ],
+      "stopped": []
+    }
+  },
+  "31_Baita Christian": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine",
+        "phenobarbital"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": [
+        "phenobarbital"
+      ]
+    }
+  },
+  "33_Nakalyango Nicole": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "34_Semakula Miracle": {
+    "Visit_1": {
+      "prescribed": [],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "35_Nanyanzi Victoria": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "37_Tamale Jonathan": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "38_Nansera George": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "39_Najjemba Christine": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": [
+        "valproate"
+      ]
+    }
+  },
+  "40_Nankya Favour": {
+    "Visit_1": {
+      "prescribed": [
+        "levetiracetam"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "levetiracetam"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "levetiracetam"
+      ],
+      "stopped": []
+    }
+  },
+  "41_Muvunyi Dvir": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "levetiracetam"
+      ],
+      "stopped": []
+    }
+  },
+  "42_Nabagala Hellen": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "43_Babirye Joan": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "44_Nakidde Zoe": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "46_Kabonge Aaron": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "47_Mugisha Silver": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "48_Mukisa Jeremiah": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "49_Magezi Jeremiah": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "50_Talindeka Jeremiah": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [],
+      "stopped": [
+        "valproate"
+      ]
+    }
+  },
+  "52_Ssemwogerere Farid": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "53_Bukenya Patrick": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "54_Sekito Abdulhakim": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "55_Semwanga Raphael": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [],
+      "stopped": [
+        "valproate"
+      ]
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "56_Masanso Wallace": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "57_Pirwot Travis": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "58_Sekyeru Jeremiah": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate",
+        "carbamazepine",
+        "clobazam",
+        "phenobarbital"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "clobazam",
+        "valproate",
+        "phenobarbital"
+      ],
+      "stopped": [
+        "carbamazepine"
+      ]
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "phenobarbital",
+        "valproate"
+      ],
+      "stopped": [
+        "clobazam"
+      ]
+    }
+  },
+  "59_Adikin Kerin": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "60_Kabenge Rayan": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "61_Nakate Liza": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "topiramate",
+        "valproate"
+      ],
+      "stopped": [
+        "carbamazepine"
+      ]
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate",
+        "topiramate"
+      ],
+      "stopped": []
+    }
+  },
+  "62_Bros Collins": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "63_Buyinza Alex": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "65_Kasana Aidah": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "66_Semakula Nation": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "67_Ssenyonjo Waswa": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate",
+        "clobazam"
+      ],
+      "stopped": [
+        "carbamazepine"
+      ]
+    },
+    "Visit_3": {
+      "prescribed": [],
+      "stopped": [
+        "clobazam",
+        "valproate"
+      ]
+    }
+  },
+  "68_Mpagi Mohammed": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "69_Ainembabazi Prosper": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "70_Namukose Mary": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate",
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "71_Nabbossa Meghan": {
+    "Visit_1": {
+      "prescribed": [
+        "levetiracetam",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": [
+        "levetiracetam"
+      ]
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "72_Nalusiba Sandra": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": [
+        "carbamazepine"
+      ]
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "75_Nakabuye Swahih": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "78_Katamba Druscilla": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "79_Dalton Nakimbugwe": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "80_Ssubi Adrian Jolline": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine",
+        "ethosuximide"
+      ],
+      "stopped": [
+        "valproate"
+      ]
+    },
+    "Visit_3": {
+      "prescribed": [
+        "ethosuximide",
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "82_Shadin Rajat": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "83_Ahmed Mohamed Abdulkadir": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine",
+        "phenobarbital",
+        "valproate"
+      ],
+      "stopped": [
+        "lamotrigine"
+      ]
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": [
+        "phenobarbital",
+        "valproate"
+      ]
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "84_Andwaniira Emmanuel": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "85_Mirembe Mercy": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate",
+        "phenobarbital"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate",
+        "phenobarbital"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": [
+        "phenobarbital"
+      ]
+    }
+  },
+  "87_Isingoma Creven": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "88_Kamoga Joseph": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "89_Lukwago Benjamin": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "90_Odongo Moses": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate",
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "91_Kirabo Emmanuel": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "92_Rubangakene Bright": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "96_Ayan Nicholas": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "97_Ahimbisibwe Keron": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate",
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine",
+        "phenobarbital"
+      ],
+      "stopped": [
+        "valproate"
+      ]
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": [
+        "phenobarbital"
+      ]
+    }
+  },
+  "98_Magalo Imran": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "99_Akol Precious": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "101_Osukira Josiah": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "102_Mulungi Rodney": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate",
+        "carbamazepine",
+        "clobazam"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine",
+        "clobazam",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [],
+      "stopped": [
+        "carbamazepine",
+        "clobazam",
+        "valproate"
+      ]
+    }
+  },
+  "103_Ssempala Ian": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "104_Ssenfuka Benjamin": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate",
+        "clobazam"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "clobazam",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate",
+        "clonazepam"
+      ],
+      "stopped": [
+        "clobazam"
+      ]
+    }
+  },
+  "105_Babirye Zawujja": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "106_Senyondo Ian": {
+    "Visit_1": {
+      "prescribed": [
+        "levetiracetam",
+        "lamotrigine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "levetiracetam",
+        "lamotrigine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "levetiracetam",
+        "lamotrigine"
+      ],
+      "stopped": []
+    }
+  },
+  "107_Ismahan Mahad": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "clobazam",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": [
+        "clobazam"
+      ]
+    }
+  },
+  "109_Nakazi Hope": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine",
+        "lamotrigine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": [
+        "lamotrigine"
+      ]
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "110_Manozi Angella": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "111_Nalubega Darphine": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": [
+        "carbamazepine"
+      ]
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "112_Kabenge Rayan": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "113_Mbabazi Martha": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "114_Iratukunda Danita": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "115_Mugwanya Loijo": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "116_Nansubuga Angel": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "117_Muyingo Shammah": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine",
+        "levetiracetam"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine",
+        "levetiracetam"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "levetiracetam",
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "118_Ssebadduka Derrick": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "119_Odur Hillary": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate",
+        "levetiracetam"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": [
+        "levetiracetam"
+      ]
+    }
+  },
+  "120_Tumaebaze Emmanuel": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "121_Kitaka Raymond": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "122_Tabuzibwa Benjamin": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "124_Afaayo Francis": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate",
+        "levetiracetam"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate",
+        "levetiracetam"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate",
+        "levetiracetam"
+      ],
+      "stopped": []
+    }
+  },
+  "125_Arame Hirwe Ayan": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [],
+      "stopped": [
+        "valproate"
+      ]
+    }
+  },
+  "126_Ayebale Shilla": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate",
+        "levetiracetam",
+        "lamotrigine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate",
+        "levetiracetam",
+        "lamotrigine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate",
+        "levetiracetam"
+      ],
+      "stopped": [
+        "lamotrigine"
+      ]
+    }
+  },
+  "127_Nakawesi Jamirah": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "128_Malukwago Joan Angel": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "129_Nakiranda Prisca": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "130_Mukasa Rajab": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "131_Muwanguzi Blessed Serugga": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine",
+        "levetiracetam"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [],
+      "stopped": [
+        "carbamazepine",
+        "levetiracetam"
+      ]
+    },
+    "Visit_3": {
+      "prescribed": [
+        "levetiracetam",
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "132_Naiga Joy": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [],
+      "stopped": [
+        "carbamazepine",
+        "valproate"
+      ]
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "lamotrigine"
+      ],
+      "stopped": []
+    }
+  },
+  "133_Nsamba Ethan": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "134_Nomuhangi Daniel": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "135_Best Betina": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "136_Ssejjengo Hashim": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "138_Aronda Alban": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "140_Bayiga Shama": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": [
+        "carbamazepine"
+      ]
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "142_Onyero Rogers": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate",
+        "clobazam"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate",
+        "clobazam"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate",
+        "clobazam"
+      ],
+      "stopped": []
+    }
+  },
+  "143_Mwanje Frankline": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "144_Isambira Prosper": {
+    "Visit_1": {
+      "prescribed": [
+        "clonazepam",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate",
+        "clonazepam"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate",
+        "clonazepam"
+      ],
+      "stopped": []
+    }
+  },
+  "145_Muhimbise Blessing": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine",
+        "levetiracetam"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": [
+        "levetiracetam"
+      ]
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "146_Kigenyi Fred": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "147_Matovu Trinah": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "148_Mayengo Bernard": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": [
+        "carbamazepine"
+      ]
+    }
+  },
+  "149_Kizito Enock": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate",
+        "topiramate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate",
+        "topiramate",
+        "clobazam"
+      ],
+      "stopped": []
+    }
+  },
+  "150_Tumwebaze Emmanuel": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "151_Nassali Ronita": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "152_Mubangizi Elizabeth": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "153_Kakande Huzaifa": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate",
+        "clonazepam",
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": [
+        "clonazepam"
+      ]
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate",
+        "clonazepam"
+      ],
+      "stopped": []
+    }
+  },
+  "154_Rubangakene Joseph": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "155_Numazi Shamirah": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "156_Irumba Peter": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate",
+        "clobazam"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": [
+        "clobazam"
+      ]
+    }
+  },
+  "157_Odong Raphael": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate",
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "158_Namugalu Shatra": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "160_Arinda Robinson": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "161_Alonyo Ellijah": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "163_Nalubwama Jacinta": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "164_Adadi Bwanika": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "165_Nakalanzi Hafswa": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "167_Asiimwe Roland": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "levetiracetam",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate",
+        "levetiracetam"
+      ],
+      "stopped": []
+    }
+  },
+  "168_Kato Paul": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "169_Senyange Jethro": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "170_Kobugabe Claire": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "171_Afaayo Francis": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate",
+        "levetiracetam"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate",
+        "levetiracetam"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate",
+        "levetiracetam"
+      ],
+      "stopped": []
+    }
+  },
+  "172_Kansiime Nihalo": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "174_Oming Stephen": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "175_Nsimbi Ethan": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "176_Kantiti Jormaine": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate",
+        "clobazam"
+      ],
+      "stopped": []
+    }
+  },
+  "177_Natukunda Promise": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [],
+      "stopped": [
+        "carbamazepine",
+        "valproate"
+      ]
+    }
+  },
+  "178_Muganguzi Jonathan": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "179_Nasirwa Halima": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "180_Agasha Raphaella": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "181_Tumuramye Calvin": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "182_Lubega Joel": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "183_Zimula Hilamu": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "184_Kasujja Imran": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "185_Nakiwala Patricia": {
+    "Visit_1": {
+      "prescribed": [
+        "clobazam",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate",
+        "clobazam"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "clobazam",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "186_Ndawula Jarius": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "190_Ssentongo Joseph": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "191_Afoyoa Alvin": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "192_Namubiru Alia": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "194_Kamugisha Anthony": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate",
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": [
+        "carbamazepine"
+      ]
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "195_Tebandeka Abubaker": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "196_Kigozi David": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate",
+        "topiramate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": [
+        "topiramate"
+      ]
+    }
+  },
+  "197_Mukisa Fagil": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "198_Ahumuza Rodin": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "199_Mayamba Jedidah": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "200_Wasswa Sembatya": {
+    "Visit_1": {
+      "prescribed": [],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "202_Kasule Amil": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "203_Sadat Gitta": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "204_Nalusiba Parvin": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "205_Kirabo Hilda": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "206_Nuwahereza Peterson": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "207_Namiro Hadija": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "208_Luyomba Miracle": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "209_Semwogerere Annul": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "210_Kitabwa Jonathan": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "clonazepam",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "212_Akuzizibwe Jemuel": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "213_Sinyoli Cyrus": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "216_Rukundo Jeremiah": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate",
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": [
+        "carbamazepine"
+      ]
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "217_Koloba Steven": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "218_Katende Gideon": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "219_Magala Jovan": {
+    "Visit_1": {
+      "prescribed": [],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "221_Baalimira Jaunice": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "222_Kisakye Samuel": {
+    "Visit_1": {
+      "prescribed": [],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "223_Kasozi Elijah": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "224_Mukama Sadat": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate",
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "225_Namatovu Matilda": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": [
+        "lamotrigine"
+      ]
+    },
+    "Visit_2": {
+      "prescribed": [
+        "lamotrigine"
+      ],
+      "stopped": [
+        "carbamazepine"
+      ]
+    },
+    "Visit_3": {
+      "prescribed": [
+        "lamotrigine"
+      ],
+      "stopped": []
+    }
+  },
+  "227_Muluwaya Arnold": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "229_Katumba Patrick": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine",
+        "levetiracetam"
+      ],
+      "stopped": [
+        "lamotrigine"
+      ]
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine",
+        "levetiracetam"
+      ],
+      "stopped": [
+        "lamotrigine"
+      ]
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "levetiracetam"
+      ],
+      "stopped": []
+    }
+  },
+  "230_Okipi Elijah": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "231_Kayondo Mesach": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate",
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate",
+        "topiramate"
+      ],
+      "stopped": [
+        "carbamazepine"
+      ]
+    }
+  },
+  "232_Nanungi Teddy": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "233_Nabunje Shivan": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "234_Ssekalongo Malcom": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "235_Sseremba Ibra": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "237_Ssemukasa Sadam": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "238_Kunguvu Moses": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate",
+        "clonazepam"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "clonazepam",
+        "carbamazepine"
+      ],
+      "stopped": [
+        "valproate"
+      ]
+    }
+  },
+  "239_Katende Ashim": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "240_Babirye Atuhaire": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "241_Nakagera Rhama": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": [
+        "valproate"
+      ]
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "242_Nsaduli Sharef": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "243_Nakyanzi Shalwa": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "244_Mirembe Tabitha": {
+    "Visit_1": {
+      "prescribed": [],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [],
+      "stopped": [
+        "valproate"
+      ]
+    },
+    "Visit_3": {
+      "prescribed": [],
+      "stopped": []
+    }
+  },
+  "245_Naka Wunde Ruth": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "246_Muwanguzi Marc Joseph": {
+    "Visit_1": {
+      "prescribed": [
+        "phenobarbital"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": [
+        "phenobarbital"
+      ]
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": [
+        "valproate"
+      ]
+    }
+  },
+  "247_Namutebi Shilat": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "248_Nanozi Phiona": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine",
+        "phenytoin"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine",
+        "phenytoin"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "phenytoin"
+      ],
+      "stopped": []
+    }
+  },
+  "249_Abubaker Amina": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "250_Sseruma Moses": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "251_Orwao Micheal": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "252_Semata Vikram": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "phenobarbital"
+      ],
+      "stopped": [
+        "valproate"
+      ]
+    }
+  },
+  "253_Kibirice Abbu": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "254_Mawazo Hanifa": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "phenytoin"
+      ],
+      "stopped": []
+    }
+  },
+  "255_AAMULURA PETER": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": [
+        "carbamazepine"
+      ]
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "256_Nkinzi Joyce": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "257_Nalubega Nashim": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "258_Nyakato Mary": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate",
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "259_Ayaan Abdrizak": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "levetiracetam",
+        "clobazam"
+      ],
+      "stopped": [
+        "carbamazepine"
+      ]
+    }
+  },
+  "260_Mukisa Elizabeth": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "261_Kahuma Joel": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "262_Mutyaba Derrick": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate",
+        "phenobarbital"
+      ],
+      "stopped": [
+        "carbamazepine"
+      ]
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": [
+        "phenobarbital"
+      ]
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "263_Nabukenya Abigail": {
+    "Visit_1": {
+      "prescribed": [
+        "phenobarbital",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": [
+        "phenobarbital"
+      ]
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "265_Kateregga David": {
+    "Visit_1": {
+      "prescribed": [
+        "phenobarbital"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": [
+        "phenobarbital"
+      ]
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "266_Ssebunya Hashim": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "267_Ampiire Claire": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "268_Serukera Bahati": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "269_Byamukama Morris": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "270_Namudoya Aidah": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": [
+        "phenobarbital"
+      ]
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "271_Isabirye Jeremih": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [],
+      "stopped": [
+        "valproate"
+      ]
+    }
+  },
+  "272_Ogol Jerry": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "273_Nakoni Martha": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": [
+        "carbamazepine"
+      ]
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "275_Naigaga Ramah": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "276_Keith Agaruva": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "lamotrigine",
+        "valproate"
+      ],
+      "stopped": [
+        "carbamazepine"
+      ]
+    },
+    "Visit_3": {
+      "prescribed": [
+        "lamotrigine",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "277_Jayden Manzi": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "279_Namirembe Hannah": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "280_Nakato Robinah": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "281_Kiyimba Joshua": {
+    "Visit_1": {
+      "prescribed": [
+        "phenobarbital",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "clonazepam",
+        "valproate"
+      ],
+      "stopped": [
+        "phenobarbital"
+      ]
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": [
+        "clonazepam"
+      ]
+    }
+  },
+  "283_Kasinivu Mustafa": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "284_Kanyange Fahiah": {
+    "Visit_1": {
+      "prescribed": [
+        "lamotrigine",
+        "valproate",
+        "topiramate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate",
+        "lamotrigine",
+        "topiramate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate",
+        "clobazam",
+        "lamotrigine"
+      ],
+      "stopped": [
+        "topiramate"
+      ]
+    }
+  },
+  "285_Nantongo Blessing": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate",
+        "levetiracetam"
+      ],
+      "stopped": []
+    }
+  },
+  "286_Kanyesubula Nicholas": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "288_Agonzibwa Trevor": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate",
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "phenobarbital",
+        "valproate"
+      ],
+      "stopped": [
+        "carbamazepine"
+      ]
+    }
+  },
+  "289_Luba Rahim": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "291_Anena Erica": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate",
+        "clonazepam"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate",
+        "clonazepam"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate",
+        "clonazepam"
+      ],
+      "stopped": []
+    }
+  },
+  "292_Kiwafu Luis": {
+    "Visit_1": {
+      "prescribed": [],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "293_Bahirwa Martha": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "294_Nawungi Shalom": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "295_Ayebazibwe": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine",
+        "ethosuximide"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": [
+        "ethosuximide"
+      ]
+    }
+  },
+  "296_Kulumba Jeremiah": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "297_Binomugisha Louis": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "298_Gitta Ryan": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate",
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "299_Serunjogi Ibrahim": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "300_Kitata Abigail": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "301_Nayebale Hero": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "304_Nduga Rodney Nickson": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate",
+        "phenobarbital"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "phenobarbital",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": [
+        "phenobarbital"
+      ]
+    }
+  },
+  "305_Nantongo Jemia": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": [
+        "valproate"
+      ]
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "levetiracetam"
+      ],
+      "stopped": []
+    }
+  },
+  "306_Mustakim Abdi": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "levetiracetam"
+      ],
+      "stopped": []
+    }
+  },
+  "307_Sembatya Tian": {
+    "Visit_1": {
+      "prescribed": [
+        "phenobarbital"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": [
+        "phenobarbital"
+      ]
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "308_Mubiru Godwin": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": [
+        "carbamazepine"
+      ]
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "309_Namukula Abigail": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "310_Lugemwa Emma": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "311_Dambia Samuel": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "312_Hussein Adila": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate",
+        "clobazam"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "lamotrigine",
+        "clobazam",
+        "levetiracetam",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "313_Akena Christopher": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "314_Kitibwa Hussein": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "315_KITIBWA HUSSEIN": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "316_Kara Moses": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "317_Nantume Shabila": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "318_Mwanje Haitham Alisla": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "319_Lukyamuzi Surao": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "320_Nakibirango Calvin": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine",
+        "phenobarbital"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine",
+        "phenobarbital"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": [
+        "carbamazepine",
+        "phenobarbital"
+      ]
+    }
+  },
+  "321_Abdiaz Abdulah": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "clobazam"
+      ],
+      "stopped": [
+        "valproate"
+      ]
+    },
+    "Visit_3": {
+      "prescribed": [
+        "clobazam"
+      ],
+      "stopped": []
+    }
+  },
+  "322_Serwadda Jordan": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "323_Walusimbi David": {
+    "Visit_1": {
+      "prescribed": [
+        "levetiracetam",
+        "clobazam"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "levetiracetam",
+        "valproate",
+        "clobazam"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "levetiracetam",
+        "valproate",
+        "clobazam"
+      ],
+      "stopped": []
+    }
+  },
+  "324_Matovu Albert": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "326_Naluminsa Gabriella": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    }
+  },
+  "327_Ssekamatta Darlene Rose": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": [
+        "carbamazepine"
+      ]
+    },
+    "Visit_3": {
+      "prescribed": [
+        "levetiracetam",
+        "carbamazepine"
+      ],
+      "stopped": [
+        "lamotrigine",
+        "valproate"
+      ]
+    }
+  },
+  "328_Museryuzi Emmanuel": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "329_Nabbanja Bushira": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "330_Ecneet Benjamin": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate",
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": [
+        "carbamazepine"
+      ]
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "331_Nakato Nashim": {
+    "Visit_1": {
+      "prescribed": [
+        "carbamazepine"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "carbamazepine",
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "332_Angel Jeskin": {
+    "Visit_1": {
+      "prescribed": [
+        "phenobarbital",
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": [
+        "phenobarbital"
+      ]
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  },
+  "333_Murungi Isaac": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate",
+        "phenobarbital"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate",
+        "phenobarbital"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate",
+        "phenobarbital"
+      ],
+      "stopped": []
+    }
+  },
+  "334_Biribwa Afreen": {
+    "Visit_1": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_2": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    },
+    "Visit_3": {
+      "prescribed": [
+        "valproate"
+      ],
+      "stopped": []
+    }
+  }
+}
